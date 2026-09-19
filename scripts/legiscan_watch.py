@@ -56,6 +56,33 @@ YEAR = os.environ.get("LEGISCAN_YEAR", "2")
 # Safety valve on getBill spend in a single run.
 DETAIL_CAP = int(os.environ.get("DETAIL_CAP", "500"))
 
+# LegiScan searches full bill text, so relevance alone lets through bills that
+# mention a phrase once in passing. Nothing is dropped for this reason. Instead
+# a bill is marked "primary" when one of these terms appears in its title or
+# description, and "secondary" when the match was buried in the text. Read the
+# secondary list, but read the primary list first.
+SUBJECT_TERMS = [
+    "skill game",
+    "game of skill",
+    "games of skill",
+    "amusement device",
+    "amusement machine",
+    "amusement wagering",
+    "coin-operated amusement",
+    "coin operated amusement",
+    "gray machine",
+    "grey machine",
+    "sweepstakes",
+    "dual currency",
+    "video gaming terminal",
+    "video gaming",
+    "gambling device",
+    "gaming device",
+    "slot machine",
+    "internet cafe",
+    "internet café",
+]
+
 MAX_PAGES = 10
 SEARCH_DELAY = 1.0
 BILL_DELAY = 0.4
@@ -129,21 +156,37 @@ def fetch_detail(bill_id):
     }
 
 
+def classify(detail):
+    """primary when the subject is in the title or description, else secondary."""
+    haystack = f"{detail.get('title', '')} {detail.get('description', '')}".lower()
+    hits = [term for term in SUBJECT_TERMS if term in haystack]
+    return ("primary" if hits else "secondary"), hits
+
+
 def merge(stub, detail):
     record = dict(detail)
+    tier, hits = classify(detail)
     record.update(
         {
             "bill_id": stub["bill_id"],
             "change_hash": stub["change_hash"],
             "relevance": stub["relevance"],
             "matched": sorted(set(stub["matched"])),
+            "tier": tier,
+            "subject_terms": hits,
         }
     )
     return record
 
 
 def sort_key(record):
-    return (record.get("state", ""), record.get("bill_number", ""), record.get("bill_id", ""))
+    """Primary tier first, then by state and bill number."""
+    return (
+        0 if record.get("tier") == "primary" else 1,
+        record.get("state", ""),
+        record.get("bill_number", ""),
+        record.get("bill_id", ""),
+    )
 
 
 def main():
@@ -213,8 +256,12 @@ def main():
         "detail_cap_hit": capped,
         "totals": {
             "matching": len(records),
+            "primary": sum(1 for r in records.values() if r["tier"] == "primary"),
+            "secondary": sum(1 for r in records.values() if r["tier"] == "secondary"),
             "new": len(new_ids),
+            "new_primary": sum(1 for b in new_ids if records[b]["tier"] == "primary"),
             "changed": len(changed_ids),
+            "changed_primary": sum(1 for b in changed_ids if records[b]["tier"] == "primary"),
             "no_longer_matching": len(disappeared),
         },
         "new": sorted((records[b] for b in new_ids), key=sort_key),
