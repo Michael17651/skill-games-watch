@@ -1,0 +1,44 @@
+name: LegiScan watch
+
+on:
+  schedule:
+    # 09:30 UTC = 5:30 AM Eastern during daylight saving time, Monday to Friday.
+    # This runs 30 minutes ahead of the 6:00 AM Claude scheduled tasks so the
+    # data file is fresh when they read it. After 1 November 2026 Eastern time
+    # loses DST and this becomes 4:30 AM local; change to "30 10" to hold 5:30.
+    - cron: "30 9 * * 1-5"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: legiscan-watch
+  cancel-in-progress: false
+
+jobs:
+  pull:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Pull LegiScan data
+        env:
+          LEGISCAN_API_KEY: ${{ secrets.LEGISCAN_API_KEY }}
+        run: python scripts/legiscan_watch.py
+
+      - name: Commit results
+        run: |
+          git config user.name "legiscan-watch"
+          git config user.email "actions@github.com"
+          git add data/
+          if git diff --staged --quiet; then
+            echo "No changes to commit."
+          else
+            git commit -m "LegiScan pull $(date -u +%Y-%m-%dT%H:%M:%SZ)"
+            git push
+          fi
