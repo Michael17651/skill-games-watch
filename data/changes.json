@@ -1,5 +1,5 @@
 {
-  "generated_utc": "2026-09-19T15:46:48+00:00",
+  "generated_utc": "2026-09-19T15:50:26+00:00",
   "first_run": false,
   "keywords": [
     "\"skill game\"",
@@ -18,8 +18,12 @@
   "detail_cap_hit": false,
   "totals": {
     "matching": 304,
+    "primary": 82,
+    "secondary": 222,
     "new": 0,
+    "new_primary": 0,
     "changed": 0,
+    "changed_primary": 0,
     "no_longer_matching": 0
   },
   "new": [],
