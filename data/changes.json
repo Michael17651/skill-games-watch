@@ -1,0 +1,4410 @@
+{
+  "generated_utc": "2026-09-19T15:36:39+00:00",
+  "first_run": true,
+  "keywords": [
+    "\"skill game\"",
+    "\"skill games\"",
+    "\"games of skill\"",
+    "\"amusement device\"",
+    "\"amusement machine\"",
+    "\"gray machine\"",
+    "\"sweepstakes\"",
+    "\"dual currency\"",
+    "\"sweepstakes casino\"",
+    "\"video gaming terminal\"",
+    "\"electronic gaming device\""
+  ],
+  "min_relevance": 40,
+  "totals": {
+    "matching": 304,
+    "new": 304,
+    "changed": 0,
+    "no_longer_matching": 0
+  },
+  "new": [
+    {
+      "bill_id": "2023783",
+      "change_hash": "2c1215718966c2710f1dd10555597ad0",
+      "state": "",
+      "bill_number": "",
+      "last_action": "",
+      "last_action_date": "",
+      "title": "",
+      "url": "",
+      "relevance": 100,
+      "matched": [
+        "\"amusement device\"",
+        "\"skill game\"",
+        "\"skill games\""
+      ]
+    },
+    {
+      "bill_id": "2052230",
+      "change_hash": "c1851732373d34d772ac3fd1b338ff8a",
+      "state": "",
+      "bill_number": "",
+      "last_action": "",
+      "last_action_date": "",
+      "title": "",
+      "url": "",
+      "relevance": 99,
+      "matched": [
+        "\"amusement device\"",
+        "\"skill game\"",
+        "\"skill games\""
+      ]
+    },
+    {
+      "bill_id": "2113319",
+      "change_hash": "edc30bf42198a9ebf07ba4c89cce8057",
+      "state": "",
+      "bill_number": "",
+      "last_action": "",
+      "last_action_date": "",
+      "title": "",
+      "url": "",
+      "relevance": 99,
+      "matched": [
+        "\"amusement device\"",
+        "\"skill game\"",
+        "\"skill games\""
+      ]
+    },
+    {
+      "bill_id": "2052975",
+      "change_hash": "b4b4c817593393911f47fef7609e96e6",
+      "state": "",
+      "bill_number": "",
+      "last_action": "",
+      "last_action_date": "",
+      "title": "",
+      "url": "",
+      "relevance": 99,
+      "matched": [
+        "\"amusement device\"",
+        "\"skill game\"",
+        "\"skill games\""
+      ]
+    },
+    {
+      "bill_id": "2037377",
+      "change_hash": "c426f7eadabad10ae8ff0faf511e97e1",
+      "state": "",
+      "bill_number": "",
+      "last_action": "",
+      "last_action_date": "",
+      "title": "",
+      "url": "",
+      "relevance": 99,
+      "matched": [
+        "\"amusement device\"",
+        "\"skill game\"",
+        "\"skill games\""
+      ]
+    },
+    {
+      "bill_id": "2030630",
+      "change_hash": "50cc0cd106d0755f42fb619a6289d032",
+      "state": "",
+      "bill_number": "",
+      "last_action": "",
+      "last_action_date": "",
+      "title": "",
+      "url": "",
+      "relevance": 99,
+      "matched": [
+        "\"skill game\"",
+        "\"skill games\"",
+        "\"video gaming terminal\""
+      ]
+    },
+    {
+      "bill_id": "1992322",
+      "change_hash": "09996443fbaecdcbfba576916239e57f",
+      "state": "",
+      "bill_number": "",
+      "last_action": "",
+      "last_action_date": "",
+      "title": "",
+      "url": "",
+      "relevance": 99,
+      "matched": [
+        "\"skill game\""
+      ]
+    },
+    {
+      "bill_id": "2086367",
+      "change_hash": "c9725fb762748ddb23075068460a20c8",
+      "state": "",
+      "bill_number": "",
+      "last_action": "",
+      "last_action_date": "",
+      "title": "",
+      "url": "",
+      "relevance": 99,
+      "matched": [
+        "\"amusement device\"",
+        "\"electronic gaming device\"",
+        "\"skill game\"",
+        "\"skill games\""
+      ]
+    },
+    {
+      "bill_id": "2081431",
+      "change_hash": "d94602d7bde573a3c7b01c10c50d509b",
+      "state": "",
+      "bill_number": "",
+      "last_action": "",
+      "last_action_date": "",
+      "title": "",
+      "url": "",
+      "relevance": 98,
+      "matched": [
+        "\"amusement device\"",
+        "\"electronic gaming device\"",
+        "\"skill game\"",
+        "\"skill games\""
+      ]
+    },
+    {
+      "bill_id": "2085777",
+      "change_hash": "902f3c9eb5f261e619339faf781d4542",
+      "state": "",
+      "bill_number": "",
+      "last_action": "",
+      "last_action_date": "",
+      "title": "",
+      "url": "",
+      "relevance": 98,
+      "matched": [
+        "\"amusement device\"",
+        "\"dual currency\"",
+        "\"skill game\"",
+        "\"skill games\"",
+        "\"sweepstakes\""
+      ]
+    },
+    {
+      "bill_id": "1975469",
+      "change_hash": "aab6faf5c3bb58fd237f9ab0be385557",
+      "state": "",
+      "bill_number": "",
+      "last_action": "",
+      "last_action_date": "",
+      "title": "",
+      "url": "",
+      "relevance": 96,
+      "matched": [
+        "\"skill game\""
+      ]
+    },
+    {
+      "bill_id": "1989922",
+      "change_hash": "524e4bf445d005136ab2c9feb5f8668b",
+      "state": "",
+      "bill_number": "",
+      "last_action": "",
+      "last_action_date": "",
+      "title": "",
+      "url": "",
+      "relevance": 94,
+      "matched": [
+        "\"skill game\""
+      ]
+    },
+    {
+      "bill_id": "1946932",
+      "change_hash": "48caa5c653c3d0feed4fe5160b19de4b",
+      "state": "",
+      "bill_number": "",
+      "last_action": "",
+      "last_action_date": "",
+      "title": "",
+      "url": "",
+      "relevance": 94,
+      "matched": [
+        "\"skill game\""
+      ]
+    },
+    {
+      "bill_id": "1957779",
+      "change_hash": "9bf1e4fb269ddbce14cb2e78f3f1959e",
+      "state": "",
+      "bill_number": "",
+      "last_action": "",
+      "last_action_date": "",
+      "title": "",
+      "url": "",
+      "relevance": 93,
+      "matched": [
+        "\"skill game\""
+      ]
+    },
+    {
+      "bill_id": "2133065",
+      "change_hash": "f6961baddd30b2d7589d9d585fbe86d4",
+      "state": "",
+      "bill_number": "",
+      "last_action": "",
+      "last_action_date": "",
+      "title": "",
+      "url": "",
+      "relevance": 93,
+      "matched": [
+        "\"skill game\""
+      ]
+    },
+    {
+      "bill_id": "2128197",
+      "change_hash": "f13991a1ed8d740d365177a15a44df46",
+      "state": "",
+      "bill_number": "",
+      "last_action": "",
+      "last_action_date": "",
+      "title": "",
+      "url": "",
+      "relevance": 93,
+      "matched": [
+        "\"skill game\""
+      ]
+    },
+    {
+      "bill_id": "2025322",
+      "change_hash": "73da88c920e7de37ef236c6b342bfce4",
+      "state": "",
+      "bill_number": "",
+      "last_action": "",
+      "last_action_date": "",
+      "title": "",
+      "url": "",
+      "relevance": 92,
+      "matched": [
+        "\"skill game\""
+      ]
+    },
+    {
+      "bill_id": "1975703",
+      "change_hash": "610f82142d500d13f18c4d6d43669ff9",
+      "state": "",
+      "bill_number": "",
+      "last_action": "",
+      "last_action_date": "",
+      "title": "",
+      "url": "",
+      "relevance": 91,
+      "matched": [
+        "\"skill game\""
+      ]
+    },
+    {
+      "bill_id": "1969986",
+      "change_hash": "9a8f6269c7a72931121a4ab5da73002d",
+      "state": "",
+      "bill_number": "",
+      "last_action": "",
+      "last_action_date": "",
+      "title": "",
+      "url": "",
+      "relevance": 91,
+      "matched": [
+        "\"skill game\""
+      ]
+    },
+    {
+      "bill_id": "2069903",
+      "change_hash": "7ad6e7232b5224b9243a5324c2552da3",
+      "state": "",
+      "bill_number": "",
+      "last_action": "",
+      "last_action_date": "",
+      "title": "",
+      "url": "",
+      "relevance": 81,
+      "matched": [
+        "\"amusement device\"",
+        "\"electronic gaming device\"",
+        "\"skill game\"",
+        "\"skill games\""
+      ]
+    },
+    {
+      "bill_id": "2085890",
+      "change_hash": "e2b32b07a157179cf3f962f2f2582337",
+      "state": "",
+      "bill_number": "",
+      "last_action": "",
+      "last_action_date": "",
+      "title": "",
+      "url": "",
+      "relevance": 81,
+      "matched": [
+        "\"amusement device\"",
+        "\"electronic gaming device\"",
+        "\"skill game\"",
+        "\"skill games\""
+      ]
+    },
+    {
+      "bill_id": "2070217",
+      "change_hash": "123f3fe2d00d9ce51f5b35faba92147b",
+      "state": "",
+      "bill_number": "",
+      "last_action": "",
+      "last_action_date": "",
+      "title": "",
+      "url": "",
+      "relevance": 81,
+      "matched": [
+        "\"amusement device\"",
+        "\"electronic gaming device\"",
+        "\"skill game\"",
+        "\"skill games\""
+      ]
+    },
+    {
+      "bill_id": "2085762",
+      "change_hash": "9b9c99f31b9afffbc39b3c904ddef9cf",
+      "state": "",
+      "bill_number": "",
+      "last_action": "",
+      "last_action_date": "",
+      "title": "",
+      "url": "",
+      "relevance": 79,
+      "matched": [
+        "\"amusement device\"",
+        "\"electronic gaming device\"",
+        "\"skill game\"",
+        "\"skill games\""
+      ]
+    },
+    {
+      "bill_id": "2133160",
+      "change_hash": "6d3ff346b2f0fc04d15f57573a478815",
+      "state": "",
+      "bill_number": "",
+      "last_action": "",
+      "last_action_date": "",
+      "title": "",
+      "url": "",
+      "relevance": 69,
+      "matched": [
+        "\"skill game\""
+      ]
+    },
+    {
+      "bill_id": "1915344",
+      "change_hash": "6dd9ac0844b78d4211226e70bee58f05",
+      "state": "",
+      "bill_number": "",
+      "last_action": "",
+      "last_action_date": "",
+      "title": "",
+      "url": "",
+      "relevance": 98,
+      "matched": [
+        "\"amusement device\"",
+        "\"games of skill\"",
+        "\"skill games\""
+      ]
+    },
+    {
+      "bill_id": "1956568",
+      "change_hash": "67af9d15fd565574b8807c4468256efa",
+      "state": "",
+      "bill_number": "",
+      "last_action": "",
+      "last_action_date": "",
+      "title": "",
+      "url": "",
+      "relevance": 98,
+      "matched": [
+        "\"amusement device\"",
+        "\"games of skill\"",
+        "\"skill games\"",
+        "\"video gaming terminal\""
+      ]
+    },
+    {
+      "bill_id": "1928404",
+      "change_hash": "4f83c21be6d307591124101168c8475a",
+      "state": "",
+      "bill_number": "",
+      "last_action": "",
+      "last_action_date": "",
+      "title": "",
+      "url": "",
+      "relevance": 98,
+      "matched": [
+        "\"games of skill\"",
+        "\"skill games\""
+      ]
+    },
+    {
+      "bill_id": "2108624",
+      "change_hash": "22fa847aed300557d70077a6aa411251",
+      "state": "",
+      "bill_number": "",
+      "last_action": "",
+      "last_action_date": "",
+      "title": "",
+      "url": "",
+      "relevance": 98,
+      "matched": [
+        "\"amusement device\"",
+        "\"games of skill\"",
+        "\"skill games\"",
+        "\"video gaming terminal\""
+      ]
+    },
+    {
+      "bill_id": "2152310",
+      "change_hash": "0fee13b333518d79d92ceda95980400f",
+      "state": "",
+      "bill_number": "",
+      "last_action": "",
+      "last_action_date": "",
+      "title": "",
+      "url": "",
+      "relevance": 97,
+      "matched": [
+        "\"electronic gaming device\"",
+        "\"skill games\"",
+        "\"video gaming terminal\""
+      ]
+    },
+    {
+      "bill_id": "2028934",
+      "change_hash": "c527695637cafe88370761add2402025",
+      "state": "",
+      "bill_number": "",
+      "last_action": "",
+      "last_action_date": "",
+      "title": "",
+      "url": "",
+      "relevance": 96,
+      "matched": [
+        "\"skill games\""
+      ]
+    },
+    {
+      "bill_id": "2137655",
+      "change_hash": "847f2cfc1b3ac854ba9831b7df28d44e",
+      "state": "",
+      "bill_number": "",
+      "last_action": "",
+      "last_action_date": "",
+      "title": "",
+      "url": "",
+      "relevance": 96,
+      "matched": [
+        "\"skill games\""
+      ]
+    },
+    {
+      "bill_id": "1985290",
+      "change_hash": "df9861cda5610dd13ee1e6f75df67c43",
+      "state": "",
+      "bill_number": "",
+      "last_action": "",
+      "last_action_date": "",
+      "title": "",
+      "url": "",
+      "relevance": 93,
+      "matched": [
+        "\"skill games\""
+      ]
+    },
+    {
+      "bill_id": "2122932",
+      "change_hash": "5b560b8a4617c770da5076509b6ea600",
+      "state": "",
+      "bill_number": "",
+      "last_action": "",
+      "last_action_date": "",
+      "title": "",
+      "url": "",
+      "relevance": 93,
+      "matched": [
+        "\"skill games\""
+      ]
+    },
+    {
+      "bill_id": "1983068",
+      "change_hash": "6d03559be1a3f5c0fdfeb8678c41f129",
+      "state": "",
+      "bill_number": "",
+      "last_action": "",
+      "last_action_date": "",
+      "title": "",
+      "url": "",
+      "relevance": 100,
+      "matched": [
+        "\"games of skill\""
+      ]
+    },
+    {
+      "bill_id": "2045709",
+      "change_hash": "1b3b662806ee03fc0acbf246c23d427e",
+      "state": "",
+      "bill_number": "",
+      "last_action": "",
+      "last_action_date": "",
+      "title": "",
+      "url": "",
+      "relevance": 99,
+      "matched": [
+        "\"games of skill\""
+      ]
+    },
+    {
+      "bill_id": "1962574",
+      "change_hash": "7c3f69b41a66a3fc8f6a6d6af09bcce6",
+      "state": "",
+      "bill_number": "",
+      "last_action": "",
+      "last_action_date": "",
+      "title": "",
+      "url": "",
+      "relevance": 98,
+      "matched": [
+        "\"amusement device\"",
+        "\"games of skill\"",
+        "\"sweepstakes\"",
+        "\"video gaming terminal\""
+      ]
+    },
+    {
+      "bill_id": "1956672",
+      "change_hash": "8a92c17d3d238de8cbb5db9eb2e75a9d",
+      "state": "",
+      "bill_number": "",
+      "last_action": "",
+      "last_action_date": "",
+      "title": "",
+      "url": "",
+      "relevance": 98,
+      "matched": [
+        "\"amusement device\"",
+        "\"games of skill\"",
+        "\"sweepstakes\"",
+        "\"video gaming terminal\""
+      ]
+    },
+    {
+      "bill_id": "1958043",
+      "change_hash": "4f1d8b3f31664538e644032ea6695088",
+      "state": "",
+      "bill_number": "",
+      "last_action": "",
+      "last_action_date": "",
+      "title": "",
+      "url": "",
+      "relevance": 98,
+      "matched": [
+        "\"amusement device\"",
+        "\"games of skill\"",
+        "\"sweepstakes\"",
+        "\"video gaming terminal\""
+      ]
+    },
+    {
+      "bill_id": "1991440",
+      "change_hash": "855df58b1f8145949ff3e705b92ac6c0",
+      "state": "",
+      "bill_number": "",
+      "last_action": "",
+      "last_action_date": "",
+      "title": "",
+      "url": "",
+      "relevance": 98,
+      "matched": [
+        "\"amusement device\"",
+        "\"games of skill\"",
+        "\"sweepstakes\"",
+        "\"video gaming terminal\""
+      ]
+    },
+    {
+      "bill_id": "2107594",
+      "change_hash": "f6df874e8ce98471cd7b473c53b01212",
+      "state": "",
+      "bill_number": "",
+      "last_action": "",
+      "last_action_date": "",
+      "title": "",
+      "url": "",
+      "relevance": 98,
+      "matched": [
+        "\"amusement device\"",
+        "\"games of skill\"",
+        "\"sweepstakes\"",
+        "\"video gaming terminal\""
+      ]
+    },
+    {
+      "bill_id": "2107478",
+      "change_hash": "90bcfe36148f84859c6f0b6ff48f13e3",
+      "state": "",
+      "bill_number": "",
+      "last_action": "",
+      "last_action_date": "",
+      "title": "",
+      "url": "",
+      "relevance": 98,
+      "matched": [
+        "\"amusement device\"",
+        "\"games of skill\"",
+        "\"sweepstakes\"",
+        "\"video gaming terminal\""
+      ]
+    },
+    {
+      "bill_id": "1961494",
+      "change_hash": "2282ca871970db7e91f751f99671ecde",
+      "state": "",
+      "bill_number": "",
+      "last_action": "",
+      "last_action_date": "",
+      "title": "",
+      "url": "",
+      "relevance": 98,
+      "matched": [
+        "\"amusement device\"",
+        "\"games of skill\"",
+        "\"video gaming terminal\""
+      ]
+    },
+    {
+      "bill_id": "1895333",
+      "change_hash": "ddf8cb8a0668cbf77df5acfee0295654",
+      "state": "",
+      "bill_number": "",
+      "last_action": "",
+      "last_action_date": "",
+      "title": "",
+      "url": "",
+      "relevance": 98,
+      "matched": [
+        "\"games of skill\""
+      ]
+    },
+    {
+      "bill_id": "2108776",
+      "change_hash": "7838ab5eb0904ce151eb7d7086f61343",
+      "state": "",
+      "bill_number": "",
+      "last_action": "",
+      "last_action_date": "",
+      "title": "",
+      "url": "",
+      "relevance": 97,
+      "matched": [
+        "\"amusement device\"",
+        "\"games of skill\"",
+        "\"sweepstakes\"",
+        "\"video gaming terminal\""
+      ]
+    },
+    {
+      "bill_id": "2129911",
+      "change_hash": "b328e6c734aa4adb1689453e9ee6ab38",
+      "state": "",
+      "bill_number": "",
+      "last_action": "",
+      "last_action_date": "",
+      "title": "",
+      "url": "",
+      "relevance": 97,
+      "matched": [
+        "\"games of skill\"",
+        "\"video gaming terminal\""
+      ]
+    },
+    {
+      "bill_id": "2062441",
+      "change_hash": "5c1393ce2c8b83baea122e91ff800d3a",
+      "state": "",
+      "bill_number": "",
+      "last_action": "",
+      "last_action_date": "",
+      "title": "",
+      "url": "",
+      "relevance": 97,
+      "matched": [
+        "\"games of skill\""
+      ]
+    },
+    {
+      "bill_id": "2062837",
+      "change_hash": "8b0142acd36d5e36956777e2e7eb6d1f",
+      "state": "",
+      "bill_number": "",
+      "last_action": "",
+      "last_action_date": "",
+      "title": "",
+      "url": "",
+      "relevance": 96,
+      "matched": [
+        "\"games of skill\""
+      ]
+    },
+    {
+      "bill_id": "2100781",
+      "change_hash": "0a2d8a0fc238747402f782b74f046b22",
+      "state": "",
+      "bill_number": "",
+      "last_action": "",
+      "last_action_date": "",
+      "title": "",
+      "url": "",
+      "relevance": 95,
+      "matched": [
+        "\"games of skill\"",
+        "\"sweepstakes\""
+      ]
+    },
+    {
+      "bill_id": "1948799",
+      "change_hash": "4392f891127867c95e8896a82527b821",
+      "state": "",
+      "bill_number": "",
+      "last_action": "",
+      "last_action_date": "",
+      "title": "",
+      "url": "",
+      "relevance": 95,
+      "matched": [
+        "\"games of skill\"",
+        "\"video gaming terminal\""
+      ]
+    },
+    {
+      "bill_id": "1940997",
+      "change_hash": "acd5143495ef7ee46781ab050602a975",
+      "state": "",
+      "bill_number": "",
+      "last_action": "",
+      "last_action_date": "",
+      "title": "",
+      "url": "",
+      "relevance": 95,
+      "matched": [
+        "\"games of skill\"",
+        "\"video gaming terminal\""
+      ]
+    },
+    {
+      "bill_id": "1935196",
+      "change_hash": "8fdfa859306aca2920b600c08816a776",
+      "state": "",
+      "bill_number": "",
+      "last_action": "",
+      "last_action_date": "",
+      "title": "",
+      "url": "",
+      "relevance": 95,
+      "matched": [
+        "\"games of skill\"",
+        "\"video gaming terminal\""
+      ]
+    },
+    {
+      "bill_id": "1962587",
+      "change_hash": "39c5bf27e6452d9286ee8fb689bdcc2c",
+      "state": "",
+      "bill_number": "",
+      "last_action": "",
+      "last_action_date": "",
+      "title": "",
+      "url": "",
+      "relevance": 95,
+      "matched": [
+        "\"games of skill\"",
+        "\"video gaming terminal\""
+      ]
+    },
+    {
+      "bill_id": "2110501",
+      "change_hash": "1c0d4dc16f8038bd5e0f4894ff01ee32",
+      "state": "",
+      "bill_number": "",
+      "last_action": "",
+      "last_action_date": "",
+      "title": "",
+      "url": "",
+      "relevance": 95,
+      "matched": [
+        "\"games of skill\"",
+        "\"video gaming terminal\""
+      ]
+    },
+    {
+      "bill_id": "2110899",
+      "change_hash": "39d7b9f1251f29c19a4e13dd06a5cd75",
+      "state": "",
+      "bill_number": "",
+      "last_action": "",
+      "last_action_date": "",
+      "title": "",
+      "url": "",
+      "relevance": 95,
+      "matched": [
+        "\"games of skill\"",
+        "\"video gaming terminal\""
+      ]
+    },
+    {
+      "bill_id": "2107926",
+      "change_hash": "089b8b9183f7bff0422cfa343a48616a",
+      "state": "",
+      "bill_number": "",
+      "last_action": "",
+      "last_action_date": "",
+      "title": "",
+      "url": "",
+      "relevance": 95,
+      "matched": [
+        "\"games of skill\"",
+        "\"video gaming terminal\""
+      ]
+    },
+    {
+      "bill_id": "2109188",
+      "change_hash": "020ea8e15764e4104d48b86177c9561a",
+      "state": "",
+      "bill_number": "",
+      "last_action": "",
+      "last_action_date": "",
+      "title": "",
+      "url": "",
+      "relevance": 95,
+      "matched": [
+        "\"games of skill\"",
+        "\"video gaming terminal\""
+      ]
+    },
+    {
+      "bill_id": "2035137",
+      "change_hash": "d4b2d77299eb6d8d08cc5f79565214d9",
+      "state": "",
+      "bill_number": "",
+      "last_action": "",
+      "last_action_date": "",
+      "title": "",
+      "url": "",
+      "relevance": 89,
+      "matched": [
+        "\"games of skill\""
+      ]
+    },
+    {
+      "bill_id": "2061667",
+      "change_hash": "c62b06bad7284e5f562eca2fdad262c5",
+      "state": "",
+      "bill_number": "",
+      "last_action": "",
+      "last_action_date": "",
+      "title": "",
+      "url": "",
+      "relevance": 88,
+      "matched": [
+        "\"games of skill\"",
+        "\"sweepstakes\""
+      ]
+    },
+    {
+      "bill_id": "2062980",
+      "change_hash": "1d6b54e708f81badea7f9a36c4f49a79",
+      "state": "",
+      "bill_number": "",
+      "last_action": "",
+      "last_action_date": "",
+      "title": "",
+      "url": "",
+      "relevance": 88,
+      "matched": [
+        "\"games of skill\"",
+        "\"sweepstakes\""
+      ]
+    },
+    {
+      "bill_id": "2040654",
+      "change_hash": "c5ccda992a67104793b84ec093cd3cc4",
+      "state": "",
+      "bill_number": "",
+      "last_action": "",
+      "last_action_date": "",
+      "title": "",
+      "url": "",
+      "relevance": 84,
+      "matched": [
+        "\"games of skill\""
+      ]
+    },
+    {
+      "bill_id": "2051301",
+      "change_hash": "1d4eaa1bb97ed679ffb85ec497369ba7",
+      "state": "",
+      "bill_number": "",
+      "last_action": "",
+      "last_action_date": "",
+      "title": "",
+      "url": "",
+      "relevance": 81,
+      "matched": [
+        "\"games of skill\""
+      ]
+    },
+    {
+      "bill_id": "2152481",
+      "change_hash": "4615164df887be09f484c68d4d3d53bc",
+      "state": "",
+      "bill_number": "",
+      "last_action": "",
+      "last_action_date": "",
+      "title": "",
+      "url": "",
+      "relevance": 78,
+      "matched": [
+        "\"games of skill\""
+      ]
+    },
+    {
+      "bill_id": "2154242",
+      "change_hash": "2ee897eeaaa4f099d5f67e2313f9236e",
+      "state": "",
+      "bill_number": "",
+      "last_action": "",
+      "last_action_date": "",
+      "title": "",
+      "url": "",
+      "relevance": 77,
+      "matched": [
+        "\"games of skill\""
+      ]
+    },
+    {
+      "bill_id": "2127127",
+      "change_hash": "d482ad1fe7ffc65492ab80621f37c233",
+      "state": "",
+      "bill_number": "",
+      "last_action": "",
+      "last_action_date": "",
+      "title": "",
+      "url": "",
+      "relevance": 100,
+      "matched": [
+        "\"amusement device\""
+      ]
+    },
+    {
+      "bill_id": "2106087",
+      "change_hash": "e045ada8536d98d5bb6b1b47ab6a0898",
+      "state": "",
+      "bill_number": "",
+      "last_action": "",
+      "last_action_date": "",
+      "title": "",
+      "url": "",
+      "relevance": 99,
+      "matched": [
+        "\"amusement device\""
+      ]
+    },
+    {
+      "bill_id": "2105986",
+      "change_hash": "75cc084608ee89b6ba31fc72dcaec604",
+      "state": "",
+      "bill_number": "",
+      "last_action": "",
+      "last_action_date": "",
+      "title": "",
+      "url": "",
+      "relevance": 99,
+      "matched": [
+        "\"amusement device\""
+      ]
+    },
+    {
+      "bill_id": "2073618",
+      "change_hash": "3fcae36dd46fc207ab4f9c21b370b688",
+      "state": "",
+      "bill_number": "",
+      "last_action": "",
+      "last_action_date": "",
+      "title": "",
+      "url": "",
+      "relevance": 99,
+      "matched": [
+        "\"amusement device\"",
+        "\"sweepstakes\""
+      ]
+    },
+    {
+      "bill_id": "2068658",
+      "change_hash": "81422751d19a881abfb5c41512fe1768",
+      "state": "",
+      "bill_number": "",
+      "last_action": "",
+      "last_action_date": "",
+      "title": "",
+      "url": "",
+      "relevance": 99,
+      "matched": [
+        "\"amusement device\""
+      ]
+    },
+    {
+      "bill_id": "2015757",
+      "change_hash": "e494ca71491e4522231b0b1821df889c",
+      "state": "",
+      "bill_number": "",
+      "last_action": "",
+      "last_action_date": "",
+      "title": "",
+      "url": "",
+      "relevance": 99,
+      "matched": [
+        "\"amusement device\""
+      ]
+    },
+    {
+      "bill_id": "2069433",
+      "change_hash": "8c023545912afc2cd83179b21ca8e4b9",
+      "state": "",
+      "bill_number": "",
+      "last_action": "",
+      "last_action_date": "",
+      "title": "",
+      "url": "",
+      "relevance": 99,
+      "matched": [
+        "\"amusement device\""
+      ]
+    },
+    {
+      "bill_id": "2084336",
+      "change_hash": "a99631b4fc8cce643cc19a1aae745ab9",
+      "state": "",
+      "bill_number": "",
+      "last_action": "",
+      "last_action_date": "",
+      "title": "",
+      "url": "",
+      "relevance": 99,
+      "matched": [
+        "\"amusement device\""
+      ]
+    },
+    {
+      "bill_id": "2091523",
+      "change_hash": "937592cd7ca3735f9aa107c58102fee4",
+      "state": "",
+      "bill_number": "",
+      "last_action": "",
+      "last_action_date": "",
+      "title": "",
+      "url": "",
+      "relevance": 99,
+      "matched": [
+        "\"amusement device\""
+      ]
+    },
+    {
+      "bill_id": "2015627",
+      "change_hash": "0643b45f36346ac937928f187eae5391",
+      "state": "",
+      "bill_number": "",
+      "last_action": "",
+      "last_action_date": "",
+      "title": "",
+      "url": "",
+      "relevance": 99,
+      "matched": [
+        "\"amusement device\""
+      ]
+    },
+    {
+      "bill_id": "1896093",
+      "change_hash": "9453c566d7290ace9ebd4ec32519a96e",
+      "state": "",
+      "bill_number": "",
+      "last_action": "",
+      "last_action_date": "",
+      "title": "",
+      "url": "",
+      "relevance": 99,
+      "matched": [
+        "\"amusement device\""
+      ]
+    },
+    {
+      "bill_id": "2068836",
+      "change_hash": "355cb84cdf852e9a534544f1240b71bd",
+      "state": "",
+      "bill_number": "",
+      "last_action": "",
+      "last_action_date": "",
+      "title": "",
+      "url": "",
+      "relevance": 99,
+      "matched": [
+        "\"amusement device\""
+      ]
+    },
+    {
+      "bill_id": "1934708",
+      "change_hash": "93825fcd227b3282f2b047599ddee718",
+      "state": "",
+      "bill_number": "",
+      "last_action": "",
+      "last_action_date": "",
+      "title": "",
+      "url": "",
+      "relevance": 99,
+      "matched": [
+        "\"amusement device\""
+      ]
+    },
+    {
+      "bill_id": "1967678",
+      "change_hash": "c09d7b4613c1f42d4140e4d089081bdc",
+      "state": "",
+      "bill_number": "",
+      "last_action": "",
+      "last_action_date": "",
+      "title": "",
+      "url": "",
+      "relevance": 99,
+      "matched": [
+        "\"amusement device\""
+      ]
+    },
+    {
+      "bill_id": "2050166",
+      "change_hash": "6e48f4f6683eb6a1310089c351830394",
+      "state": "",
+      "bill_number": "",
+      "last_action": "",
+      "last_action_date": "",
+      "title": "",
+      "url": "",
+      "relevance": 98,
+      "matched": [
+        "\"amusement device\""
+      ]
+    },
+    {
+      "bill_id": "2032760",
+      "change_hash": "d9f4a3fe097aa859f59db8ec1825cc76",
+      "state": "",
+      "bill_number": "",
+      "last_action": "",
+      "last_action_date": "",
+      "title": "",
+      "url": "",
+      "relevance": 98,
+      "matched": [
+        "\"amusement device\""
+      ]
+    },
+    {
+      "bill_id": "2041842",
+      "change_hash": "f916f2cb42a546be3bb0acb781dcaf2d",
+      "state": "",
+      "bill_number": "",
+      "last_action": "",
+      "last_action_date": "",
+      "title": "",
+      "url": "",
+      "relevance": 98,
+      "matched": [
+        "\"amusement device\""
+      ]
+    },
+    {
+      "bill_id": "1928070",
+      "change_hash": "e561c2456ab8f1e12f231e651ef31ac9",
+      "state": "",
+      "bill_number": "",
+      "last_action": "",
+      "last_action_date": "",
+      "title": "",
+      "url": "",
+      "relevance": 98,
+      "matched": [
+        "\"amusement device\""
+      ]
+    },
+    {
+      "bill_id": "2031760",
+      "change_hash": "bdbbad8fc6578d50282cf1378d981501",
+      "state": "",
+      "bill_number": "",
+      "last_action": "",
+      "last_action_date": "",
+      "title": "",
+      "url": "",
+      "relevance": 98,
+      "matched": [
+        "\"amusement device\"",
+        "\"amusement machine\""
+      ]
+    },
+    {
+      "bill_id": "2153530",
+      "change_hash": "1eac1321084910535ec41bc79ed4c461",
+      "state": "",
+      "bill_number": "",
+      "last_action": "",
+      "last_action_date": "",
+      "title": "",
+      "url": "",
+      "relevance": 97,
+      "matched": [
+        "\"amusement device\"",
+        "\"amusement machine\""
+      ]
+    },
+    {
+      "bill_id": "2101902",
+      "change_hash": "25c08a2e10d8d23d7aa2477d3b91697a",
+      "state": "",
+      "bill_number": "",
+      "last_action": "",
+      "last_action_date": "",
+      "title": "",
+      "url": "",
+      "relevance": 97,
+      "matched": [
+        "\"amusement device\""
+      ]
+    },
+    {
+      "bill_id": "2099433",
+      "change_hash": "c4bd55a0b7665d37b297180bb02ecc63",
+      "state": "",
+      "bill_number": "",
+      "last_action": "",
+      "last_action_date": "",
+      "title": "",
+      "url": "",
+      "relevance": 97,
+      "matched": [
+        "\"amusement device\""
+      ]
+    },
+    {
+      "bill_id": "1915837",
+      "change_hash": "4ff8687d2c3b2bc553bfeec776d7da17",
+      "state": "",
+      "bill_number": "",
+      "last_action": "",
+      "last_action_date": "",
+      "title": "",
+      "url": "",
+      "relevance": 97,
+      "matched": [
+        "\"amusement device\""
+      ]
+    },
+    {
+      "bill_id": "2085990",
+      "change_hash": "671c52e4f498841383c8257ba39c9ca9",
+      "state": "",
+      "bill_number": "",
+      "last_action": "",
+      "last_action_date": "",
+      "title": "",
+      "url": "",
+      "relevance": 97,
+      "matched": [
+        "\"amusement device\""
+      ]
+    },
+    {
+      "bill_id": "2113516",
+      "change_hash": "5ba656c3ae408301faa3067d041814f8",
+      "state": "",
+      "bill_number": "",
+      "last_action": "",
+      "last_action_date": "",
+      "title": "",
+      "url": "",
+      "relevance": 97,
+      "matched": [
+        "\"amusement device\""
+      ]
+    },
+    {
+      "bill_id": "2061345",
+      "change_hash": "98379edc71433f337c2628b51e1a8e50",
+      "state": "",
+      "bill_number": "",
+      "last_action": "",
+      "last_action_date": "",
+      "title": "",
+      "url": "",
+      "relevance": 97,
+      "matched": [
+        "\"amusement device\""
+      ]
+    },
+    {
+      "bill_id": "2107603",
+      "change_hash": "84bdf94aa61dc0bae51f7706c585b0d4",
+      "state": "",
+      "bill_number": "",
+      "last_action": "",
+      "last_action_date": "",
+      "title": "",
+      "url": "",
+      "relevance": 96,
+      "matched": [
+        "\"amusement device\"",
+        "\"sweepstakes\"",
+        "\"video gaming terminal\""
+      ]
+    },
+    {
+      "bill_id": "2065696",
+      "change_hash": "5d5e20d525d28c2e1372ab2298e67c12",
+      "state": "",
+      "bill_number": "",
+      "last_action": "",
+      "last_action_date": "",
+      "title": "",
+      "url": "",
+      "relevance": 96,
+      "matched": [
+        "\"amusement device\""
+      ]
+    },
+    {
+      "bill_id": "2066606",
+      "change_hash": "299f2d9c0104186ac5f40c66062815a3",
+      "state": "",
+      "bill_number": "",
+      "last_action": "",
+      "last_action_date": "",
+      "title": "",
+      "url": "",
+      "relevance": 96,
+      "matched": [
+        "\"amusement device\""
+      ]
+    },
+    {
+      "bill_id": "2002173",
+      "change_hash": "66242d021057913e2cff4a5d529328e1",
+      "state": "",
+      "bill_number": "",
+      "last_action": "",
+      "last_action_date": "",
+      "title": "",
+      "url": "",
+      "relevance": 96,
+      "matched": [
+        "\"amusement device\""
+      ]
+    },
+    {
+      "bill_id": "2061171",
+      "change_hash": "91f8e922209b0d2c5610448ecdde2190",
+      "state": "",
+      "bill_number": "",
+      "last_action": "",
+      "last_action_date": "",
+      "title": "",
+      "url": "",
+      "relevance": 96,
+      "matched": [
+        "\"amusement device\""
+      ]
+    },
+    {
+      "bill_id": "2118707",
+      "change_hash": "2e94a178ae3a1db5a94612d423f1bba1",
+      "state": "",
+      "bill_number": "",
+      "last_action": "",
+      "last_action_date": "",
+      "title": "",
+      "url": "",
+      "relevance": 96,
+      "matched": [
+        "\"amusement device\"",
+        "\"electronic gaming device\""
+      ]
+    },
+    {
+      "bill_id": "1933931",
+      "change_hash": "1f43c5ff13e66adff75be5e509551276",
+      "state": "",
+      "bill_number": "",
+      "last_action": "",
+      "last_action_date": "",
+      "title": "",
+      "url": "",
+      "relevance": 96,
+      "matched": [
+        "\"amusement device\""
+      ]
+    },
+    {
+      "bill_id": "2088563",
+      "change_hash": "90caaa102c51bf0766a1320fe92f0dff",
+      "state": "",
+      "bill_number": "",
+      "last_action": "",
+      "last_action_date": "",
+      "title": "",
+      "url": "",
+      "relevance": 96,
+      "matched": [
+        "\"amusement device\""
+      ]
+    },
+    {
+      "bill_id": "2006192",
+      "change_hash": "b43b3a2eb6abd2ca8b44445e27ee8876",
+      "state": "",
+      "bill_number": "",
+      "last_action": "",
+      "last_action_date": "",
+      "title": "",
+      "url": "",
+      "relevance": 95,
+      "matched": [
+        "\"amusement device\""
+      ]
+    },
+    {
+      "bill_id": "2061158",
+      "change_hash": "6f85fec032506e39ddc10fd7340a6dd9",
+      "state": "",
+      "bill_number": "",
+      "last_action": "",
+      "last_action_date": "",
+      "title": "",
+      "url": "",
+      "relevance": 95,
+      "matched": [
+        "\"amusement device\""
+      ]
+    },
+    {
+      "bill_id": "2067750",
+      "change_hash": "39a1c0f193e4a0d63499567ae55d8177",
+      "state": "",
+      "bill_number": "",
+      "last_action": "",
+      "last_action_date": "",
+      "title": "",
+      "url": "",
+      "relevance": 95,
+      "matched": [
+        "\"amusement device\""
+      ]
+    },
+    {
+      "bill_id": "1960453",
+      "change_hash": "0a61664ec5a6c723060eeb02e533f45c",
+      "state": "",
+      "bill_number": "",
+      "last_action": "",
+      "last_action_date": "",
+      "title": "",
+      "url": "",
+      "relevance": 95,
+      "matched": [
+        "\"amusement device\"",
+        "\"sweepstakes\"",
+        "\"video gaming terminal\""
+      ]
+    },
+    {
+      "bill_id": "2001058",
+      "change_hash": "67b98c2b7b9cbf1ce4ad4e4f4501252d",
+      "state": "",
+      "bill_number": "",
+      "last_action": "",
+      "last_action_date": "",
+      "title": "",
+      "url": "",
+      "relevance": 95,
+      "matched": [
+        "\"amusement device\"",
+        "\"sweepstakes\"",
+        "\"video gaming terminal\""
+      ]
+    },
+    {
+      "bill_id": "2084434",
+      "change_hash": "0b17977aa7e13a5bac4a37d9bc84d2d9",
+      "state": "",
+      "bill_number": "",
+      "last_action": "",
+      "last_action_date": "",
+      "title": "",
+      "url": "",
+      "relevance": 95,
+      "matched": [
+        "\"amusement device\""
+      ]
+    },
+    {
+      "bill_id": "2101564",
+      "change_hash": "fe691ab0f0b5ac7088954870e5f3d294",
+      "state": "",
+      "bill_number": "",
+      "last_action": "",
+      "last_action_date": "",
+      "title": "",
+      "url": "",
+      "relevance": 95,
+      "matched": [
+        "\"amusement device\""
+      ]
+    },
+    {
+      "bill_id": "2055391",
+      "change_hash": "145d9b51798487569064de18e0fc9bc3",
+      "state": "",
+      "bill_number": "",
+      "last_action": "",
+      "last_action_date": "",
+      "title": "",
+      "url": "",
+      "relevance": 94,
+      "matched": [
+        "\"amusement device\""
+      ]
+    },
+    {
+      "bill_id": "2058694",
+      "change_hash": "2fadbc2e196a49a7769d69220b059ce3",
+      "state": "",
+      "bill_number": "",
+      "last_action": "",
+      "last_action_date": "",
+      "title": "",
+      "url": "",
+      "relevance": 94,
+      "matched": [
+        "\"amusement device\""
+      ]
+    },
+    {
+      "bill_id": "2055817",
+      "change_hash": "4488907373ff810ca5fbab32442cf41c",
+      "state": "",
+      "bill_number": "",
+      "last_action": "",
+      "last_action_date": "",
+      "title": "",
+      "url": "",
+      "relevance": 94,
+      "matched": [
+        "\"amusement device\""
+      ]
+    },
+    {
+      "bill_id": "2079278",
+      "change_hash": "2d23cfa24f8db92a8d74c6eb695ec1d0",
+      "state": "",
+      "bill_number": "",
+      "last_action": "",
+      "last_action_date": "",
+      "title": "",
+      "url": "",
+      "relevance": 94,
+      "matched": [
+        "\"amusement device\""
+      ]
+    },
+    {
+      "bill_id": "2068336",
+      "change_hash": "5c42163c738da688a18b276d5eb29495",
+      "state": "",
+      "bill_number": "",
+      "last_action": "",
+      "last_action_date": "",
+      "title": "",
+      "url": "",
+      "relevance": 94,
+      "matched": [
+        "\"amusement device\""
+      ]
+    },
+    {
+      "bill_id": "2084005",
+      "change_hash": "f4ac34eb77b9a8b2df7aab3766510132",
+      "state": "",
+      "bill_number": "",
+      "last_action": "",
+      "last_action_date": "",
+      "title": "",
+      "url": "",
+      "relevance": 94,
+      "matched": [
+        "\"amusement device\""
+      ]
+    },
+    {
+      "bill_id": "2114215",
+      "change_hash": "081aa3816e19ec437da3cb8d4f34e28f",
+      "state": "",
+      "bill_number": "",
+      "last_action": "",
+      "last_action_date": "",
+      "title": "",
+      "url": "",
+      "relevance": 94,
+      "matched": [
+        "\"amusement device\""
+      ]
+    },
+    {
+      "bill_id": "2131879",
+      "change_hash": "fd327c3efbd19a5a5067bd25d2cb740e",
+      "state": "",
+      "bill_number": "",
+      "last_action": "",
+      "last_action_date": "",
+      "title": "",
+      "url": "",
+      "relevance": 93,
+      "matched": [
+        "\"amusement device\""
+      ]
+    },
+    {
+      "bill_id": "2031298",
+      "change_hash": "064c1be7d427602f59e5f8f0e5565e86",
+      "state": "",
+      "bill_number": "",
+      "last_action": "",
+      "last_action_date": "",
+      "title": "",
+      "url": "",
+      "relevance": 93,
+      "matched": [
+        "\"amusement device\""
+      ]
+    },
+    {
+      "bill_id": "2012516",
+      "change_hash": "874ed5eecfa6335518525bed805f819c",
+      "state": "",
+      "bill_number": "",
+      "last_action": "",
+      "last_action_date": "",
+      "title": "",
+      "url": "",
+      "relevance": 93,
+      "matched": [
+        "\"amusement device\""
+      ]
+    },
+    {
+      "bill_id": "2106553",
+      "change_hash": "663c3ee015e81df7728d5c04393745dc",
+      "state": "",
+      "bill_number": "",
+      "last_action": "",
+      "last_action_date": "",
+      "title": "",
+      "url": "",
+      "relevance": 93,
+      "matched": [
+        "\"amusement device\""
+      ]
+    },
+    {
+      "bill_id": "2107947",
+      "change_hash": "923d96ac7100787114097fdcc25910c1",
+      "state": "",
+      "bill_number": "",
+      "last_action": "",
+      "last_action_date": "",
+      "title": "",
+      "url": "",
+      "relevance": 92,
+      "matched": [
+        "\"amusement device\""
+      ]
+    },
+    {
+      "bill_id": "2148964",
+      "change_hash": "87f679b30478f96c18c5b2c198fe7442",
+      "state": "",
+      "bill_number": "",
+      "last_action": "",
+      "last_action_date": "",
+      "title": "",
+      "url": "",
+      "relevance": 92,
+      "matched": [
+        "\"amusement device\""
+      ]
+    },
+    {
+      "bill_id": "2148951",
+      "change_hash": "6a2b389453f4088a59075c46e98600ec",
+      "state": "",
+      "bill_number": "",
+      "last_action": "",
+      "last_action_date": "",
+      "title": "",
+      "url": "",
+      "relevance": 92,
+      "matched": [
+        "\"amusement device\""
+      ]
+    },
+    {
+      "bill_id": "2075817",
+      "change_hash": "575b28de8163110406fef97dc5d99c80",
+      "state": "",
+      "bill_number": "",
+      "last_action": "",
+      "last_action_date": "",
+      "title": "",
+      "url": "",
+      "relevance": 91,
+      "matched": [
+        "\"amusement device\""
+      ]
+    },
+    {
+      "bill_id": "2097282",
+      "change_hash": "1fd1a28cbc7a8e22861a2b509ee22c47",
+      "state": "",
+      "bill_number": "",
+      "last_action": "",
+      "last_action_date": "",
+      "title": "",
+      "url": "",
+      "relevance": 91,
+      "matched": [
+        "\"amusement device\""
+      ]
+    },
+    {
+      "bill_id": "2060935",
+      "change_hash": "2205bfbc361e46b6147efc9f85ee8554",
+      "state": "",
+      "bill_number": "",
+      "last_action": "",
+      "last_action_date": "",
+      "title": "",
+      "url": "",
+      "relevance": 91,
+      "matched": [
+        "\"amusement device\""
+      ]
+    },
+    {
+      "bill_id": "2107224",
+      "change_hash": "ff6a50802d8b4d89f557fa903908df8e",
+      "state": "",
+      "bill_number": "",
+      "last_action": "",
+      "last_action_date": "",
+      "title": "",
+      "url": "",
+      "relevance": 91,
+      "matched": [
+        "\"amusement device\""
+      ]
+    },
+    {
+      "bill_id": "1949687",
+      "change_hash": "87ee44a8e14979c242a7c55cf478c995",
+      "state": "",
+      "bill_number": "",
+      "last_action": "",
+      "last_action_date": "",
+      "title": "",
+      "url": "",
+      "relevance": 91,
+      "matched": [
+        "\"amusement device\""
+      ]
+    },
+    {
+      "bill_id": "2105064",
+      "change_hash": "f40421b0752fdf0bb7f8e72543e16192",
+      "state": "",
+      "bill_number": "",
+      "last_action": "",
+      "last_action_date": "",
+      "title": "",
+      "url": "",
+      "relevance": 90,
+      "matched": [
+        "\"amusement device\""
+      ]
+    },
+    {
+      "bill_id": "2107514",
+      "change_hash": "ec9df41b83f18a1dcbec41c350a6f817",
+      "state": "",
+      "bill_number": "",
+      "last_action": "",
+      "last_action_date": "",
+      "title": "",
+      "url": "",
+      "relevance": 90,
+      "matched": [
+        "\"amusement device\""
+      ]
+    },
+    {
+      "bill_id": "2085915",
+      "change_hash": "0f7ecf0a03150dad1daaedadae5fbec3",
+      "state": "",
+      "bill_number": "",
+      "last_action": "",
+      "last_action_date": "",
+      "title": "",
+      "url": "",
+      "relevance": 90,
+      "matched": [
+        "\"amusement device\""
+      ]
+    },
+    {
+      "bill_id": "1927958",
+      "change_hash": "dbe12df49d5e722a38c59362b7f8c6c3",
+      "state": "",
+      "bill_number": "",
+      "last_action": "",
+      "last_action_date": "",
+      "title": "",
+      "url": "",
+      "relevance": 90,
+      "matched": [
+        "\"amusement device\""
+      ]
+    },
+    {
+      "bill_id": "2100899",
+      "change_hash": "dea28f2456ac788b9514a858d3dde896",
+      "state": "",
+      "bill_number": "",
+      "last_action": "",
+      "last_action_date": "",
+      "title": "",
+      "url": "",
+      "relevance": 89,
+      "matched": [
+        "\"amusement device\""
+      ]
+    },
+    {
+      "bill_id": "2060674",
+      "change_hash": "bf4a0eda80bcc4a723e4a89b278e84bb",
+      "state": "",
+      "bill_number": "",
+      "last_action": "",
+      "last_action_date": "",
+      "title": "",
+      "url": "",
+      "relevance": 89,
+      "matched": [
+        "\"amusement device\""
+      ]
+    },
+    {
+      "bill_id": "2086713",
+      "change_hash": "507a030d0817d9858a7bfdb24af5ff8e",
+      "state": "",
+      "bill_number": "",
+      "last_action": "",
+      "last_action_date": "",
+      "title": "",
+      "url": "",
+      "relevance": 89,
+      "matched": [
+        "\"amusement device\""
+      ]
+    },
+    {
+      "bill_id": "2055431",
+      "change_hash": "5e617df49facea3843f5a7e37dffb1e9",
+      "state": "",
+      "bill_number": "",
+      "last_action": "",
+      "last_action_date": "",
+      "title": "",
+      "url": "",
+      "relevance": 89,
+      "matched": [
+        "\"amusement device\""
+      ]
+    },
+    {
+      "bill_id": "1923913",
+      "change_hash": "4d2d0ce35fbb1c218a48c1e84a454e77",
+      "state": "",
+      "bill_number": "",
+      "last_action": "",
+      "last_action_date": "",
+      "title": "",
+      "url": "",
+      "relevance": 88,
+      "matched": [
+        "\"amusement device\"",
+        "\"electronic gaming device\""
+      ]
+    },
+    {
+      "bill_id": "2072228",
+      "change_hash": "f7833d2a01dd9223674504342dd4ea93",
+      "state": "",
+      "bill_number": "",
+      "last_action": "",
+      "last_action_date": "",
+      "title": "",
+      "url": "",
+      "relevance": 87,
+      "matched": [
+        "\"amusement device\"",
+        "\"electronic gaming device\""
+      ]
+    },
+    {
+      "bill_id": "2122503",
+      "change_hash": "2cd8b0270037e845580d02441f1c44c4",
+      "state": "",
+      "bill_number": "",
+      "last_action": "",
+      "last_action_date": "",
+      "title": "",
+      "url": "",
+      "relevance": 87,
+      "matched": [
+        "\"amusement device\""
+      ]
+    },
+    {
+      "bill_id": "2119487",
+      "change_hash": "5002d70a6d1cddb82a1af16c432163d4",
+      "state": "",
+      "bill_number": "",
+      "last_action": "",
+      "last_action_date": "",
+      "title": "",
+      "url": "",
+      "relevance": 87,
+      "matched": [
+        "\"amusement device\""
+      ]
+    },
+    {
+      "bill_id": "2066892",
+      "change_hash": "c67de4a3d5de55a98190bc8ab3d5b4b1",
+      "state": "",
+      "bill_number": "",
+      "last_action": "",
+      "last_action_date": "",
+      "title": "",
+      "url": "",
+      "relevance": 86,
+      "matched": [
+        "\"amusement device\""
+      ]
+    },
+    {
+      "bill_id": "2066885",
+      "change_hash": "f2eb7dbf0b7233fbe4360efe34ca9ebb",
+      "state": "",
+      "bill_number": "",
+      "last_action": "",
+      "last_action_date": "",
+      "title": "",
+      "url": "",
+      "relevance": 86,
+      "matched": [
+        "\"amusement device\""
+      ]
+    },
+    {
+      "bill_id": "2069770",
+      "change_hash": "240e34f09f130917eb2b59dee5bb1816",
+      "state": "",
+      "bill_number": "",
+      "last_action": "",
+      "last_action_date": "",
+      "title": "",
+      "url": "",
+      "relevance": 86,
+      "matched": [
+        "\"amusement device\""
+      ]
+    },
+    {
+      "bill_id": "2060634",
+      "change_hash": "315ef93be6b4b972448caa92ce5c9c36",
+      "state": "",
+      "bill_number": "",
+      "last_action": "",
+      "last_action_date": "",
+      "title": "",
+      "url": "",
+      "relevance": 86,
+      "matched": [
+        "\"amusement device\""
+      ]
+    },
+    {
+      "bill_id": "2145808",
+      "change_hash": "3da6f317d7fed9a1cfe58f5557c00d7d",
+      "state": "",
+      "bill_number": "",
+      "last_action": "",
+      "last_action_date": "",
+      "title": "",
+      "url": "",
+      "relevance": 82,
+      "matched": [
+        "\"amusement device\""
+      ]
+    },
+    {
+      "bill_id": "1917554",
+      "change_hash": "191bfd7a9d1df469085e116bb2288969",
+      "state": "",
+      "bill_number": "",
+      "last_action": "",
+      "last_action_date": "",
+      "title": "",
+      "url": "",
+      "relevance": 79,
+      "matched": [
+        "\"amusement device\""
+      ]
+    },
+    {
+      "bill_id": "2077674",
+      "change_hash": "09ff7789174c8d6d3954e80bed680e1c",
+      "state": "",
+      "bill_number": "",
+      "last_action": "",
+      "last_action_date": "",
+      "title": "",
+      "url": "",
+      "relevance": 79,
+      "matched": [
+        "\"amusement device\""
+      ]
+    },
+    {
+      "bill_id": "2087948",
+      "change_hash": "69957d208f72539e99ab3ca34fdaa01c",
+      "state": "",
+      "bill_number": "",
+      "last_action": "",
+      "last_action_date": "",
+      "title": "",
+      "url": "",
+      "relevance": 78,
+      "matched": [
+        "\"amusement device\""
+      ]
+    },
+    {
+      "bill_id": "2057080",
+      "change_hash": "2c6307582dffeffeb7132da71c41f1c6",
+      "state": "",
+      "bill_number": "",
+      "last_action": "",
+      "last_action_date": "",
+      "title": "",
+      "url": "",
+      "relevance": 78,
+      "matched": [
+        "\"amusement device\"",
+        "\"dual currency\"",
+        "\"electronic gaming device\"",
+        "\"sweepstakes\""
+      ]
+    },
+    {
+      "bill_id": "1996111",
+      "change_hash": "83740db680156a1dbadf2701ff8168eb",
+      "state": "",
+      "bill_number": "",
+      "last_action": "",
+      "last_action_date": "",
+      "title": "",
+      "url": "",
+      "relevance": 67,
+      "matched": [
+        "\"amusement device\""
+      ]
+    },
+    {
+      "bill_id": "1919656",
+      "change_hash": "7bf02fc3db0fdd07bcad779d76583a4c",
+      "state": "",
+      "bill_number": "",
+      "last_action": "",
+      "last_action_date": "",
+      "title": "",
+      "url": "",
+      "relevance": 63,
+      "matched": [
+        "\"amusement device\""
+      ]
+    },
+    {
+      "bill_id": "2082182",
+      "change_hash": "945571d6fe55082c4ac209deb818fd51",
+      "state": "",
+      "bill_number": "",
+      "last_action": "",
+      "last_action_date": "",
+      "title": "",
+      "url": "",
+      "relevance": 61,
+      "matched": [
+        "\"amusement device\""
+      ]
+    },
+    {
+      "bill_id": "2100489",
+      "change_hash": "8752eaff19a7a86dafc1c648c8391938",
+      "state": "",
+      "bill_number": "",
+      "last_action": "",
+      "last_action_date": "",
+      "title": "",
+      "url": "",
+      "relevance": 56,
+      "matched": [
+        "\"amusement device\""
+      ]
+    },
+    {
+      "bill_id": "1935328",
+      "change_hash": "7b6b1fdfacfa5bb1b46c75ee26d088c2",
+      "state": "",
+      "bill_number": "",
+      "last_action": "",
+      "last_action_date": "",
+      "title": "",
+      "url": "",
+      "relevance": 55,
+      "matched": [
+        "\"amusement device\""
+      ]
+    },
+    {
+      "bill_id": "2034275",
+      "change_hash": "36236fa5f157d4960a4bdf3b2f7ca779",
+      "state": "",
+      "bill_number": "",
+      "last_action": "",
+      "last_action_date": "",
+      "title": "",
+      "url": "",
+      "relevance": 47,
+      "matched": [
+        "\"amusement device\""
+      ]
+    },
+    {
+      "bill_id": "2152020",
+      "change_hash": "4715463bf874410869ceb705123ac917",
+      "state": "",
+      "bill_number": "",
+      "last_action": "",
+      "last_action_date": "",
+      "title": "",
+      "url": "",
+      "relevance": 46,
+      "matched": [
+        "\"amusement device\""
+      ]
+    },
+    {
+      "bill_id": "2024637",
+      "change_hash": "9bf76bd393a745d057fe88e72d934abb",
+      "state": "",
+      "bill_number": "",
+      "last_action": "",
+      "last_action_date": "",
+      "title": "",
+      "url": "",
+      "relevance": 45,
+      "matched": [
+        "\"amusement device\""
+      ]
+    },
+    {
+      "bill_id": "1959018",
+      "change_hash": "3baf0c33e2aee6e87215c5d89305d873",
+      "state": "",
+      "bill_number": "",
+      "last_action": "",
+      "last_action_date": "",
+      "title": "",
+      "url": "",
+      "relevance": 45,
+      "matched": [
+        "\"amusement device\""
+      ]
+    },
+    {
+      "bill_id": "2143341",
+      "change_hash": "f20fd73b107ef511d2c1a0166032eae3",
+      "state": "",
+      "bill_number": "",
+      "last_action": "",
+      "last_action_date": "",
+      "title": "",
+      "url": "",
+      "relevance": 43,
+      "matched": [
+        "\"amusement device\""
+      ]
+    },
+    {
+      "bill_id": "2148107",
+      "change_hash": "66cf85497089e2c635b4990900c8bb6a",
+      "state": "",
+      "bill_number": "",
+      "last_action": "",
+      "last_action_date": "",
+      "title": "",
+      "url": "",
+      "relevance": 43,
+      "matched": [
+        "\"amusement device\""
+      ]
+    },
+    {
+      "bill_id": "2155187",
+      "change_hash": "bcf3a3c4a9f596a84b21b48b2e99a291",
+      "state": "",
+      "bill_number": "",
+      "last_action": "",
+      "last_action_date": "",
+      "title": "",
+      "url": "",
+      "relevance": 41,
+      "matched": [
+        "\"amusement device\""
+      ]
+    },
+    {
+      "bill_id": "1906039",
+      "change_hash": "5139636219fdeb0af4751327866d1f6c",
+      "state": "",
+      "bill_number": "",
+      "last_action": "",
+      "last_action_date": "",
+      "title": "",
+      "url": "",
+      "relevance": 41,
+      "matched": [
+        "\"amusement device\""
+      ]
+    },
+    {
+      "bill_id": "2028594",
+      "change_hash": "d97e170e30c219ef0a3f58125f1cac70",
+      "state": "",
+      "bill_number": "",
+      "last_action": "",
+      "last_action_date": "",
+      "title": "",
+      "url": "",
+      "relevance": 40,
+      "matched": [
+        "\"amusement device\""
+      ]
+    },
+    {
+      "bill_id": "1962147",
+      "change_hash": "dd70618a982d208b7a27bf5f247c9646",
+      "state": "",
+      "bill_number": "",
+      "last_action": "",
+      "last_action_date": "",
+      "title": "",
+      "url": "",
+      "relevance": 40,
+      "matched": [
+        "\"amusement device\""
+      ]
+    },
+    {
+      "bill_id": "2019388",
+      "change_hash": "cbf74fd8cf90711e35656137aed9d6ac",
+      "state": "",
+      "bill_number": "",
+      "last_action": "",
+      "last_action_date": "",
+      "title": "",
+      "url": "",
+      "relevance": 100,
+      "matched": [
+        "\"amusement machine\""
+      ]
+    },
+    {
+      "bill_id": "1983840",
+      "change_hash": "86bf8fdf051e75ab01419094487dcd6b",
+      "state": "",
+      "bill_number": "",
+      "last_action": "",
+      "last_action_date": "",
+      "title": "",
+      "url": "",
+      "relevance": 99,
+      "matched": [
+        "\"amusement machine\""
+      ]
+    },
+    {
+      "bill_id": "2109968",
+      "change_hash": "d1ab5b92562ebf4a6bbfa44fadee6995",
+      "state": "",
+      "bill_number": "",
+      "last_action": "",
+      "last_action_date": "",
+      "title": "",
+      "url": "",
+      "relevance": 99,
+      "matched": [
+        "\"amusement machine\""
+      ]
+    },
+    {
+      "bill_id": "2123297",
+      "change_hash": "0744b1a45ce62a49a714f23a77f9b75a",
+      "state": "",
+      "bill_number": "",
+      "last_action": "",
+      "last_action_date": "",
+      "title": "",
+      "url": "",
+      "relevance": 98,
+      "matched": [
+        "\"amusement machine\""
+      ]
+    },
+    {
+      "bill_id": "2045333",
+      "change_hash": "b0946150dba39a2c29f419faa777b26e",
+      "state": "",
+      "bill_number": "",
+      "last_action": "",
+      "last_action_date": "",
+      "title": "",
+      "url": "",
+      "relevance": 97,
+      "matched": [
+        "\"amusement machine\"",
+        "\"sweepstakes\""
+      ]
+    },
+    {
+      "bill_id": "2046598",
+      "change_hash": "ddda0c291861aeddc660246c96346aa6",
+      "state": "",
+      "bill_number": "",
+      "last_action": "",
+      "last_action_date": "",
+      "title": "",
+      "url": "",
+      "relevance": 96,
+      "matched": [
+        "\"amusement machine\""
+      ]
+    },
+    {
+      "bill_id": "2032607",
+      "change_hash": "12dace56933705bb1e6b297d9bd7d6ed",
+      "state": "",
+      "bill_number": "",
+      "last_action": "",
+      "last_action_date": "",
+      "title": "",
+      "url": "",
+      "relevance": 96,
+      "matched": [
+        "\"amusement machine\"",
+        "\"dual currency\"",
+        "\"sweepstakes\""
+      ]
+    },
+    {
+      "bill_id": "2115484",
+      "change_hash": "54be2b7805b9c9429dbedecbc7d039c8",
+      "state": "",
+      "bill_number": "",
+      "last_action": "",
+      "last_action_date": "",
+      "title": "",
+      "url": "",
+      "relevance": 95,
+      "matched": [
+        "\"amusement machine\""
+      ]
+    },
+    {
+      "bill_id": "2036637",
+      "change_hash": "ca43259eb7f35f5ad778c43f0b463a2d",
+      "state": "",
+      "bill_number": "",
+      "last_action": "",
+      "last_action_date": "",
+      "title": "",
+      "url": "",
+      "relevance": 95,
+      "matched": [
+        "\"amusement machine\"",
+        "\"sweepstakes\"",
+        "\"video gaming terminal\""
+      ]
+    },
+    {
+      "bill_id": "2031116",
+      "change_hash": "369583af89279c1ed39efb23242a7913",
+      "state": "",
+      "bill_number": "",
+      "last_action": "",
+      "last_action_date": "",
+      "title": "",
+      "url": "",
+      "relevance": 93,
+      "matched": [
+        "\"amusement machine\"",
+        "\"sweepstakes\""
+      ]
+    },
+    {
+      "bill_id": "2129364",
+      "change_hash": "f3fc86ff67bb9c72020647be58a7bae7",
+      "state": "",
+      "bill_number": "",
+      "last_action": "",
+      "last_action_date": "",
+      "title": "",
+      "url": "",
+      "relevance": 93,
+      "matched": [
+        "\"amusement machine\"",
+        "\"electronic gaming device\"",
+        "\"sweepstakes\""
+      ]
+    },
+    {
+      "bill_id": "1942247",
+      "change_hash": "6bd989fe8280f7986500e72900484d2c",
+      "state": "",
+      "bill_number": "",
+      "last_action": "",
+      "last_action_date": "",
+      "title": "",
+      "url": "",
+      "relevance": 85,
+      "matched": [
+        "\"amusement machine\""
+      ]
+    },
+    {
+      "bill_id": "1966320",
+      "change_hash": "2d9e666a9894139fb859884eaba9add5",
+      "state": "",
+      "bill_number": "",
+      "last_action": "",
+      "last_action_date": "",
+      "title": "",
+      "url": "",
+      "relevance": 61,
+      "matched": [
+        "\"amusement machine\"",
+        "\"sweepstakes\""
+      ]
+    },
+    {
+      "bill_id": "2060739",
+      "change_hash": "3d756fc8cec10108c9e1310d45283551",
+      "state": "",
+      "bill_number": "",
+      "last_action": "",
+      "last_action_date": "",
+      "title": "",
+      "url": "",
+      "relevance": 52,
+      "matched": [
+        "\"amusement machine\""
+      ]
+    },
+    {
+      "bill_id": "1909072",
+      "change_hash": "df565ffa9814b2d357af2dc5f2dda17b",
+      "state": "",
+      "bill_number": "",
+      "last_action": "",
+      "last_action_date": "",
+      "title": "",
+      "url": "",
+      "relevance": 49,
+      "matched": [
+        "\"amusement machine\""
+      ]
+    },
+    {
+      "bill_id": "1911281",
+      "change_hash": "ba8c51d2c9c549826e25bef83024940f",
+      "state": "",
+      "bill_number": "",
+      "last_action": "",
+      "last_action_date": "",
+      "title": "",
+      "url": "",
+      "relevance": 49,
+      "matched": [
+        "\"amusement machine\""
+      ]
+    },
+    {
+      "bill_id": "1918103",
+      "change_hash": "e0ca17696bd9b89fd01e6d67a589b6bb",
+      "state": "",
+      "bill_number": "",
+      "last_action": "",
+      "last_action_date": "",
+      "title": "",
+      "url": "",
+      "relevance": 49,
+      "matched": [
+        "\"amusement machine\""
+      ]
+    },
+    {
+      "bill_id": "1940755",
+      "change_hash": "22b1229c7bee45b46769f3cf79317c1e",
+      "state": "",
+      "bill_number": "",
+      "last_action": "",
+      "last_action_date": "",
+      "title": "",
+      "url": "",
+      "relevance": 49,
+      "matched": [
+        "\"amusement machine\""
+      ]
+    },
+    {
+      "bill_id": "1940279",
+      "change_hash": "ac780b4fd30b3efca2cdd57ce1d0d565",
+      "state": "",
+      "bill_number": "",
+      "last_action": "",
+      "last_action_date": "",
+      "title": "",
+      "url": "",
+      "relevance": 49,
+      "matched": [
+        "\"amusement machine\""
+      ]
+    },
+    {
+      "bill_id": "1906062",
+      "change_hash": "443dda9ce0061cabf59abf330baf2a08",
+      "state": "",
+      "bill_number": "",
+      "last_action": "",
+      "last_action_date": "",
+      "title": "",
+      "url": "",
+      "relevance": 49,
+      "matched": [
+        "\"amusement machine\""
+      ]
+    },
+    {
+      "bill_id": "2104045",
+      "change_hash": "6ccd6cc1fe9b1c128237062c9564e661",
+      "state": "",
+      "bill_number": "",
+      "last_action": "",
+      "last_action_date": "",
+      "title": "",
+      "url": "",
+      "relevance": 47,
+      "matched": [
+        "\"amusement machine\""
+      ]
+    },
+    {
+      "bill_id": "2138010",
+      "change_hash": "08ee1c6baf06157a0da5e84230ce8566",
+      "state": "",
+      "bill_number": "",
+      "last_action": "",
+      "last_action_date": "",
+      "title": "",
+      "url": "",
+      "relevance": 42,
+      "matched": [
+        "\"amusement machine\""
+      ]
+    },
+    {
+      "bill_id": "1976418",
+      "change_hash": "2f6839183c60e8fcaf627e899b12eb46",
+      "state": "",
+      "bill_number": "",
+      "last_action": "",
+      "last_action_date": "",
+      "title": "",
+      "url": "",
+      "relevance": 100,
+      "matched": [
+        "\"dual currency\"",
+        "\"sweepstakes\""
+      ]
+    },
+    {
+      "bill_id": "2056516",
+      "change_hash": "adb5689a0182fbb61ef437e8fc85f527",
+      "state": "",
+      "bill_number": "",
+      "last_action": "",
+      "last_action_date": "",
+      "title": "",
+      "url": "",
+      "relevance": 99,
+      "matched": [
+        "\"dual currency\"",
+        "\"sweepstakes\""
+      ]
+    },
+    {
+      "bill_id": "2089065",
+      "change_hash": "90cbde45cbf6e08f55b2790c62ff7ee5",
+      "state": "",
+      "bill_number": "",
+      "last_action": "",
+      "last_action_date": "",
+      "title": "",
+      "url": "",
+      "relevance": 99,
+      "matched": [
+        "\"dual currency\"",
+        "\"sweepstakes\""
+      ]
+    },
+    {
+      "bill_id": "2074451",
+      "change_hash": "26a24f02fb915c01bfd0191ff8891790",
+      "state": "",
+      "bill_number": "",
+      "last_action": "",
+      "last_action_date": "",
+      "title": "",
+      "url": "",
+      "relevance": 99,
+      "matched": [
+        "\"sweepstakes casino\"",
+        "\"sweepstakes\""
+      ]
+    },
+    {
+      "bill_id": "1999624",
+      "change_hash": "c1d93caf93fa383a708fe22bfaed7a57",
+      "state": "",
+      "bill_number": "",
+      "last_action": "",
+      "last_action_date": "",
+      "title": "",
+      "url": "",
+      "relevance": 99,
+      "matched": [
+        "\"dual currency\"",
+        "\"sweepstakes\""
+      ]
+    },
+    {
+      "bill_id": "1990505",
+      "change_hash": "b27ba535e703468d8b57abe17cf2bb7c",
+      "state": "",
+      "bill_number": "",
+      "last_action": "",
+      "last_action_date": "",
+      "title": "",
+      "url": "",
+      "relevance": 99,
+      "matched": [
+        "\"dual currency\"",
+        "\"sweepstakes\""
+      ]
+    },
+    {
+      "bill_id": "2092109",
+      "change_hash": "c73a35c89a9c996d17d429cb3dec369f",
+      "state": "",
+      "bill_number": "",
+      "last_action": "",
+      "last_action_date": "",
+      "title": "",
+      "url": "",
+      "relevance": 99,
+      "matched": [
+        "\"dual currency\"",
+        "\"sweepstakes\""
+      ]
+    },
+    {
+      "bill_id": "2133941",
+      "change_hash": "c2ee0cf82aef7c007c05d1ba907cf87a",
+      "state": "",
+      "bill_number": "",
+      "last_action": "",
+      "last_action_date": "",
+      "title": "",
+      "url": "",
+      "relevance": 99,
+      "matched": [
+        "\"dual currency\"",
+        "\"sweepstakes\""
+      ]
+    },
+    {
+      "bill_id": "2138550",
+      "change_hash": "0ef79cd0c6d192520f263616520cf7df",
+      "state": "",
+      "bill_number": "",
+      "last_action": "",
+      "last_action_date": "",
+      "title": "",
+      "url": "",
+      "relevance": 99,
+      "matched": [
+        "\"sweepstakes\""
+      ]
+    },
+    {
+      "bill_id": "2069578",
+      "change_hash": "ac3478668950b542a52e22b2657103d5",
+      "state": "",
+      "bill_number": "",
+      "last_action": "",
+      "last_action_date": "",
+      "title": "",
+      "url": "",
+      "relevance": 99,
+      "matched": [
+        "\"sweepstakes casino\"",
+        "\"sweepstakes\""
+      ]
+    },
+    {
+      "bill_id": "2134370",
+      "change_hash": "1236b5ed8c124230ba31fada4efc1f6d",
+      "state": "",
+      "bill_number": "",
+      "last_action": "",
+      "last_action_date": "",
+      "title": "",
+      "url": "",
+      "relevance": 98,
+      "matched": [
+        "\"dual currency\"",
+        "\"sweepstakes\""
+      ]
+    },
+    {
+      "bill_id": "2025223",
+      "change_hash": "243ce2057a80799800ab8db1d901325b",
+      "state": "",
+      "bill_number": "",
+      "last_action": "",
+      "last_action_date": "",
+      "title": "",
+      "url": "",
+      "relevance": 98,
+      "matched": [
+        "\"sweepstakes\""
+      ]
+    },
+    {
+      "bill_id": "2117323",
+      "change_hash": "c169a3401dffc272aca997ddea619c4c",
+      "state": "",
+      "bill_number": "",
+      "last_action": "",
+      "last_action_date": "",
+      "title": "",
+      "url": "",
+      "relevance": 96,
+      "matched": [
+        "\"sweepstakes\""
+      ]
+    },
+    {
+      "bill_id": "2027612",
+      "change_hash": "5cab47621b7fd1dfd7a8ba406ef7a8b6",
+      "state": "",
+      "bill_number": "",
+      "last_action": "",
+      "last_action_date": "",
+      "title": "",
+      "url": "",
+      "relevance": 96,
+      "matched": [
+        "\"sweepstakes\""
+      ]
+    },
+    {
+      "bill_id": "2102718",
+      "change_hash": "495a82f1d6ecea30069394146ef2c5dd",
+      "state": "",
+      "bill_number": "",
+      "last_action": "",
+      "last_action_date": "",
+      "title": "",
+      "url": "",
+      "relevance": 96,
+      "matched": [
+        "\"sweepstakes\""
+      ]
+    },
+    {
+      "bill_id": "2120329",
+      "change_hash": "aa847c748be4517264ff07b3eeb3bc99",
+      "state": "",
+      "bill_number": "",
+      "last_action": "",
+      "last_action_date": "",
+      "title": "",
+      "url": "",
+      "relevance": 96,
+      "matched": [
+        "\"sweepstakes\"",
+        "\"video gaming terminal\""
+      ]
+    },
+    {
+      "bill_id": "2142289",
+      "change_hash": "de3abe1a9d338b8cf0688a8b03c490e2",
+      "state": "",
+      "bill_number": "",
+      "last_action": "",
+      "last_action_date": "",
+      "title": "",
+      "url": "",
+      "relevance": 96,
+      "matched": [
+        "\"dual currency\"",
+        "\"sweepstakes\""
+      ]
+    },
+    {
+      "bill_id": "2138836",
+      "change_hash": "f6328309b9b0a3ae76c37082b164ee0d",
+      "state": "",
+      "bill_number": "",
+      "last_action": "",
+      "last_action_date": "",
+      "title": "",
+      "url": "",
+      "relevance": 95,
+      "matched": [
+        "\"dual currency\"",
+        "\"sweepstakes\""
+      ]
+    },
+    {
+      "bill_id": "2146084",
+      "change_hash": "d630e7df7403697b8d4e48aa196acbca",
+      "state": "",
+      "bill_number": "",
+      "last_action": "",
+      "last_action_date": "",
+      "title": "",
+      "url": "",
+      "relevance": 95,
+      "matched": [
+        "\"dual currency\"",
+        "\"sweepstakes\""
+      ]
+    },
+    {
+      "bill_id": "2113838",
+      "change_hash": "4a0e1211f4fe71af0d5eb1bbefa6932d",
+      "state": "",
+      "bill_number": "",
+      "last_action": "",
+      "last_action_date": "",
+      "title": "",
+      "url": "",
+      "relevance": 94,
+      "matched": [
+        "\"dual currency\"",
+        "\"sweepstakes\""
+      ]
+    },
+    {
+      "bill_id": "2067279",
+      "change_hash": "b87a824a841d45adc360cbea70e252bb",
+      "state": "",
+      "bill_number": "",
+      "last_action": "",
+      "last_action_date": "",
+      "title": "",
+      "url": "",
+      "relevance": 94,
+      "matched": [
+        "\"dual currency\"",
+        "\"sweepstakes\""
+      ]
+    },
+    {
+      "bill_id": "1922073",
+      "change_hash": "415e693e9cd6a2dc93df823a5ace8310",
+      "state": "",
+      "bill_number": "",
+      "last_action": "",
+      "last_action_date": "",
+      "title": "",
+      "url": "",
+      "relevance": 94,
+      "matched": [
+        "\"sweepstakes\""
+      ]
+    },
+    {
+      "bill_id": "2065889",
+      "change_hash": "19587580e34062c24e252f023ab784d5",
+      "state": "",
+      "bill_number": "",
+      "last_action": "",
+      "last_action_date": "",
+      "title": "",
+      "url": "",
+      "relevance": 93,
+      "matched": [
+        "\"dual currency\"",
+        "\"sweepstakes\""
+      ]
+    },
+    {
+      "bill_id": "2089258",
+      "change_hash": "23330379b1b0dad6f74973c5f6681013",
+      "state": "",
+      "bill_number": "",
+      "last_action": "",
+      "last_action_date": "",
+      "title": "",
+      "url": "",
+      "relevance": 93,
+      "matched": [
+        "\"sweepstakes\""
+      ]
+    },
+    {
+      "bill_id": "1990983",
+      "change_hash": "759d4a7abe6c9b3aca76d439e0705665",
+      "state": "",
+      "bill_number": "",
+      "last_action": "",
+      "last_action_date": "",
+      "title": "",
+      "url": "",
+      "relevance": 93,
+      "matched": [
+        "\"sweepstakes\""
+      ]
+    },
+    {
+      "bill_id": "2022540",
+      "change_hash": "51eab83986abc2bafbc69de7d63aa0dc",
+      "state": "",
+      "bill_number": "",
+      "last_action": "",
+      "last_action_date": "",
+      "title": "",
+      "url": "",
+      "relevance": 93,
+      "matched": [
+        "\"sweepstakes\""
+      ]
+    },
+    {
+      "bill_id": "2015181",
+      "change_hash": "899f83c29ea02dfc6c0ef0653b68b553",
+      "state": "",
+      "bill_number": "",
+      "last_action": "",
+      "last_action_date": "",
+      "title": "",
+      "url": "",
+      "relevance": 93,
+      "matched": [
+        "\"sweepstakes\""
+      ]
+    },
+    {
+      "bill_id": "2118935",
+      "change_hash": "5bb1a0538316a21a926b816ca1112c6c",
+      "state": "",
+      "bill_number": "",
+      "last_action": "",
+      "last_action_date": "",
+      "title": "",
+      "url": "",
+      "relevance": 93,
+      "matched": [
+        "\"sweepstakes\""
+      ]
+    },
+    {
+      "bill_id": "2022818",
+      "change_hash": "a9fccea1ef8e70daf0ac3aa1a7bb3ae5",
+      "state": "",
+      "bill_number": "",
+      "last_action": "",
+      "last_action_date": "",
+      "title": "",
+      "url": "",
+      "relevance": 93,
+      "matched": [
+        "\"sweepstakes\""
+      ]
+    },
+    {
+      "bill_id": "2042205",
+      "change_hash": "dfd979d46c353b9b02bc6c2aa73ec30e",
+      "state": "",
+      "bill_number": "",
+      "last_action": "",
+      "last_action_date": "",
+      "title": "",
+      "url": "",
+      "relevance": 92,
+      "matched": [
+        "\"dual currency\"",
+        "\"sweepstakes\""
+      ]
+    },
+    {
+      "bill_id": "2110204",
+      "change_hash": "51d1b1866d9eb6a2945745693b540a9a",
+      "state": "",
+      "bill_number": "",
+      "last_action": "",
+      "last_action_date": "",
+      "title": "",
+      "url": "",
+      "relevance": 92,
+      "matched": [
+        "\"dual currency\"",
+        "\"sweepstakes\""
+      ]
+    },
+    {
+      "bill_id": "2157295",
+      "change_hash": "b7244e97ad2f40c3b2ab79c1a194a0ee",
+      "state": "",
+      "bill_number": "",
+      "last_action": "",
+      "last_action_date": "",
+      "title": "",
+      "url": "",
+      "relevance": 92,
+      "matched": [
+        "\"sweepstakes\""
+      ]
+    },
+    {
+      "bill_id": "2105565",
+      "change_hash": "ece0f6699caabf402f6e3f9ce1cc4059",
+      "state": "",
+      "bill_number": "",
+      "last_action": "",
+      "last_action_date": "",
+      "title": "",
+      "url": "",
+      "relevance": 92,
+      "matched": [
+        "\"sweepstakes\""
+      ]
+    },
+    {
+      "bill_id": "2106355",
+      "change_hash": "562a60e59fd1dcdb58d5decf8048947f",
+      "state": "",
+      "bill_number": "",
+      "last_action": "",
+      "last_action_date": "",
+      "title": "",
+      "url": "",
+      "relevance": 92,
+      "matched": [
+        "\"sweepstakes\""
+      ]
+    },
+    {
+      "bill_id": "2022460",
+      "change_hash": "cc18fb5efe10eca6a8c702fa945dbc55",
+      "state": "",
+      "bill_number": "",
+      "last_action": "",
+      "last_action_date": "",
+      "title": "",
+      "url": "",
+      "relevance": 90,
+      "matched": [
+        "\"sweepstakes\""
+      ]
+    },
+    {
+      "bill_id": "1934004",
+      "change_hash": "744da122d22f488b8b3e8eb1ef39edf2",
+      "state": "",
+      "bill_number": "",
+      "last_action": "",
+      "last_action_date": "",
+      "title": "",
+      "url": "",
+      "relevance": 90,
+      "matched": [
+        "\"sweepstakes\""
+      ]
+    },
+    {
+      "bill_id": "2057748",
+      "change_hash": "b47e0e868a108989e1ad54e6cea1b430",
+      "state": "",
+      "bill_number": "",
+      "last_action": "",
+      "last_action_date": "",
+      "title": "",
+      "url": "",
+      "relevance": 88,
+      "matched": [
+        "\"sweepstakes\""
+      ]
+    },
+    {
+      "bill_id": "1954581",
+      "change_hash": "eaf4360d3b22ee694eb1b849134b246e",
+      "state": "",
+      "bill_number": "",
+      "last_action": "",
+      "last_action_date": "",
+      "title": "",
+      "url": "",
+      "relevance": 87,
+      "matched": [
+        "\"sweepstakes\""
+      ]
+    },
+    {
+      "bill_id": "2087994",
+      "change_hash": "63ab91d75b70d7c97606a7b30dad8fa2",
+      "state": "",
+      "bill_number": "",
+      "last_action": "",
+      "last_action_date": "",
+      "title": "",
+      "url": "",
+      "relevance": 87,
+      "matched": [
+        "\"sweepstakes\""
+      ]
+    },
+    {
+      "bill_id": "2002139",
+      "change_hash": "80a357b0a1931f3dd83741ebdf683687",
+      "state": "",
+      "bill_number": "",
+      "last_action": "",
+      "last_action_date": "",
+      "title": "",
+      "url": "",
+      "relevance": 87,
+      "matched": [
+        "\"sweepstakes\""
+      ]
+    },
+    {
+      "bill_id": "2119855",
+      "change_hash": "7adac40792d99e1ad391dcf1237ca42d",
+      "state": "",
+      "bill_number": "",
+      "last_action": "",
+      "last_action_date": "",
+      "title": "",
+      "url": "",
+      "relevance": 87,
+      "matched": [
+        "\"sweepstakes\""
+      ]
+    },
+    {
+      "bill_id": "2056027",
+      "change_hash": "cd5e861026976a75dfc33cf40a3693a5",
+      "state": "",
+      "bill_number": "",
+      "last_action": "",
+      "last_action_date": "",
+      "title": "",
+      "url": "",
+      "relevance": 87,
+      "matched": [
+        "\"sweepstakes\""
+      ]
+    },
+    {
+      "bill_id": "2066540",
+      "change_hash": "92d94d2e109602e3cb3e4f5afd1de45a",
+      "state": "",
+      "bill_number": "",
+      "last_action": "",
+      "last_action_date": "",
+      "title": "",
+      "url": "",
+      "relevance": 87,
+      "matched": [
+        "\"sweepstakes\""
+      ]
+    },
+    {
+      "bill_id": "1973675",
+      "change_hash": "b8c7f9056f049caf0f664adda83c8eba",
+      "state": "",
+      "bill_number": "",
+      "last_action": "",
+      "last_action_date": "",
+      "title": "",
+      "url": "",
+      "relevance": 87,
+      "matched": [
+        "\"sweepstakes\""
+      ]
+    },
+    {
+      "bill_id": "2150128",
+      "change_hash": "40a45750b0bcffee1a365a61695cc83b",
+      "state": "",
+      "bill_number": "",
+      "last_action": "",
+      "last_action_date": "",
+      "title": "",
+      "url": "",
+      "relevance": 87,
+      "matched": [
+        "\"sweepstakes\""
+      ]
+    },
+    {
+      "bill_id": "2150147",
+      "change_hash": "b6a2459c2b3f1ab4f98de3f9da9a6a3d",
+      "state": "",
+      "bill_number": "",
+      "last_action": "",
+      "last_action_date": "",
+      "title": "",
+      "url": "",
+      "relevance": 87,
+      "matched": [
+        "\"sweepstakes\""
+      ]
+    },
+    {
+      "bill_id": "2057742",
+      "change_hash": "585ca109394eb29932ff0ef4656375ee",
+      "state": "",
+      "bill_number": "",
+      "last_action": "",
+      "last_action_date": "",
+      "title": "",
+      "url": "",
+      "relevance": 86,
+      "matched": [
+        "\"sweepstakes\""
+      ]
+    },
+    {
+      "bill_id": "2071692",
+      "change_hash": "424188497c816bffdcfac79b183be6d4",
+      "state": "",
+      "bill_number": "",
+      "last_action": "",
+      "last_action_date": "",
+      "title": "",
+      "url": "",
+      "relevance": 86,
+      "matched": [
+        "\"sweepstakes\""
+      ]
+    },
+    {
+      "bill_id": "2044639",
+      "change_hash": "c46ce49cad28c5c592bc255ecb52e222",
+      "state": "",
+      "bill_number": "",
+      "last_action": "",
+      "last_action_date": "",
+      "title": "",
+      "url": "",
+      "relevance": 86,
+      "matched": [
+        "\"sweepstakes\""
+      ]
+    },
+    {
+      "bill_id": "2089334",
+      "change_hash": "82d4377f00df10f9abab303f5c0b8e9e",
+      "state": "",
+      "bill_number": "",
+      "last_action": "",
+      "last_action_date": "",
+      "title": "",
+      "url": "",
+      "relevance": 86,
+      "matched": [
+        "\"sweepstakes\""
+      ]
+    },
+    {
+      "bill_id": "2121694",
+      "change_hash": "33bd87c78ef855b5b72c7d419010d14c",
+      "state": "",
+      "bill_number": "",
+      "last_action": "",
+      "last_action_date": "",
+      "title": "",
+      "url": "",
+      "relevance": 85,
+      "matched": [
+        "\"sweepstakes\""
+      ]
+    },
+    {
+      "bill_id": "2077547",
+      "change_hash": "9741614cd6cd55b666566deb3343cfae",
+      "state": "",
+      "bill_number": "",
+      "last_action": "",
+      "last_action_date": "",
+      "title": "",
+      "url": "",
+      "relevance": 84,
+      "matched": [
+        "\"sweepstakes\""
+      ]
+    },
+    {
+      "bill_id": "2017420",
+      "change_hash": "61d6d1db759d08ea252d87553e86901a",
+      "state": "",
+      "bill_number": "",
+      "last_action": "",
+      "last_action_date": "",
+      "title": "",
+      "url": "",
+      "relevance": 83,
+      "matched": [
+        "\"sweepstakes\""
+      ]
+    },
+    {
+      "bill_id": "2112621",
+      "change_hash": "70a32837fd201e2c892241133417e32a",
+      "state": "",
+      "bill_number": "",
+      "last_action": "",
+      "last_action_date": "",
+      "title": "",
+      "url": "",
+      "relevance": 83,
+      "matched": [
+        "\"sweepstakes\""
+      ]
+    },
+    {
+      "bill_id": "2142491",
+      "change_hash": "6add615fe353cfea1fca27d41e769ea5",
+      "state": "",
+      "bill_number": "",
+      "last_action": "",
+      "last_action_date": "",
+      "title": "",
+      "url": "",
+      "relevance": 83,
+      "matched": [
+        "\"sweepstakes\""
+      ]
+    },
+    {
+      "bill_id": "2089388",
+      "change_hash": "6aafc00af7824e74f87075835eb5cb35",
+      "state": "",
+      "bill_number": "",
+      "last_action": "",
+      "last_action_date": "",
+      "title": "",
+      "url": "",
+      "relevance": 82,
+      "matched": [
+        "\"sweepstakes\""
+      ]
+    },
+    {
+      "bill_id": "2055109",
+      "change_hash": "a683ffe15ac2e43d6eae1e0a0e7ab755",
+      "state": "",
+      "bill_number": "",
+      "last_action": "",
+      "last_action_date": "",
+      "title": "",
+      "url": "",
+      "relevance": 82,
+      "matched": [
+        "\"sweepstakes\""
+      ]
+    },
+    {
+      "bill_id": "2047792",
+      "change_hash": "ef5be2e3363f386710118e01ea0e09d5",
+      "state": "",
+      "bill_number": "",
+      "last_action": "",
+      "last_action_date": "",
+      "title": "",
+      "url": "",
+      "relevance": 82,
+      "matched": [
+        "\"sweepstakes\""
+      ]
+    },
+    {
+      "bill_id": "2090720",
+      "change_hash": "612f3f5de3281ee72bc1c8d84a5e2ec5",
+      "state": "",
+      "bill_number": "",
+      "last_action": "",
+      "last_action_date": "",
+      "title": "",
+      "url": "",
+      "relevance": 82,
+      "matched": [
+        "\"sweepstakes\""
+      ]
+    },
+    {
+      "bill_id": "2091794",
+      "change_hash": "aef60a051d9544e44853ce9eb2e80dd1",
+      "state": "",
+      "bill_number": "",
+      "last_action": "",
+      "last_action_date": "",
+      "title": "",
+      "url": "",
+      "relevance": 81,
+      "matched": [
+        "\"sweepstakes\""
+      ]
+    },
+    {
+      "bill_id": "2089100",
+      "change_hash": "8bbb209319ff7322fcbc7b3cdaa4446d",
+      "state": "",
+      "bill_number": "",
+      "last_action": "",
+      "last_action_date": "",
+      "title": "",
+      "url": "",
+      "relevance": 80,
+      "matched": [
+        "\"sweepstakes\""
+      ]
+    },
+    {
+      "bill_id": "2114798",
+      "change_hash": "9c62354a4492a8a12a18bec2ad2bace9",
+      "state": "",
+      "bill_number": "",
+      "last_action": "",
+      "last_action_date": "",
+      "title": "",
+      "url": "",
+      "relevance": 80,
+      "matched": [
+        "\"sweepstakes\""
+      ]
+    },
+    {
+      "bill_id": "2123327",
+      "change_hash": "a68954f93fec4b58048e7ff078cca2fe",
+      "state": "",
+      "bill_number": "",
+      "last_action": "",
+      "last_action_date": "",
+      "title": "",
+      "url": "",
+      "relevance": 80,
+      "matched": [
+        "\"sweepstakes\""
+      ]
+    },
+    {
+      "bill_id": "2114543",
+      "change_hash": "eff562166131a0892f3022a207ead81a",
+      "state": "",
+      "bill_number": "",
+      "last_action": "",
+      "last_action_date": "",
+      "title": "",
+      "url": "",
+      "relevance": 80,
+      "matched": [
+        "\"sweepstakes\""
+      ]
+    },
+    {
+      "bill_id": "2072324",
+      "change_hash": "3d2c49912650b93a08f12ce26422bfc7",
+      "state": "",
+      "bill_number": "",
+      "last_action": "",
+      "last_action_date": "",
+      "title": "",
+      "url": "",
+      "relevance": 78,
+      "matched": [
+        "\"sweepstakes\""
+      ]
+    },
+    {
+      "bill_id": "2080996",
+      "change_hash": "c6b5c789bbf6c85759ab2dc8323cf41e",
+      "state": "",
+      "bill_number": "",
+      "last_action": "",
+      "last_action_date": "",
+      "title": "",
+      "url": "",
+      "relevance": 76,
+      "matched": [
+        "\"sweepstakes\""
+      ]
+    },
+    {
+      "bill_id": "2086811",
+      "change_hash": "d6252d36b4bb953f3a1fba8e38bceaf6",
+      "state": "",
+      "bill_number": "",
+      "last_action": "",
+      "last_action_date": "",
+      "title": "",
+      "url": "",
+      "relevance": 76,
+      "matched": [
+        "\"sweepstakes\""
+      ]
+    },
+    {
+      "bill_id": "2101704",
+      "change_hash": "191463cdd4a37f80abd61b2742e9e7d0",
+      "state": "",
+      "bill_number": "",
+      "last_action": "",
+      "last_action_date": "",
+      "title": "",
+      "url": "",
+      "relevance": 73,
+      "matched": [
+        "\"sweepstakes\""
+      ]
+    },
+    {
+      "bill_id": "1984954",
+      "change_hash": "c6c8fd4265b259d6a2d7c16445c9a0c7",
+      "state": "",
+      "bill_number": "",
+      "last_action": "",
+      "last_action_date": "",
+      "title": "",
+      "url": "",
+      "relevance": 71,
+      "matched": [
+        "\"sweepstakes\""
+      ]
+    },
+    {
+      "bill_id": "2022436",
+      "change_hash": "64a8c1ab1fb0ea867dcdcc62289ccb02",
+      "state": "",
+      "bill_number": "",
+      "last_action": "",
+      "last_action_date": "",
+      "title": "",
+      "url": "",
+      "relevance": 70,
+      "matched": [
+        "\"sweepstakes\""
+      ]
+    },
+    {
+      "bill_id": "1981394",
+      "change_hash": "eddf5613a5a7252f057cb60b24abf8bc",
+      "state": "",
+      "bill_number": "",
+      "last_action": "",
+      "last_action_date": "",
+      "title": "",
+      "url": "",
+      "relevance": 69,
+      "matched": [
+        "\"sweepstakes\""
+      ]
+    },
+    {
+      "bill_id": "2055208",
+      "change_hash": "48f7fff04929c1373c5d3bb354f4f700",
+      "state": "",
+      "bill_number": "",
+      "last_action": "",
+      "last_action_date": "",
+      "title": "",
+      "url": "",
+      "relevance": 69,
+      "matched": [
+        "\"sweepstakes\""
+      ]
+    },
+    {
+      "bill_id": "2018259",
+      "change_hash": "22b809696728fa6581894a424a0387d3",
+      "state": "",
+      "bill_number": "",
+      "last_action": "",
+      "last_action_date": "",
+      "title": "",
+      "url": "",
+      "relevance": 68,
+      "matched": [
+        "\"sweepstakes\""
+      ]
+    },
+    {
+      "bill_id": "2132096",
+      "change_hash": "1a05f853c2683a467426549cd8eced2c",
+      "state": "",
+      "bill_number": "",
+      "last_action": "",
+      "last_action_date": "",
+      "title": "",
+      "url": "",
+      "relevance": 65,
+      "matched": [
+        "\"dual currency\"",
+        "\"sweepstakes\""
+      ]
+    },
+    {
+      "bill_id": "1959298",
+      "change_hash": "8abe7d6fa90cef05133032e75fec6053",
+      "state": "",
+      "bill_number": "",
+      "last_action": "",
+      "last_action_date": "",
+      "title": "",
+      "url": "",
+      "relevance": 40,
+      "matched": [
+        "\"sweepstakes\""
+      ]
+    },
+    {
+      "bill_id": "2072888",
+      "change_hash": "ffeef05e76fdc6fc663fdf26eba59900",
+      "state": "",
+      "bill_number": "",
+      "last_action": "",
+      "last_action_date": "",
+      "title": "",
+      "url": "",
+      "relevance": 99,
+      "matched": [
+        "\"dual currency\""
+      ]
+    },
+    {
+      "bill_id": "2127326",
+      "change_hash": "a304307c6f9bb694649656bf57f9c5ef",
+      "state": "",
+      "bill_number": "",
+      "last_action": "",
+      "last_action_date": "",
+      "title": "",
+      "url": "",
+      "relevance": 98,
+      "matched": [
+        "\"dual currency\""
+      ]
+    },
+    {
+      "bill_id": "2082829",
+      "change_hash": "aa8d86e60178b13494f77ba7c2c7977b",
+      "state": "",
+      "bill_number": "",
+      "last_action": "",
+      "last_action_date": "",
+      "title": "",
+      "url": "",
+      "relevance": 96,
+      "matched": [
+        "\"dual currency\""
+      ]
+    },
+    {
+      "bill_id": "2022874",
+      "change_hash": "3f01032bfa8155f38e917aa82ecbb58e",
+      "state": "",
+      "bill_number": "",
+      "last_action": "",
+      "last_action_date": "",
+      "title": "",
+      "url": "",
+      "relevance": 100,
+      "matched": [
+        "\"video gaming terminal\""
+      ]
+    },
+    {
+      "bill_id": "2065039",
+      "change_hash": "41f96d2e0dc4ca007ca9baf9fc3fe15f",
+      "state": "",
+      "bill_number": "",
+      "last_action": "",
+      "last_action_date": "",
+      "title": "",
+      "url": "",
+      "relevance": 99,
+      "matched": [
+        "\"video gaming terminal\""
+      ]
+    },
+    {
+      "bill_id": "1962389",
+      "change_hash": "62d24be787e1b81939a31cf3cfc93596",
+      "state": "",
+      "bill_number": "",
+      "last_action": "",
+      "last_action_date": "",
+      "title": "",
+      "url": "",
+      "relevance": 99,
+      "matched": [
+        "\"video gaming terminal\""
+      ]
+    },
+    {
+      "bill_id": "2111355",
+      "change_hash": "ee011018e4b7571c5b9b8a8b8b264502",
+      "state": "",
+      "bill_number": "",
+      "last_action": "",
+      "last_action_date": "",
+      "title": "",
+      "url": "",
+      "relevance": 99,
+      "matched": [
+        "\"video gaming terminal\""
+      ]
+    },
+    {
+      "bill_id": "1960203",
+      "change_hash": "aed41ecbe21c37ea2dd8795d76a3b8ac",
+      "state": "",
+      "bill_number": "",
+      "last_action": "",
+      "last_action_date": "",
+      "title": "",
+      "url": "",
+      "relevance": 99,
+      "matched": [
+        "\"video gaming terminal\""
+      ]
+    },
+    {
+      "bill_id": "1962018",
+      "change_hash": "60c302eb4427f0d9872550a7bde82fec",
+      "state": "",
+      "bill_number": "",
+      "last_action": "",
+      "last_action_date": "",
+      "title": "",
+      "url": "",
+      "relevance": 99,
+      "matched": [
+        "\"video gaming terminal\""
+      ]
+    },
+    {
+      "bill_id": "1944785",
+      "change_hash": "8eab8179e02d9f2987d224acf4d7169f",
+      "state": "",
+      "bill_number": "",
+      "last_action": "",
+      "last_action_date": "",
+      "title": "",
+      "url": "",
+      "relevance": 99,
+      "matched": [
+        "\"video gaming terminal\""
+      ]
+    },
+    {
+      "bill_id": "2111271",
+      "change_hash": "8573a06d4903cec26995f985647fd9c5",
+      "state": "",
+      "bill_number": "",
+      "last_action": "",
+      "last_action_date": "",
+      "title": "",
+      "url": "",
+      "relevance": 99,
+      "matched": [
+        "\"video gaming terminal\""
+      ]
+    },
+    {
+      "bill_id": "2105110",
+      "change_hash": "830a9ecd045e36acb105a556f2067dbb",
+      "state": "",
+      "bill_number": "",
+      "last_action": "",
+      "last_action_date": "",
+      "title": "",
+      "url": "",
+      "relevance": 99,
+      "matched": [
+        "\"video gaming terminal\""
+      ]
+    },
+    {
+      "bill_id": "1960226",
+      "change_hash": "b8161c2e9ab50d02bff1dcda283abbd4",
+      "state": "",
+      "bill_number": "",
+      "last_action": "",
+      "last_action_date": "",
+      "title": "",
+      "url": "",
+      "relevance": 99,
+      "matched": [
+        "\"video gaming terminal\""
+      ]
+    },
+    {
+      "bill_id": "2033983",
+      "change_hash": "11c67fa0b95bb6f9a4d4c137f63f4623",
+      "state": "",
+      "bill_number": "",
+      "last_action": "",
+      "last_action_date": "",
+      "title": "",
+      "url": "",
+      "relevance": 99,
+      "matched": [
+        "\"video gaming terminal\""
+      ]
+    },
+    {
+      "bill_id": "2061511",
+      "change_hash": "5e908aa988adb959e1d3978038fd88cb",
+      "state": "",
+      "bill_number": "",
+      "last_action": "",
+      "last_action_date": "",
+      "title": "",
+      "url": "",
+      "relevance": 98,
+      "matched": [
+        "\"video gaming terminal\""
+      ]
+    },
+    {
+      "bill_id": "2103528",
+      "change_hash": "98c5de01cdc0192afd34f7280d8358ee",
+      "state": "",
+      "bill_number": "",
+      "last_action": "",
+      "last_action_date": "",
+      "title": "",
+      "url": "",
+      "relevance": 98,
+      "matched": [
+        "\"video gaming terminal\""
+      ]
+    },
+    {
+      "bill_id": "1959189",
+      "change_hash": "03c73c639034d1000f32023891be2938",
+      "state": "",
+      "bill_number": "",
+      "last_action": "",
+      "last_action_date": "",
+      "title": "",
+      "url": "",
+      "relevance": 98,
+      "matched": [
+        "\"video gaming terminal\""
+      ]
+    },
+    {
+      "bill_id": "2020063",
+      "change_hash": "e95942c796ff82113a710d1dcbac29ba",
+      "state": "",
+      "bill_number": "",
+      "last_action": "",
+      "last_action_date": "",
+      "title": "",
+      "url": "",
+      "relevance": 98,
+      "matched": [
+        "\"video gaming terminal\""
+      ]
+    },
+    {
+      "bill_id": "1906083",
+      "change_hash": "cf6e454f52ae9918e2dfe9f5ef6ff9e6",
+      "state": "",
+      "bill_number": "",
+      "last_action": "",
+      "last_action_date": "",
+      "title": "",
+      "url": "",
+      "relevance": 97,
+      "matched": [
+        "\"video gaming terminal\""
+      ]
+    },
+    {
+      "bill_id": "2104996",
+      "change_hash": "26009a0d693308a766946886ec997c36",
+      "state": "",
+      "bill_number": "",
+      "last_action": "",
+      "last_action_date": "",
+      "title": "",
+      "url": "",
+      "relevance": 95,
+      "matched": [
+        "\"video gaming terminal\""
+      ]
+    },
+    {
+      "bill_id": "2002117",
+      "change_hash": "a8ce44738467c3e94b346839e53c4fd4",
+      "state": "",
+      "bill_number": "",
+      "last_action": "",
+      "last_action_date": "",
+      "title": "",
+      "url": "",
+      "relevance": 95,
+      "matched": [
+        "\"video gaming terminal\""
+      ]
+    },
+    {
+      "bill_id": "1906194",
+      "change_hash": "6d44e75b200b7e98cc171dfd8b8d7b21",
+      "state": "",
+      "bill_number": "",
+      "last_action": "",
+      "last_action_date": "",
+      "title": "",
+      "url": "",
+      "relevance": 93,
+      "matched": [
+        "\"video gaming terminal\""
+      ]
+    },
+    {
+      "bill_id": "2107648",
+      "change_hash": "3323a340f1de8191f7f3a5acfe63ea34",
+      "state": "",
+      "bill_number": "",
+      "last_action": "",
+      "last_action_date": "",
+      "title": "",
+      "url": "",
+      "relevance": 91,
+      "matched": [
+        "\"video gaming terminal\""
+      ]
+    },
+    {
+      "bill_id": "2110356",
+      "change_hash": "841b4316c6990cdfe425ed2ba19e630c",
+      "state": "",
+      "bill_number": "",
+      "last_action": "",
+      "last_action_date": "",
+      "title": "",
+      "url": "",
+      "relevance": 78,
+      "matched": [
+        "\"video gaming terminal\""
+      ]
+    },
+    {
+      "bill_id": "1906342",
+      "change_hash": "e4e6b6bc17d2ec0f71211528ad614324",
+      "state": "",
+      "bill_number": "",
+      "last_action": "",
+      "last_action_date": "",
+      "title": "",
+      "url": "",
+      "relevance": 72,
+      "matched": [
+        "\"video gaming terminal\""
+      ]
+    },
+    {
+      "bill_id": "1958330",
+      "change_hash": "12382d8b8e66f35cd90be7607257b43e",
+      "state": "",
+      "bill_number": "",
+      "last_action": "",
+      "last_action_date": "",
+      "title": "",
+      "url": "",
+      "relevance": 53,
+      "matched": [
+        "\"video gaming terminal\""
+      ]
+    },
+    {
+      "bill_id": "1943148",
+      "change_hash": "3a5ee4df9e4b9e29041f0cba224ae12a",
+      "state": "",
+      "bill_number": "",
+      "last_action": "",
+      "last_action_date": "",
+      "title": "",
+      "url": "",
+      "relevance": 99,
+      "matched": [
+        "\"electronic gaming device\""
+      ]
+    },
+    {
+      "bill_id": "1916769",
+      "change_hash": "f5ac6d14205a5e7eaaa0ee95e60674b4",
+      "state": "",
+      "bill_number": "",
+      "last_action": "",
+      "last_action_date": "",
+      "title": "",
+      "url": "",
+      "relevance": 99,
+      "matched": [
+        "\"electronic gaming device\""
+      ]
+    },
+    {
+      "bill_id": "2071466",
+      "change_hash": "bc31aff2cc820cdf9caf34fbc0d66b05",
+      "state": "",
+      "bill_number": "",
+      "last_action": "",
+      "last_action_date": "",
+      "title": "",
+      "url": "",
+      "relevance": 98,
+      "matched": [
+        "\"electronic gaming device\""
+      ]
+    },
+    {
+      "bill_id": "2064477",
+      "change_hash": "dcb81a69d2f7dc76ad814666b69e12d0",
+      "state": "",
+      "bill_number": "",
+      "last_action": "",
+      "last_action_date": "",
+      "title": "",
+      "url": "",
+      "relevance": 98,
+      "matched": [
+        "\"electronic gaming device\""
+      ]
+    },
+    {
+      "bill_id": "1930848",
+      "change_hash": "e46e75d33a26f80018a880a8547e4a63",
+      "state": "",
+      "bill_number": "",
+      "last_action": "",
+      "last_action_date": "",
+      "title": "",
+      "url": "",
+      "relevance": 97,
+      "matched": [
+        "\"electronic gaming device\""
+      ]
+    },
+    {
+      "bill_id": "2073693",
+      "change_hash": "9ac3c473b721cda4ce05082ef412348e",
+      "state": "",
+      "bill_number": "",
+      "last_action": "",
+      "last_action_date": "",
+      "title": "",
+      "url": "",
+      "relevance": 97,
+      "matched": [
+        "\"electronic gaming device\""
+      ]
+    },
+    {
+      "bill_id": "1928266",
+      "change_hash": "3c7b5084882fd753ef7faabc9dcb5a33",
+      "state": "",
+      "bill_number": "",
+      "last_action": "",
+      "last_action_date": "",
+      "title": "",
+      "url": "",
+      "relevance": 97,
+      "matched": [
+        "\"electronic gaming device\""
+      ]
+    },
+    {
+      "bill_id": "1924243",
+      "change_hash": "b112d6dce7e4d331c3a912ebf22b26f9",
+      "state": "",
+      "bill_number": "",
+      "last_action": "",
+      "last_action_date": "",
+      "title": "",
+      "url": "",
+      "relevance": 97,
+      "matched": [
+        "\"electronic gaming device\""
+      ]
+    },
+    {
+      "bill_id": "1909417",
+      "change_hash": "aafa8a29502fe9341b4597d1ddfca73e",
+      "state": "",
+      "bill_number": "",
+      "last_action": "",
+      "last_action_date": "",
+      "title": "",
+      "url": "",
+      "relevance": 97,
+      "matched": [
+        "\"electronic gaming device\""
+      ]
+    },
+    {
+      "bill_id": "2078028",
+      "change_hash": "2eee656b87aa440f24e07e7b3e1c51d7",
+      "state": "",
+      "bill_number": "",
+      "last_action": "",
+      "last_action_date": "",
+      "title": "",
+      "url": "",
+      "relevance": 97,
+      "matched": [
+        "\"electronic gaming device\""
+      ]
+    },
+    {
+      "bill_id": "2071213",
+      "change_hash": "63934143a0d266d5017e2d949e6ac857",
+      "state": "",
+      "bill_number": "",
+      "last_action": "",
+      "last_action_date": "",
+      "title": "",
+      "url": "",
+      "relevance": 97,
+      "matched": [
+        "\"electronic gaming device\""
+      ]
+    },
+    {
+      "bill_id": "2088393",
+      "change_hash": "8927e17085bf1e6ca1d7e9284e79ae7c",
+      "state": "",
+      "bill_number": "",
+      "last_action": "",
+      "last_action_date": "",
+      "title": "",
+      "url": "",
+      "relevance": 97,
+      "matched": [
+        "\"electronic gaming device\""
+      ]
+    },
+    {
+      "bill_id": "2077812",
+      "change_hash": "235c3079763039291ff68d7d744f246c",
+      "state": "",
+      "bill_number": "",
+      "last_action": "",
+      "last_action_date": "",
+      "title": "",
+      "url": "",
+      "relevance": 97,
+      "matched": [
+        "\"electronic gaming device\""
+      ]
+    },
+    {
+      "bill_id": "2090030",
+      "change_hash": "adb320b53451e11171b9f77ee974c37d",
+      "state": "",
+      "bill_number": "",
+      "last_action": "",
+      "last_action_date": "",
+      "title": "",
+      "url": "",
+      "relevance": 97,
+      "matched": [
+        "\"electronic gaming device\""
+      ]
+    },
+    {
+      "bill_id": "2116303",
+      "change_hash": "72380e3228b3951fa2d6ed9b5dc55f68",
+      "state": "",
+      "bill_number": "",
+      "last_action": "",
+      "last_action_date": "",
+      "title": "",
+      "url": "",
+      "relevance": 96,
+      "matched": [
+        "\"electronic gaming device\""
+      ]
+    },
+    {
+      "bill_id": "2085756",
+      "change_hash": "5745c6bbdc85e2286314e39028c32392",
+      "state": "",
+      "bill_number": "",
+      "last_action": "",
+      "last_action_date": "",
+      "title": "",
+      "url": "",
+      "relevance": 96,
+      "matched": [
+        "\"electronic gaming device\""
+      ]
+    },
+    {
+      "bill_id": "2052833",
+      "change_hash": "6a28470c5851091b702198c11680112e",
+      "state": "",
+      "bill_number": "",
+      "last_action": "",
+      "last_action_date": "",
+      "title": "",
+      "url": "",
+      "relevance": 95,
+      "matched": [
+        "\"electronic gaming device\""
+      ]
+    },
+    {
+      "bill_id": "2155731",
+      "change_hash": "d379b9be19e8881a47dc107b5d633935",
+      "state": "",
+      "bill_number": "",
+      "last_action": "",
+      "last_action_date": "",
+      "title": "",
+      "url": "",
+      "relevance": 94,
+      "matched": [
+        "\"electronic gaming device\""
+      ]
+    },
+    {
+      "bill_id": "2073342",
+      "change_hash": "2db3746596099ec040081d186bb8b88d",
+      "state": "",
+      "bill_number": "",
+      "last_action": "",
+      "last_action_date": "",
+      "title": "",
+      "url": "",
+      "relevance": 92,
+      "matched": [
+        "\"electronic gaming device\""
+      ]
+    },
+    {
+      "bill_id": "2065649",
+      "change_hash": "02a6f77eee9cc78328131a006ef2eae8",
+      "state": "",
+      "bill_number": "",
+      "last_action": "",
+      "last_action_date": "",
+      "title": "",
+      "url": "",
+      "relevance": 91,
+      "matched": [
+        "\"electronic gaming device\""
+      ]
+    },
+    {
+      "bill_id": "2073634",
+      "change_hash": "88e5d863209ebd9b20538eca6de3618c",
+      "state": "",
+      "bill_number": "",
+      "last_action": "",
+      "last_action_date": "",
+      "title": "",
+      "url": "",
+      "relevance": 91,
+      "matched": [
+        "\"electronic gaming device\""
+      ]
+    },
+    {
+      "bill_id": "2068239",
+      "change_hash": "09989a280d120c81a87fd5325fe4adef",
+      "state": "",
+      "bill_number": "",
+      "last_action": "",
+      "last_action_date": "",
+      "title": "",
+      "url": "",
+      "relevance": 89,
+      "matched": [
+        "\"electronic gaming device\""
+      ]
+    }
+  ],
+  "changed": [],
+  "no_longer_matching": [],
+  "errors": [],
+  "attribution": "LegiScan API by LegiScan LLC, licensed under CC BY 4.0"
+}
