@@ -5,14 +5,19 @@ records what changed since the previous run.
 
 Data source: LegiScan API by LegiScan LLC, licensed under CC BY 4.0.
 
+Query pattern, per LegiScan's documented work loop:
+  getSearchRaw  cheap. Returns bill_id, change_hash and relevance only.
+                Used to find matches and detect changes.
+  getBill       spent only on bills that are new or whose change_hash moved.
+                Supplies state, bill number, title, status, links and history.
+Descriptive detail for unchanged bills is reused from data/details.json rather
+than re-fetched, so steady-state query spend is a few dozen calls per run.
+
 Outputs (all under data/):
-  latest.json   every bill currently matching the keyword set
+  latest.json   every bill currently matching, with descriptive detail
   changes.json  only what is new or changed since the last run
   state.json    bill_id -> change_hash, used to detect changes next run
-
-Query spend: one getSearchRaw call per keyword per page. With the default
-keyword set this is roughly 15 to 30 queries per run, well inside the
-30,000 per month public tier.
+  details.json  bill_id -> cached descriptive detail
 """
 
 import json
@@ -48,7 +53,12 @@ MIN_RELEVANCE = int(os.environ.get("MIN_RELEVANCE", "40"))
 # year=2 restricts to the current legislative session.
 YEAR = os.environ.get("LEGISCAN_YEAR", "2")
 
+# Safety valve on getBill spend in a single run.
+DETAIL_CAP = int(os.environ.get("DETAIL_CAP", "500"))
+
 MAX_PAGES = 10
+SEARCH_DELAY = 1.0
+BILL_DELAY = 0.4
 
 
 def api_call(params):
@@ -66,7 +76,7 @@ def api_call(params):
 
 
 def search(keyword):
-    """getSearchRaw across all states, paginated. Returns {bill_id: record}."""
+    """getSearchRaw across all states, paginated. Returns {bill_id: stub}."""
     found = {}
     page = 1
     while page <= MAX_PAGES:
@@ -76,31 +86,64 @@ def search(keyword):
         result = payload.get("searchresult", {})
         summary = result.get("summary", {})
         for item in result.get("results", []):
-            if int(item.get("relevance", 0)) < MIN_RELEVANCE:
+            relevance = int(item.get("relevance", 0) or 0)
+            if relevance < MIN_RELEVANCE:
                 continue
             bill_id = str(item["bill_id"])
-            record = {
-                "bill_id": bill_id,
-                "change_hash": item.get("change_hash", ""),
-                "state": item.get("state", ""),
-                "bill_number": item.get("bill_number", ""),
-                "last_action": item.get("last_action", ""),
-                "last_action_date": item.get("last_action_date", ""),
-                "title": item.get("title", ""),
-                "url": item.get("url", ""),
-                "relevance": item.get("relevance", 0),
-                "matched": [keyword],
-            }
             if bill_id in found:
                 found[bill_id]["matched"].append(keyword)
+                found[bill_id]["relevance"] = max(found[bill_id]["relevance"], relevance)
             else:
-                found[bill_id] = record
+                found[bill_id] = {
+                    "bill_id": bill_id,
+                    "change_hash": item.get("change_hash", ""),
+                    "relevance": relevance,
+                    "matched": [keyword],
+                }
         page_total = int(summary.get("page_total", 1) or 1)
         if page >= page_total:
             break
         page += 1
-        time.sleep(1)
+        time.sleep(SEARCH_DELAY)
     return found
+
+
+def fetch_detail(bill_id):
+    """getBill for one bill. Returns the descriptive fields we report on."""
+    bill = api_call({"op": "getBill", "id": bill_id}).get("bill", {})
+    history = bill.get("history") or []
+    last = history[-1] if history else {}
+    session = bill.get("session") or {}
+    return {
+        "state": bill.get("state", ""),
+        "bill_number": bill.get("bill_number", ""),
+        "title": bill.get("title", ""),
+        "description": bill.get("description", ""),
+        "status": bill.get("status", ""),
+        "status_date": bill.get("status_date", ""),
+        "last_action": last.get("action", ""),
+        "last_action_date": last.get("date", ""),
+        "url": bill.get("url", ""),
+        "state_link": bill.get("state_link", ""),
+        "session": session.get("session_name", ""),
+    }
+
+
+def merge(stub, detail):
+    record = dict(detail)
+    record.update(
+        {
+            "bill_id": stub["bill_id"],
+            "change_hash": stub["change_hash"],
+            "relevance": stub["relevance"],
+            "matched": sorted(set(stub["matched"])),
+        }
+    )
+    return record
+
+
+def sort_key(record):
+    return (record.get("state", ""), record.get("bill_number", ""), record.get("bill_id", ""))
 
 
 def main():
@@ -109,51 +152,73 @@ def main():
 
     DATA.mkdir(parents=True, exist_ok=True)
     state_path = DATA / "state.json"
-    previous = {}
-    if state_path.exists():
-        previous = json.loads(state_path.read_text())
+    details_path = DATA / "details.json"
 
-    current = {}
-    errors = []
+    previous = json.loads(state_path.read_text()) if state_path.exists() else {}
+    details = json.loads(details_path.read_text()) if details_path.exists() else {}
+
+    current, errors = {}, []
     for keyword in KEYWORDS:
         try:
-            for bill_id, record in search(keyword).items():
+            for bill_id, stub in search(keyword).items():
                 if bill_id in current:
-                    current[bill_id]["matched"] = sorted(
-                        set(current[bill_id]["matched"]) | set(record["matched"])
+                    current[bill_id]["matched"].extend(stub["matched"])
+                    current[bill_id]["relevance"] = max(
+                        current[bill_id]["relevance"], stub["relevance"]
                     )
                 else:
-                    current[bill_id] = record
-        except Exception as exc:  # keep going; a failed keyword is reported, not fatal
-            errors.append({"keyword": keyword, "error": str(exc)})
-        time.sleep(1)
+                    current[bill_id] = stub
+        except Exception as exc:  # a failed keyword is reported, not fatal
+            errors.append({"stage": "search", "keyword": keyword, "error": str(exc)})
+        time.sleep(SEARCH_DELAY)
 
-    for record in current.values():
-        record["matched"] = sorted(set(record["matched"]))
-
-    new_bills, changed_bills = [], []
-    for bill_id, record in current.items():
+    # Decide which bills need a getBill query.
+    new_ids, changed_ids = [], []
+    for bill_id, stub in current.items():
         if bill_id not in previous:
-            new_bills.append(record)
-        elif previous[bill_id] != record["change_hash"]:
-            changed_bills.append(record)
+            new_ids.append(bill_id)
+        elif previous[bill_id] != stub["change_hash"]:
+            changed_ids.append(bill_id)
+
+    # A bill with no cached detail needs one even if its hash did not move,
+    # which is how a run recovers from an earlier failed lookup.
+    missing_ids = [b for b in current if b not in details and b not in new_ids and b not in changed_ids]
+
+    to_fetch = new_ids + changed_ids + missing_ids
+    capped = len(to_fetch) > DETAIL_CAP
+    for bill_id in to_fetch[:DETAIL_CAP]:
+        try:
+            details[bill_id] = fetch_detail(bill_id)
+        except Exception as exc:
+            errors.append({"stage": "getBill", "bill_id": bill_id, "error": str(exc)})
+        time.sleep(BILL_DELAY)
+
+    blank = {
+        "state": "", "bill_number": "", "title": "", "description": "", "status": "",
+        "status_date": "", "last_action": "", "last_action_date": "", "url": "",
+        "state_link": "", "session": "",
+    }
+    records = {bid: merge(stub, details.get(bid, blank)) for bid, stub in current.items()}
 
     disappeared = sorted(set(previous) - set(current))
-    run_time = datetime.now(timezone.utc).isoformat(timespec="seconds")
+    for bill_id in disappeared:
+        details.pop(bill_id, None)
 
+    run_time = datetime.now(timezone.utc).isoformat(timespec="seconds")
     changes = {
         "generated_utc": run_time,
         "first_run": not state_path.exists(),
         "keywords": KEYWORDS,
         "min_relevance": MIN_RELEVANCE,
+        "detail_cap_hit": capped,
         "totals": {
-            "matching": len(current),
-            "new": len(new_bills),
-            "changed": len(changed_bills),
+            "matching": len(records),
+            "new": len(new_ids),
+            "changed": len(changed_ids),
             "no_longer_matching": len(disappeared),
         },
-        "new": sorted(new_bills, key=lambda r: (r["state"], r["bill_number"])),
-        "changed": sorted(changed_bills, key=lambda r: (r["state"], r["bill_number"])),
+        "new": sorted((records[b] for b in new_ids), key=sort_key),
+        "changed": sorted((records[b] for b in changed_ids), key=sort_key),
         "no_longer_matching": disappeared,
         "errors": errors,
         "attribution": "LegiScan API by LegiScan LLC, licensed under CC BY 4.0",
@@ -164,23 +229,25 @@ def main():
         json.dumps(
             {
                 "generated_utc": run_time,
-                "count": len(current),
-                "bills": sorted(current.values(), key=lambda r: (r["state"], r["bill_number"])),
+                "count": len(records),
+                "bills": sorted(records.values(), key=sort_key),
                 "attribution": "LegiScan API by LegiScan LLC, licensed under CC BY 4.0",
             },
             indent=2,
         )
     )
     state_path.write_text(
-        json.dumps({bid: rec["change_hash"] for bid, rec in current.items()}, indent=2, sort_keys=True)
+        json.dumps({b: s["change_hash"] for b, s in current.items()}, indent=2, sort_keys=True)
     )
+    details_path.write_text(json.dumps(details, indent=2, sort_keys=True))
 
     print(
-        f"{run_time} matching={len(current)} new={len(new_bills)} "
-        f"changed={len(changed_bills)} gone={len(disappeared)} errors={len(errors)}"
+        f"{run_time} matching={len(records)} new={len(new_ids)} changed={len(changed_ids)} "
+        f"gone={len(disappeared)} detail_calls={min(len(to_fetch), DETAIL_CAP)} "
+        f"capped={capped} errors={len(errors)}"
     )
     for err in errors:
-        print(f"  keyword failed: {err['keyword']}: {err['error']}", file=sys.stderr)
+        print(f"  {err}", file=sys.stderr)
 
 
 if __name__ == "__main__":
