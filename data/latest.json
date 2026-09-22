@@ -1,5 +1,5 @@
 {
-  "generated_utc": "2026-09-21T15:59:06+00:00",
+  "generated_utc": "2026-09-22T14:07:17+00:00",
   "count": 305,
   "bills": [
     {
@@ -3165,17 +3165,17 @@
       "subject_terms": []
     },
     {
-      "state": "IL",
       "bill_number": "HB5814",
-      "title": "SPORTS WAGERING-FANTASY MKT",
       "description": "Amends the Sports Wagering Act. Repeals provisions concerning an exchange wager transaction tax. Repeals the following provisions concerning fantasy contests: (1) provisions providing that fantasy contests do not constitute gambling; (2) provisions concerning licensure of fantasy contest operators; and (3) provisions imposing a privilege tax on the privilege of holding a license to operate fantasy contests under the Act. Amends the Criminal Code of 2012. Repeals provisions providing that participants in certain fantasy contests shall not be convicted of gambling. Effective immediately.",
-      "status": 1,
-      "status_date": "2026-09-14",
       "last_action": "Added Co-Sponsor Rep. Steven Reick",
       "last_action_date": "2026-09-17",
-      "url": "https://legiscan.com/IL/bill/HB5814/2025",
-      "state_link": "https://www.ilga.gov/Legislation/BillStatus?DocNum=5814&GAID=18&DocTypeID=HB&LegId=168901&SessionID=114",
       "session": "104th General Assembly",
+      "state": "IL",
+      "state_link": "https://www.ilga.gov/Legislation/BillStatus?DocNum=5814&GAID=18&DocTypeID=HB&LegId=168901&SessionID=114",
+      "status": 1,
+      "status_date": "2026-09-14",
+      "title": "SPORTS WAGERING-FANTASY MKT",
+      "url": "https://legiscan.com/IL/bill/HB5814/2025",
       "bill_id": "2158533",
       "change_hash": "b0541a386e12907761fea0f84ead5e12",
       "relevance": 95,
