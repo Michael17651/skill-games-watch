@@ -1,6 +1,6 @@
 {
-  "generated_utc": "2026-09-23T14:19:34+00:00",
-  "count": 305,
+  "generated_utc": "2026-09-24T14:18:36+00:00",
+  "count": 306,
   "bills": [
     {
       "bill_number": "AB831",
@@ -1624,6 +1624,29 @@
         "\"electronic gaming device\"",
         "\"skill games\"",
         "\"video gaming terminal\""
+      ],
+      "tier": "primary",
+      "subject_terms": [
+        "skill game"
+      ]
+    },
+    {
+      "state": "PA",
+      "bill_number": "HB2793",
+      "title": "Providing for a temporary transition period for certain skill game devices and for expiration.",
+      "description": "An Act providing for a temporary transition period for certain skill game devices and for expiration.",
+      "status": 0,
+      "status_date": null,
+      "last_action": "",
+      "last_action_date": "",
+      "url": "https://legiscan.com/PA/bill/HB2793/2025",
+      "state_link": "https://www.palegis.us/legislation/bills/2025/hb2793",
+      "session": "2025-2026 Regular Session",
+      "bill_id": "2158787",
+      "change_hash": "fb194ff96282529cc9541aee08b1d4c3",
+      "relevance": 84,
+      "matched": [
+        "\"skill game\""
       ],
       "tier": "primary",
       "subject_terms": [
