@@ -1,5 +1,5 @@
 {
-  "generated_utc": "2026-09-24T14:18:36+00:00",
+  "generated_utc": "2026-09-25T14:42:11+00:00",
   "first_run": false,
   "keywords": [
     "\"skill game\"",
@@ -17,41 +17,163 @@
   "min_relevance": 40,
   "detail_cap_hit": false,
   "totals": {
-    "matching": 306,
-    "primary": 83,
+    "matching": 308,
+    "primary": 85,
     "secondary": 223,
-    "new": 1,
-    "new_primary": 1,
-    "changed": 0,
-    "changed_primary": 0,
+    "new": 2,
+    "new_primary": 2,
+    "changed": 4,
+    "changed_primary": 2,
     "no_longer_matching": 0
   },
   "new": [
     {
       "state": "PA",
-      "bill_number": "HB2793",
-      "title": "Providing for a temporary transition period for certain skill game devices and for expiration.",
-      "description": "An Act providing for a temporary transition period for certain skill game devices and for expiration.",
-      "status": 0,
-      "status_date": null,
-      "last_action": "",
-      "last_action_date": "",
-      "url": "https://legiscan.com/PA/bill/HB2793/2025",
-      "state_link": "https://www.palegis.us/legislation/bills/2025/hb2793",
+      "bill_number": "HB2795",
+      "title": "Providing for temporary authorization of skill games.",
+      "description": "An Act amending Title 4 (Amusements) of the Pennsylvania Consolidated Statutes, providing for temporary authorization of skill games.",
+      "status": 1,
+      "status_date": "2026-09-24",
+      "last_action": "Referred to Gaming Oversight",
+      "last_action_date": "2026-09-24",
+      "url": "https://legiscan.com/PA/bill/HB2795/2025",
+      "state_link": "https://www.palegis.us/legislation/bills/2025/hb2795",
       "session": "2025-2026 Regular Session",
-      "bill_id": "2158787",
-      "change_hash": "fb194ff96282529cc9541aee08b1d4c3",
-      "relevance": 84,
+      "bill_id": "2158952",
+      "change_hash": "3c52e22863172e8aeb6aeb24495229bb",
+      "relevance": 98,
       "matched": [
-        "\"skill game\""
+        "\"skill game\"",
+        "\"skill games\""
       ],
       "tier": "primary",
       "subject_terms": [
         "skill game"
       ]
+    },
+    {
+      "state": "PA",
+      "bill_number": "HB2801",
+      "title": "In preliminary provisions, providing for scope of title, for legislative intent and for definitions; in fantasy contests, further providing for definitions, for general and specific powers of board, for issuance and denial of license, for license renewal, for conditions of licensure, for prohibitions, for penalties, for fantasy contest tax, for licensed operator deposits and for responsibility and authority of department and repealing provisions relating to compulsive and problem gambling; in general provisions relating to gaming, repealing provisions relating to legislative intent and further providing for definitions; in Pennsylvania Gaming Control Board, further providing for Pennsylvania Gaming Control Board established, for general and specific powers, for expenses of regulatory agencies, for regulatory authority of board, for collection of fees and fines, for slot machine license fee, for reports of board and for specific authority to suspend slot machine license; in licensees, further providing for Category 1 slot machine license, for Category 2 slot machine license, for Category 3 slot machine license, for Category 4 slot machine license and for conduct of auctions, providing for conduct of additional auctions, further providing for slot machine license application financial fitness requirements and for slot machine license operation fee; in table games, further providing for regulatory authority, repealing provisions relating to temporary table game regulations, further providing for prohibitions, for table game accounting controls and audit protocols, for table game authorization fee and for table game taxes and repealing provisions relating to local share assessment; in interactive gaming, further providing for fee and for multi-use gaming device tax, repealing provisions relating to multi-use gaming device local share assessment, further providing for interactive games and interactive gaming devices and associated equipment testing and certification standards, for interactive gaming authorization fee and for interactive gaming tax, repealing provisions relating to local share assessment and to compulsive and problem gambling, further providing for certificate holder deposits and providing for sweepstakes games prohibited; in sports wagering, further providing for unauthorized sports wagering, for authorization to conduct sports wagering, for authorized locations for operation, for sports wagering authorization fee and for sports wagering tax and repealing provisions relating to local share assessment and to compulsive and problem gambling; in revenues, further providing for slot machine licensee deposits, for gross terminal revenue deductions, for itemized budget reporting, for establishment of State Gaming Fund and net slot machine revenue distribution, for distributions from licensee's revenue receipts, for Pennsylvania Race Horse Development Trust Fund, for protection of funds, for distributions from Pennsylvania Race Horse Development Trust Fund and for Pennsylvania Gaming Economic Development and Tourism Fund, repealing provisions relating to Casino Marketing and Capital Development Account and to transfers from State Gaming Fund, further providing for Property Tax Relief Fund and providing for State Gaming Fund and for Pennsylvania Gaming Control Board Regulatory Fund; in administration and enforcement, further providing for drug and alcohol treatment, for financial and employment interests, for list of persons self excluded from gaming activities and for prohibited acts and penalties; in fingerprinting, further providing for submission of fingerprints and photographs; in miscellaneous provisions, further providing for Commonwealth Financing Authority; in general provisions relating to video gaming, further providing for definitions; in administration, further providing for powers of board and for records and confidentiality of information; in application and licensure, further providing for establishment licenses, for license or permit prohibition, for issuance and renewal and for conditional licenses; in operation, further providing for testing and certification of terminals and for video gaming limitations, providing for hours of operation and further providing for terminal placement agreements and for compulsive and problem gambling; in enforcement, further providing for self-exclusion, for investigations and enforcement and for prohibited acts and penalties; in revenues, further providing for fees and for taxes and assessments, repealing provisions relating to distribution of local share, further providing for regulatory assessments and repealing provisions relating to transfers from Video Gaming Fund; in ethics, further providing for financial and employment interests; in miscellaneous provisions, further providing for preemption of local taxes and license fees and for Commonwealth Financing Authority; in prohibition options, further providing for definitions and for municipal option for gaming; making repeals; and making an editorial change.",
+      "description": "An Act amending Titles 4 (Amusements) and 53 (Municipalities Generally) of the Pennsylvania Consolidated Statutes, in preliminary provisions, providing for scope of title, for legislative intent and for definitions; in fantasy contests, further providing for definitions, for general and specific powers of board, for issuance and denial of license, for license renewal, for conditions of licensure, for prohibitions, for penalties, for fantasy contest tax, for licensed operator deposits and for responsibility and authority of department and repealing provisions relating to compulsive and problem gambling; in general provisions relating to gaming, repealing provisions relating to legislative intent and further providing for definitions; in Pennsylvania Gaming Control Board, further providing for Pennsylvania Gaming Control Board established, for general and specific powers, for expenses of regulatory agencies, for regulatory authority of board, for collection of fees and fines, for slot machine license fee, for reports of board and for specific authority to suspend slot machine license; in licensees, further providing for Category 1 slot machine license, for Category 2 slot machine license, for Category 3 slot machine license, for Category 4 slot machine license and for conduct of auctions, providing for conduct of additional auctions, further providing for slot machine license application financial fitness requirements and for slot machine license operation fee; in table games, further providing for regulatory authority, repealing provisions relating to temporary table game regulations, further providing for prohibitions, for table game accounting controls and audit protocols, for table game authorization fee and for table game taxes and repealing provisions relating to local share assessment; in interactive gaming, further providing for fee and for multi-use gaming device tax, repealing provisions relating to multi-use gaming device local share assessment, further providing for interactive games and interactive gaming devices and associated equipment testing and certification standards, for interactive gaming authorization fee and for interactive gaming tax, repealing provisions relating to local share assessment and to compulsive and problem gambling, further providing for certificate holder deposits and providing for sweepstakes games prohibited; in sports wagering, further providing for unauthorized sports wagering, for authorization to conduct sports wagering, for authorized locations for operation, for sports wagering authorization fee and for sports wagering tax and repealing provisions relating to local share assessment and to compulsive and problem gambling; in revenues, further providing for slot machine licensee deposits, for gross terminal revenue deductions, for itemized budget reporting, for establishment of State Gaming Fund and net slot machine revenue distribution, for distributions from licensee's revenue receipts, for Pennsylvania Race Horse Development Trust Fund, for protection of funds, for distributions from Pennsylvania Race Horse Development Trust Fund and for Pennsylvania Gaming Economic Development and Tourism Fund, repealing provisions relating to Casino Marketing and Capital Development Account and to transfers from State Gaming Fund, further providing for Property Tax Relief Fund and providing for State Gaming Fund and for Pennsylvania Gaming Control Board Regulatory Fund; in administration and enforcement, further providing for drug and alcohol treatment, for financial and employment interests, for list of persons self excluded from gaming activities and for prohibited acts and penalties; in fingerprinting, further providing for submission of fingerprints and photographs; in miscellaneous provisions, further providing for Commonwealth Financing Authority; in general provisions relating to video gaming, further providing for definitions; in administration, further providing for powers of board and for records and confidentiality of information; in application and licensure, further providing for establishment licenses, for license or permit prohibition, for issuance and renewal and for conditional licenses; in operation, further providing for testing and certification of terminals and for video gaming limitations, providing for hours of operation and further providing for terminal placement agreements and for compulsive and problem gambling; in enforcement, further providing for self-exclusion, for investigations and enforcement and for prohibited acts and penalties; in revenues, further providing for fees and for taxes and assessments, repealing provisions relating to distribution of local share, further providing for regulatory assessments and repealing provisions relating to transfers from Video Gaming Fund; in ethics, further providing for financial and employment interests; in miscellaneous provisions, further providing for preemption of local taxes and license fees and for Commonwealth Financing Authority; in prohibition options, further providing for definitions and for municipal option for gaming; making repeals; and making an editorial change.",
+      "status": 1,
+      "status_date": "2026-09-24",
+      "last_action": "Referred to Gaming Oversight",
+      "last_action_date": "2026-09-24",
+      "url": "https://legiscan.com/PA/bill/HB2801/2025",
+      "state_link": "https://www.palegis.us/legislation/bills/2025/hb2801",
+      "session": "2025-2026 Regular Session",
+      "bill_id": "2158935",
+      "change_hash": "20b8987e1e684b64e002aa422f52563f",
+      "relevance": 99,
+      "matched": [
+        "\"dual currency\"",
+        "\"sweepstakes\"",
+        "\"video gaming terminal\""
+      ],
+      "tier": "primary",
+      "subject_terms": [
+        "sweepstakes",
+        "video gaming",
+        "gaming device",
+        "slot machine"
+      ]
     }
   ],
-  "changed": [],
+  "changed": [
+    {
+      "state": "PA",
+      "bill_number": "HB2213",
+      "title": "Providing for skill video gaming; imposing duties on the Department of Revenue; providing for issuance of licenses for skill video gaming; imposing a fee and criminal and civil penalties; and providing for zoning.",
+      "description": "An Act providing for skill video gaming; imposing duties on the Department of Revenue; providing for issuance of licenses for skill video gaming; imposing a fee and criminal and civil penalties; and providing for zoning.",
+      "status": 1,
+      "status_date": "2026-02-11",
+      "last_action": "Referred to Gaming Oversight",
+      "last_action_date": "2026-02-11",
+      "url": "https://legiscan.com/PA/bill/HB2213/2025",
+      "state_link": "https://www.palegis.us/legislation/bills/2025/hb2213",
+      "session": "2025-2026 Regular Session",
+      "bill_id": "2113319",
+      "change_hash": "a4c76f2f26fc4f54c8d4d034a30210ca",
+      "relevance": 99,
+      "matched": [
+        "\"amusement device\"",
+        "\"skill game\"",
+        "\"skill games\""
+      ],
+      "tier": "primary",
+      "subject_terms": [
+        "video gaming"
+      ]
+    },
+    {
+      "state": "PA",
+      "bill_number": "HB2793",
+      "title": "Providing for a temporary transition period for certain skill game devices and for expiration.",
+      "description": "An Act providing for a temporary transition period for certain skill game devices and for expiration.",
+      "status": 1,
+      "status_date": "2026-09-24",
+      "last_action": "Referred to Gaming Oversight",
+      "last_action_date": "2026-09-24",
+      "url": "https://legiscan.com/PA/bill/HB2793/2025",
+      "state_link": "https://www.palegis.us/legislation/bills/2025/hb2793",
+      "session": "2025-2026 Regular Session",
+      "bill_id": "2158787",
+      "change_hash": "e5c2f342e53d3179804a7a004eb17d82",
+      "relevance": 99,
+      "matched": [
+        "\"skill game\"",
+        "\"skill games\""
+      ],
+      "tier": "primary",
+      "subject_terms": [
+        "skill game"
+      ]
+    },
+    {
+      "state": "NJ",
+      "bill_number": "A5060",
+      "title": "Prohibits fur farming.",
+      "description": "Prohibits fur farming.",
+      "status": 1,
+      "status_date": "2026-05-14",
+      "last_action": "Introduced, Referred to Assembly Agriculture and Natural Resources Committee",
+      "last_action_date": "2026-05-14",
+      "url": "https://legiscan.com/NJ/bill/A5060/2026",
+      "state_link": "https://www.njleg.state.nj.us/bill-search/2026/A5060",
+      "session": "2026-2027 Regular Session",
+      "bill_id": "2148951",
+      "change_hash": "e86a72d8fd8e0780b3f19d5ece724148",
+      "relevance": 92,
+      "matched": [
+        "\"amusement device\""
+      ],
+      "tier": "secondary",
+      "subject_terms": []
+    },
+    {
+      "state": "OH",
+      "bill_number": "HB96",
+      "title": "Make state operating appropriations for FY 2026-27",
+      "description": "To amend sections 3.15, 9.03, 9.07, 9.239, 9.24, 9.27, 9.28, 9.312, 9.331, 9.334, 9.35, 9.67, 9.681, 9.821, 101.30, 101.352, 101.53, 101.63, 101.65, 101.82, 101.83, 101.84, 102.02, 103.05, 103.051, 103.13, 103.65, 106.02, 106.021, 106.023, 106.024, 106.031, 107.03, 107.032, 107.033, 107.12, 109.02, 109.71, 109.73, 109.77, 109.803, 111.15, 111.27, 113.05, 113.13, 113.40, 113.51, 113.53, 113.78, 117.11, 117.38, 117.44, 117.56, 119.03, 119.04, 120.06, 120.08, 121.02, 121.03, 121.085, 121.22, 121.35, 121.36, 121.37, 121.93, 121.931, 121.95, 121.951, 121.953, 122.09, 122.14, 122.175, 122.1710, 122.41, 122.42, 122.47, 122.49, 122.53, 122.571, 122.59, 122.631, 122.632, 122.633, 122.6510, 122.6511, 122.6512, 122.66, 122.67, 122.68, 122.681, 122.69, 122.70, 122.701, 122.702, 122.84, 122.85, 122.86, 123.10, 123.28, 123.281, 124.02, 124.07, 124.135, 124.1310, 124.1312, 124.152, 124.385, 125.01, 125.041, 125.071, 125.11, 125.111, 125.13, 125.183, 125.31, 125.42, 125.58, 125.95, 126.24, 126.42, 126.60, 126.62, 127.12, 127.13, 127.16, 128.021, 128.41, 128.46, 128.54, 131.01, 131.02, 131.35, 131.43, 131.50, 131.51, 133.18, 135.01, 135.03, 135.143, 135.18, 135.35, 135.70, 135.71, 141.04, 145.012, 145.054, 145.055, 145.09, 145.091, 145.99, 148.01, 148.02, 148.04, 148.041, 148.042, 148.05, 148.10, 149.011, 149.10, 149.30, 149.3010, 149.311, 149.38, 149.43, 153.01, 153.07, 153.08, 153.09, 153.12, 153.13, 153.14, 153.501, 153.502, 153.54, 153.59, 153.63, 153.693, 155.33, 155.34, 163.01, 164.01, 164.05, 164.06, 164.08, 164.14, 165.04, 166.01, 166.02, 166.03, 166.08, 166.12, 166.17, 169.01, 169.05, 169.08, 169.13, 173.38, 173.381, 173.391, 173.50, 173.525, 175.16, 175.17, 303.12, 305.021, 305.03, 306.32, 306.322, 306.43, 307.05, 307.673, 307.696, 307.697, 307.86, 307.985, 308.13, 311.14, 317.20, 319.04, 319.202, 319.301, 319.302, 321.03, 323.131, 323.152, 323.153, 323.155, 323.156, 323.158, 323.611, 325.18, 325.25, 340.01, 340.011, 340.02, 340.021, 340.022, 340.03, 340.032, 340.034, 340.036, 340.037, 340.04, 340.041, 340.05, 340.07, 340.08, 340.09, 340.12, 340.13, 340.16, 345.01, 345.03, 345.04, 349.01, 355.04, 501.09, 501.11, 504.14, 505.24, 505.37, 505.48, 505.481, 507.09, 507.12, 511.28, 511.34, 513.18, 519.12, 523.06, 703.331, 703.34, 717.051, 718.01, 718.031, 718.05, 718.12, 718.13, 718.19, 718.85, 718.88, 718.90, 718.91, 731.14, 731.141, 731.29, 733.81, 735.05, 742.043, 742.044, 742.99, 749.31, 755.181, 901.43, 904.02, 904.04, 905.32, 905.57, 907.13, 907.14, 909.01, 909.02, 909.07, 909.08, 909.09, 909.13, 911.02, 913.23, 915.16, 915.24, 921.01, 921.02, 921.06, 921.09, 921.11, 921.12, 921.13, 921.14, 921.16, 921.23, 921.24, 923.42, 923.44, 923.51, 924.01, 924.30, 924.51, 927.53, 928.02, 928.03, 928.04, 935.06, 935.07, 935.09, 935.10, 935.16, 935.17, 935.20, 935.24, 943.04, 943.16, 943.26, 943.99, 956.07, 956.10, 956.13, 956.16, 956.18, 956.21, 956.22, 956.23, 1311.04, 1311.252, 1317.05, 1317.06, 1321.21, 1347.08, 1509.02, 1509.07, 1509.071, 1509.13, 1509.36, 1509.38, 1517.11, 1531.01, 1533.10, 1533.11, 1533.111, 1533.13, 1533.131, 1533.32, 1545.041, 1545.21, 1546.04, 1547.54, 1548.06, 1561.13, 1561.16, 1561.23, 1561.46, 1561.48, 1701.04, 1701.07, 1703.041, 1707.01, 1707.14, 1707.47, 1711.30, 1713.03, 1901.123, 1901.26, 1907.143, 1907.24, 2101.11, 2101.16, 2108.34, 2151.27, 2151.311, 2151.316, 2151.356, 2151.3527, 2151.416, 2151.4115, 2151.421, 2151.423, 2151.424, 2151.45, 2151.451, 2151.452, 2151.453, 2152.26, 2303.12, 2303.201, 2303.26, 2307.66, 2329.66, 2501.16, 2743.03, 2907.15, 2913.401, 2915.01, 2917.211, 2919.171, 2919.19, 2921.13, 2921.36, 2921.41, 2925.14, 2933.32, 2949.12, 2951.041, 2953.32, 2967.14, 2967.18, 2967.26, 2967.271, 2967.28, 2969.13, 2981.02, 3101.08, 3105.171, 3105.63, 3107.01, 3107.012, 3107.031, 3107.033, 3107.034, 3107.062, 3107.063, 3107.064, 3107.065, 3107.38, 3107.391, 3109.14, 3109.171, 3109.172, 3109.173, 3109.178, 3115.201, 3119.01, 3121.441, 3123.89, 3123.90, 3301.01, 3301.02, 3301.03, 3301.06, 3301.071, 3301.074, 3301.079, 3301.0711, 3301.0712, 3301.0714, 3301.0715, 3301.0723, 3301.0727, 3301.136, 3301.17, 3301.541, 3301.57, 3302.03, 3302.034, 3302.20, 3302.42, 3305.05, 3305.053, 3307.044, 3307.05, 3307.06, 3307.07, 3307.073, 3307.074, 3307.10, 3307.11, 3307.27, 3307.99, 3309.073, 3309.074, 3309.47, 3309.99, 3310.033, 3310.41, 3310.51, 3310.52, 3310.58, 3310.64, 3311.053, 3311.50, 3313.27, 3313.413, 3313.46, 3313.489, 3313.5313, 3313.603, 3313.608, 3313.609, 3313.6013, 3313.6022, 3313.6028, 3313.618, 3313.6113, 3313.6114, 3313.64, 3313.753, 3313.90, 3313.975, 3313.98, 3314.011, 3314.013, 3314.015, 3314.016, 3314.017, 3314.02, 3314.021, 3314.03, 3314.034, 3314.038, 3314.05, 3314.07, 3314.08, 3314.19, 3314.191, 3314.261, 3314.29, 3314.35, 3314.351, 3314.36, 3314.361, 3314.381, 3314.382, 3315.18, 3315.181, 3316.031, 3316.041, 3316.043, 3316.06, 3316.08, 3316.16, 3317.01, 3317.011, 3317.012, 3317.014, 3317.016, 3317.017, 3317.018, 3317.019, 3317.0110, 3317.02, 3317.021, 3317.022, 3317.024, 3317.026, 3317.0212, 3317.0213, 3317.0215, 3317.0217, 3317.03, 3317.035, 3317.051, 3317.06, 3317.11, 3317.16, 3317.161, 3317.162, 3317.163, 3317.20, 3317.201, 3317.22, 3317.25, 3318.01, 3318.032, 3318.051, 3318.06, 3318.061, 3318.062, 3318.063, 3318.12, 3318.361, 3318.40, 3318.45, 3318.48, 3319.073, 3319.088, 3319.111, 3319.223, 3319.236, 3319.263, 3319.29, 3319.301, 3319.311, 3319.51, 3320.04, 3321.16, 3321.19, 3321.22, 3323.32, 3325.08, 3325.16, 3325.17, 3326.11, 3326.44, 3326.51, 3327.017, 3327.08, 3327.10, 3328.16, 3328.24, 3332.081, 3333.04, 3333.041, 3333.129, 3333.13, 3333.131, 3333.132, 3333.133, 3333.134, 3333.135, 3333.164, 3333.24, 3333.374, 3334.11, 3335.39, 3339.06, 3344.07, 3345.06, 3345.382, 3345.48, 3345.591, 3345.71, 3345.74, 3345.75, 3352.16, 3354.19, 3358.08, 3358.11, 3364.07, 3365.15, 3375.15, 3375.22, 3375.30, 3375.39, 3375.92, 3379.03, 3379.12, 3381.03, 3381.11, 3381.17, 3501.01, 3501.02, 3501.05, 3501.12, 3501.17, 3501.28, 3505.03, 3505.04, 3505.06, 3505.33, 3505.38, 3513.04, 3513.05, 3513.052, 3513.10, 3513.19, 3517.01, 3517.08, 3517.081, 3517.092, 3517.10, 3517.102, 3517.103, 3517.104, 3517.108, 3517.109, 3517.1012, 3517.11, 3517.121, 3517.13, 3517.152, 3517.153, 3517.154, 3517.155, 3517.157, 3517.20, 3517.21, 3517.22, 3517.23, 3517.992, 3517.993, 3701.021, 3701.033, 3701.045, 3701.511, 3701.65, 3701.79, 3701.841, 3704.01, 3704.03, 3704.031, 3704.09, 3704.111, 3704.14, 3705.126, 3705.16, 3705.17, 3706.01, 3709.15, 3715.021, 3717.071, 3718.02, 3718.04, 3719.04, 3721.32, 3728.01, 3734.021, 3734.05, 3734.57, 3734.79, 3734.901, 3734.904, 3734.907, 3735.67, 3735.671, 3737.83, 3738.01, 3738.03, 3738.04, 3738.06, 3738.08, 3738.09, 3742.32, 3742.50, 3743.04, 3743.06, 3743.17, 3743.19, 3743.25, 3743.60, 3743.61, 3743.63, 3743.65, 3745.11, 3745.21, 3748.13, 3750.02, 3769.088, 3770.071, 3770.072, 3770.073, 3770.10, 3770.12, 3770.121, 3770.13, 3770.25, 3772.02, 3775.16, 3780.02, 3780.03, 3780.06, 3780.10, 3780.24, 3780.26, 3780.30, 3781.10, 3781.102, 3781.1011, 3901.90, 3902.70, 3905.426, 3905.72, 3923.443, 3951.03, 3959.01, 3959.111, 4112.055, 4117.08, 4117.10, 4141.01, 4141.02, 4141.162, 4141.23, 4141.281, 4141.29, 4141.33, 4141.56, 4141.60, 4301.12, 4301.19, 4301.30, 4301.421, 4303.181, 4303.183, 4303.204, 4303.2011, 4303.233, 4305.131, 4501.027, 4501.21, 4501.29, 4501.30, 4501.302, 4503.038, 4503.06, 4503.0610, 4503.0611, 4503.10, 4503.102, 4503.29, 4503.41, 4503.579, 4503.91, 4505.07, 4505.09, 4506.01, 4506.05, 4506.07, 4506.13, 4506.131, 4506.14, 4507.061, 4507.08, 4507.09, 4507.21, 4507.40, 4507.53, 4508.02, 4509.06, 4509.07, 4509.101, 4509.70, 4511.01, 4511.75, 4511.76, 4511.77, 4511.771, 4511.78, 4517.01, 4517.52, 4517.60, 4519.59, 4582.024, 4582.26, 4701.01, 4701.04, 4701.16, 4707.024, 4723.28, 4723.483, 4723.4811, 4725.48, 4729.01, 4729.49, 4729.52, 4729.53, 4729.54, 4729.541, 4729.56, 4729.561, 4729.60, 4729.80, 4729.901, 4729.902, 4729.921, 4730.25, 4730.433, 4730.437, 4730.99, 4731.22, 4731.2210, 4731.92, 4731.96, 4731.99, 4735.01, 4735.06, 4735.09, 4735.55, 4735.56, 4735.80, 4740.06, 4741.04, 4743.05, 4743.10, 4749.01, 4751.20, 4751.24, 4751.25, 4758.01, 4758.02, 4758.03, 4758.10, 4758.13, 4758.20, 4758.22, 4758.221, 4758.23, 4758.24, 4758.27, 4758.30, 4758.31, 4758.35, 4758.36, 4758.39, 4758.40, 4758.41, 4758.42, 4758.43, 4758.44, 4758.45, 4758.52, 4758.54, 4758.55, 4758.56, 4758.57, 4758.59, 4758.99, 4759.07, 4759.99, 4760.13, 4760.99, 4761.09, 4761.99, 4762.13, 4762.99, 4765.11, 4765.55, 4767.10, 4772.20, 4772.21, 4772.23, 4772.99, 4774.13, 4774.99, 4778.14, 4778.99, 4785.041, 4903.10, 4905.311, 4906.07, 4911.18, 4921.01, 4923.01, 4927.01, 4928.05, 4928.06, 4928.102, 4928.34, 4928.43, 4928.51, 4928.52, 4928.53, 4928.54, 4928.542, 4928.543, 4928.544, 4928.55, 4928.56, 4928.58, 4928.61, 4928.62, 4928.63, 4928.66, 4928.75, 4928.86, 4981.02, 5101.101, 5101.13, 5101.131, 5101.132, 5101.133, 5101.134, 5101.135, 5101.136, 5101.137, 5101.14, 5101.141, 5101.142, 5101.145, 5101.146, 5101.1410, 5101.1411, 5101.1412, 5101.1413, 5101.1414, 5101.1415, 5101.1416, 5101.1417, 5101.1418, 5101.19, 5101.191, 5101.192, 5101.193, 5101.194, 5101.211, 5101.212, 5101.215, 5101.222, 5101.242, 5101.26, 5101.272, 5101.273, 5101.28, 5101.30, 5101.33, 5101.342, 5101.35, 5101.351, 5101.38, 5101.461, 5101.542, 5101.80, 5101.801, 5101.802, 5101.805, 5101.85, 5101.853, 5101.854, 5101.856, 5101.88, 5101.885, 5101.886, 5101.887, 5101.8812, 5101.89, 5101.891, 5101.892, 5101.893, 5101.894, 5101.895, 5101.897, 5101.899, 5101.98, 5101.99, 5103.02, 5103.021, 5103.0329, 5103.15, 5103.155, 5103.18, 5103.30, 5103.32, 5103.41, 5104.01, 5104.12, 5104.29, 5104.30, 5104.32, 5104.34, 5104.36, 5104.37, 5104.38, 5104.41, 5104.50, 5104.99, 5117.07, 5117.12, 5119.01, 5119.011, 5119.04, 5119.05, 5119.051, 5119.06, 5119.07, 5119.08, 5119.091, 5119.10, 5119.11, 5119.14, 5119.141, 5119.15, 5119.161, 5119.17, 5119.18, 5119.181, 5119.182, 5119.184, 5119.185, 5119.186, 5119.187, 5119.188, 5119.19, 5119.20, 5119.201, 5119.21, 5119.22, 5119.221, 5119.23, 5119.24, 5119.25, 5119.27, 5119.28, 5119.29, 5119.30, 5119.31, 5119.311, 5119.32, 5119.33, 5119.331, 5119.332, 5119.333, 5119.334, 5119.34, 5119.342, 5119.343, 5119.35, 5119.36, 5119.362, 5119.363, 5119.364, 5119.365, 5119.366, 5119.367, 5119.368, 5119.37, 5119.371, 5119.38, 5119.39, 5119.391, 5119.392, 5119.393, 5119.394, 5119.395, 5119.397, 5119.40, 5119.41, 5119.42, 5119.421, 5119.43, 5119.431, 5119.44, 5119.45, 5119.46, 5119.47, 5119.48, 5119.49, 5119.50, 5119.51, 5119.52, 5119.54, 5119.55, 5119.56, 5119.60, 5119.61, 5119.71, 5119.82, 5119.85, 5119.89, 5119.90, 5119.99, 5120.034, 5120.035, 5120.16, 5120.173, 5120.21, 5120.51, 5121.30, 5121.32, 5121.33, 5121.34, 5121.41, 5121.43, 5122.01, 5122.03, 5122.10, 5122.15, 5122.20, 5122.21, 5122.23, 5122.26, 5122.27, 5122.31, 5122.32, 5122.33, 5122.341, 5122.36, 5122.44, 5122.45, 5122.46, 5122.47, 5123.081, 5123.16, 5123.168, 5123.169, 5123.191, 5123.41, 5123.42, 5123.47, 5124.15, 5139.05, 5139.08, 5139.12, 5139.14, 5139.34, 5145.162, 5153.10, 5153.122, 5153.16, 5153.163, 5160.37, 5162.13, 5162.132, 5162.133, 5162.134, 5162.136, 5162.1310, 5162.70, 5162.82, 5163.03, 5163.091, 5163.093, 5163.094, 5163.098, 5163.30, 5163.33, 5165.19, 5165.192, 5165.26, 5166.03, 5167.01, 5167.03, 5167.123, 5167.24, 5168.08, 5168.11, 5168.22, 5168.25, 5168.90, 5180.14, 5180.17, 5180.20, 5180.21, 5180.22, 5310.06, 5310.47, 5323.02, 5501.91, 5502.262, 5502.29, 5502.30, 5502.41, 5503.02, 5505.045, 5505.046, 5505.99, 5525.03, 5537.01, 5537.02, 5537.03, 5537.27, 5540.02, 5595.02, 5701.11, 5703.052, 5703.19, 5703.21, 5703.37, 5703.70, 5705.01, 5705.03, 5705.12, 5705.121, 5705.13, 5705.131, 5705.132, 5705.14, 5705.194, 5705.199, 5705.21, 5705.212, 5705.213, 5705.215, 5705.217, 5705.218, 5705.219, 5705.2111, 5705.2114, 5705.221, 5705.222, 5705.233, 5705.25, 5705.251, 5705.261, 5705.27, 5705.28, 5705.29, 5705.30, 5705.31, 5705.314, 5705.32, 5705.321, 5705.35, 5705.36, 5705.37, 5705.38, 5705.391, 5705.40, 5705.412, 5705.55, 5709.081, 5709.212, 5709.92, 5709.93, 5715.19, 5717.01, 5725.01, 5725.23, 5725.35, 5725.38, 5726.03, 5726.20, 5726.61, 5726.98, 5727.111, 5727.26, 5727.38, 5727.42, 5727.47, 5727.48, 5727.89, 5728.10, 5729.10, 5729.18, 5729.21, 5735.12, 5736.09, 5739.01, 5739.011, 5739.02, 5739.03, 5739.07, 5739.09, 5739.092, 5739.101, 5739.12, 5739.13, 5739.132, 5739.31, 5743.021, 5743.024, 5743.081, 5743.323, 5743.52, 5743.54, 5743.55, 5743.56, 5743.57, 5743.59, 5743.60, 5743.62, 5743.63, 5743.64, 5745.03, 5745.04, 5745.09, 5745.12, 5747.01, 5747.02, 5747.021, 5747.025, 5747.05, 5747.062, 5747.063, 5747.064, 5747.07, 5747.071, 5747.08, 5747.09, 5747.10, 5747.13, 5747.38, 5747.39, 5747.40, 5747.43, 5747.502, 5747.51, 5747.72, 5747.85, 5747.86, 5747.98, 5748.01, 5748.02, 5748.021, 5748.03, 5748.04, 5748.08, 5748.081, 5748.09, 5749.02, 5749.07, 5751.02, 5751.09, 5751.53, 5751.98, 5753.031, 5753.07, 5907.11, 5907.17, 5923.30, 6101.53, 6101.54, 6101.55, 6111.01, and 6111.04; to amend, for the purpose of adopting new section numbers as indicated in parentheses, sections 103.412 (103.411), 103.414 (103.412), 103.73 (109.39), 122.66 (5101.311), 122.67 (5101.312), 122.68 (5101.313), 122.681 (5101.314), 122.69 (5101.315), 122.70 (5101.316), 122.701 (5101.317), 122.702 (5101.318), 3517.152 (3517.14), 3517.153 (3517.15), 3517.154 (3517.16), 3517.155 (3517.17), 3517.157 (3517.18), 3517.992 (3517.99), 3517.993 (3517.171), 3701.65 (5180.72), 3738.01 (5180.27), 3738.02 (5180.271), 3738.03 (5180.272), 3738.04 (5180.273), 3738.05 (5180.274), 3738.06 (5180.275), 3738.07 (5180.276), 3738.08 (5180.277), 3738.09 (5180.278), 5101.13 (5180.40), 5101.131 (5180.401), 5101.132 (5180.402), 5101.133 (5180.403), 5101.134 (5180.404), 5101.135 (5180.405), 5101.136 (5180.406), 5101.137 (5180.407), 5101.14 (5180.41), 5101.141 (5180.42), 5101.142 (5180.421), 5101.144 (5180.411), 5101.145 (5180.422), 5101.146 (5180.423), 5101.147 (5180.424), 5101.148 (5180.425), 5101.149 (5180.426), 5101.1410 (5180.427), 5101.1411 (5180.428), 5101.1412 (5180.429), 5101.1413 (5180.4210), 5101.1414 (5180.4211), 5101.1415 (5180.4212), 5101.1416 (5180.4213), 5101.1417 (5180.4214), 5101.1418 (5180.43), 5101.15 (5180.44), 5101.19 (5180.45), 5101.191 (5180.451), 5101.192 (5180.452), 5101.193 (5180.453), 5101.194 (5180.454), 5101.34 (5180.70), 5101.341 (5180.701), 5101.342 (5180.702), 5101.343 (5180.703), 5101.76 (5180.26), 5101.77 (5180.261), 5101.78 (5180.262), 5101.802 (5180.52), 5101.804 (5180.71), 5101.805 (5180.704), 5101.85 (5180.50), 5101.851 (5180.51), 5101.853 (5180.511), 5101.854 (5180.512), 5101.855 (5180.513), 5101.856 (5180.514), 5101.88 (5180.53), 5101.881 (5180.531), 5101.884 (5180.532), 5101.885 (5180.533), 5101.886 (5180.534), 5101.887 (5180.535), 5101.889 (5180.57), 5101.8811 (5180.536), 5101.8812 (5180.56), 5104.50 (5180.04), and 5180.40 (5180.73); to enact new sections 103.41, 107.034, 3313.902, 3313.905, 3314.38, 3321.191, 3333.0415, 3345.86, 3517.991, and 3780.22 and sections 5.62, 9.05, 9.561, 9.64, 9.691, 106.025, 106.026, 106.033, 111.29, 118.29, 121.16, 122.1712, 122.1713, 122.636, 122.97, 122.98, 122.981, 123.14, 123.282, 123.283, 123.30, 124.184, 125.052, 126.024, 126.10, 126.17, 126.67, 131.026, 135.1411, 148.021, 173.503, 319.304, 731.291, 924.212, 943.27, 1310.251, 1349.10, 1349.101, 1501.022, 1501.023, 1501.46, 1501.47, 1509.075, 1513.371, 1546.25, 1546.26, 1713.032, 1713.033, 1713.041, 3301.24, 3301.82, 3310.037, 3310.21, 3310.22, 3310.23, 3310.24, 3310.25, 3310.26, 3310.412, 3310.413, 3310.523, 3311.242, 3313.536, 3313.6031, 3313.6032, 3313.7118, 3314.093, 3314.362, 3315.063, 3317.165, 3317.27, 3317.28, 3317.29, 3317.31, 3319.173, 3319.2310, 3321.043, 3332.17, 3332.21, 3332.22, 3333.0420, 3333.053, 3333.074, 3333.1210, 3333.952, 3333.96, 3333.97, 3345.457, 3345.58, 3345.601, 3345.721, 3345.83, 3345.89, 3375.47, 3501.055, 3701.88, 3704.0310, 3707.61, 3721.074, 3722.15, 3727.46, 3743.48, 3770.074, 3770.075, 3780.37, 3901.047, 3901.3815, 3902.631, 3959.121, 4113.31, 4141.011, 4141.08, 4517.521, 4561.03, 4582.72, 4582.73, 4729.261, 4731.256, 4741.041, 4927.22, 4928.545, 5101.042, 5101.543, 5101.548, 5101.549, 5101.612, 5101.95, 5103.039, 5103.0520, 5103.09, 5104.302, 5104.53, 5104.54, 5104.60, 5119.211, 5119.344, 5119.345, 5123.1613, 5123.423, 5126.222, 5145.32, 5162.08, 5162.14, 5162.25, 5162.251, 5163.04, 5163.104, 5163.11, 5163.50, 5164.093, 5166.50, 5167.09, 5180.705, 5180.706, 5180.707, 5180.99, 5303.34, 5703.83, 5705.17, 5705.316, 5705.60, 5709.89, 5726.62, 5743.511, 5743.521, 5743.621, 5743.631, 5747.073, 5747.124, and 5747.87; and to repeal sections 9.47, 101.38, 103.053, 103.054, 103.24, 103.41, 103.411, 103.413, 103.415, 103.60, 103.71, 103.72, 103.74, 103.75, 103.76, 103.77, 103.78, 103.79, 107.034, 113.06, 113.78, 117.113, 117.251, 117.441, 117.51, 122.451, 122.55, 122.56, 122.561, 122.57, 122.852, 125.181, 125.36, 125.38, 125.43, 125.49, 125.51, 125.56, 125.65, 125.76, 125.95, 128.412, 135.144, 501.03, 904.06, 905.56, 935.25, 956.181, 1561.18, 1561.21, 1561.22, 2919.1910, 3313.902, 3313.905, 3314.38, 3314.50, 3317.0218, 3317.036, 3317.071, 3317.23, 3317.231, 3317.24, 3321.191, 3333.0415, 3333.303, 3333.373, 3333.801, 3345.86, 3354.24, 3379.10, 3513.254, 3513.255, 3513.256, 3513.259, 3517.14, 3517.151, 3517.156, 3517.99, 3517.991, 3701.0212, 3701.051, 3780.18, 3780.19, 3780.22, 3780.23, 4115.31, 4115.32, 4115.33, 4115.34, 4115.35, 4115.36, 4729.551, 4758.18, 4758.241, 4758.50, 4928.57, 4928.581, 4928.582, 4928.583, 5104.08, 5123.352, 5160.23, 5163.05, 5165.261, 5166.45, 5180.23, 5180.24, 5180.34, 5310.05, 5310.06, 5310.07, 5310.08, 5310.09, 5310.10, 5310.11, 5310.12, 5310.13, 5310.14, 5537.24, 5705.192, 5705.195, 5705.196, 5705.197, 5726.59, 5739.071, 5747.29, 5747.67, 5747.75, 5751.55, 5902.06, and 5902.20 of the Revised Code and to amend Section 755.60 of H.B. 54 of the 136th General Assembly, Sections 200.30 as subsequently amended, 207.37, 221.15 as subsequently amended, 243.10 as subsequently amended, 363.10, 371.20 as subsequently amended, and 373.15 as subsequently amended of H.B. 2 of the 135th General Assembly, Section 265.550 of H.B. 33 of the 135th General Assembly as subsequently amended, Section 14 of H.B. 238 of the 135th General Assembly, Section 270.14 of H.B. 45 of the 134th General Assembly as subsequently amended, and Section 5 of H.B. 554 of the 134th General Assembly as subsequently amended; to amend Section 733.61 of H.B. 166 of the 133rd General Assembly as subsequently amended to codify it as section 3313.6033 of the Revised Code; and to repeal Sections 335.20 and 757.60 of H.B. 33 of the 135th General Assembly, Section 6 of H.B. 150 of the 134th General Assembly, Section 5 of S.B. 202 of the 134th General Assembly, and Sections 125.10 as subsequently amended and 125.11 as subsequently amended of H.B. 59 of the 130th General Assembly to make operating appropriations for the biennium beginning July 1, 2025, and ending June 30, 2027, to levy taxes, and to provide authorization and conditions for the operation of state programs.",
+      "status": 4,
+      "status_date": "2025-06-30",
+      "last_action": "Effective Operating appropriations effective June 30, 2025. Other provisions generally effective September 30, 2025. Some provisions subject to special effective dates.",
+      "last_action_date": "2025-06-30",
+      "url": "https://legiscan.com/OH/bill/HB96/2025",
+      "state_link": "https://www.legislature.ohio.gov/legislation/136/hb96",
+      "session": "136th General Assembly",
+      "bill_id": "1966320",
+      "change_hash": "5cd63ea54a15f20aea9338c3a785fef7",
+      "relevance": 61,
+      "matched": [
+        "\"amusement machine\"",
+        "\"sweepstakes\""
+      ],
+      "tier": "secondary",
+      "subject_terms": []
+    }
+  ],
   "no_longer_matching": [],
   "errors": [],
   "attribution": "LegiScan API by LegiScan LLC, licensed under CC BY 4.0"
