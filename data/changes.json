@@ -1,5 +1,5 @@
 {
-  "generated_utc": "2026-09-29T16:03:49+00:00",
+  "generated_utc": "2026-09-30T16:02:19+00:00",
   "first_run": false,
   "keywords": [
     "\"skill game\"",
@@ -23,7 +23,7 @@
     "new": 0,
     "new_primary": 0,
     "changed": 2,
-    "changed_primary": 1,
+    "changed_primary": 2,
     "no_longer_matching": 0
   },
   "new": [],
@@ -41,7 +41,7 @@
       "state_link": "https://www.palegis.us/legislation/bills/2025/hb2793",
       "session": "2025-2026 Regular Session",
       "bill_id": "2158787",
-      "change_hash": "8bec0d48812a78a39419e2cf86d8dcb0",
+      "change_hash": "4c0f5e127776680991d8ed18a7ba5931",
       "relevance": 99,
       "matched": [
         "\"skill game\"",
@@ -53,25 +53,28 @@
       ]
     },
     {
-      "state": "NJ",
-      "bill_number": "S4227",
-      "title": "Prohibits fur farming.",
-      "description": "Prohibits fur farming.",
+      "state": "PA",
+      "bill_number": "HB2795",
+      "title": "Providing for temporary authorization of skill games.",
+      "description": "An Act amending Title 4 (Amusements) of the Pennsylvania Consolidated Statutes, providing for temporary authorization of skill games.",
       "status": 1,
-      "status_date": "2026-05-14",
-      "last_action": "Introduced in the Senate, Referred to Senate Economic Growth Committee",
-      "last_action_date": "2026-05-14",
-      "url": "https://legiscan.com/NJ/bill/S4227/2026",
-      "state_link": "https://www.njleg.state.nj.us/bill-search/2026/S4227",
-      "session": "2026-2027 Regular Session",
-      "bill_id": "2148964",
-      "change_hash": "a4719e37ffd8782da0e08ad8383353d6",
-      "relevance": 92,
+      "status_date": "2026-09-24",
+      "last_action": "Referred to Gaming Oversight",
+      "last_action_date": "2026-09-24",
+      "url": "https://legiscan.com/PA/bill/HB2795/2025",
+      "state_link": "https://www.palegis.us/legislation/bills/2025/hb2795",
+      "session": "2025-2026 Regular Session",
+      "bill_id": "2158952",
+      "change_hash": "270fb2acb28392e14375c43c16341608",
+      "relevance": 98,
       "matched": [
-        "\"amusement device\""
+        "\"skill game\"",
+        "\"skill games\""
       ],
-      "tier": "secondary",
-      "subject_terms": []
+      "tier": "primary",
+      "subject_terms": [
+        "skill game"
+      ]
     }
   ],
   "no_longer_matching": [],
