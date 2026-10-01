@@ -1,5 +1,5 @@
 {
-  "generated_utc": "2026-09-30T16:02:19+00:00",
+  "generated_utc": "2026-10-01T16:38:35+00:00",
   "count": 308,
   "bills": [
     {
@@ -1558,19 +1558,19 @@
       ]
     },
     {
-      "bill_number": "HB2213",
-      "description": "An Act providing for skill video gaming; imposing duties on the Department of Revenue; providing for issuance of licenses for skill video gaming; imposing a fee and criminal and civil penalties; and providing for zoning.",
-      "last_action": "Referred to Gaming Oversight",
-      "last_action_date": "2026-02-11",
-      "session": "2025-2026 Regular Session",
       "state": "PA",
-      "state_link": "https://www.palegis.us/legislation/bills/2025/hb2213",
+      "bill_number": "HB2213",
+      "title": "Providing for skill video gaming; imposing duties on the Department of Revenue; providing for issuance of licenses for skill video gaming; imposing a fee and criminal and civil penalties; and providing for zoning.",
+      "description": "An Act providing for skill video gaming; imposing duties on the Department of Revenue; providing for issuance of licenses for skill video gaming; imposing a fee and criminal and civil penalties; and providing for zoning.",
       "status": 1,
       "status_date": "2026-02-11",
-      "title": "Providing for skill video gaming; imposing duties on the Department of Revenue; providing for issuance of licenses for skill video gaming; imposing a fee and criminal and civil penalties; and providing for zoning.",
+      "last_action": "Referred to Gaming Oversight",
+      "last_action_date": "2026-02-11",
       "url": "https://legiscan.com/PA/bill/HB2213/2025",
+      "state_link": "https://www.palegis.us/legislation/bills/2025/hb2213",
+      "session": "2025-2026 Regular Session",
       "bill_id": "2113319",
-      "change_hash": "44bd2e044c105063b4974be05d753e29",
+      "change_hash": "1b026af86568b638c15e114b7204e1d7",
       "relevance": 99,
       "matched": [
         "\"amusement device\"",
@@ -1631,17 +1631,17 @@
       ]
     },
     {
-      "state": "PA",
       "bill_number": "HB2793",
-      "title": "Providing for a temporary transition period for certain skill game devices and for expiration.",
       "description": "An Act providing for a temporary transition period for certain skill game devices and for expiration.",
-      "status": 1,
-      "status_date": "2026-09-24",
       "last_action": "Referred to Gaming Oversight",
       "last_action_date": "2026-09-24",
-      "url": "https://legiscan.com/PA/bill/HB2793/2025",
-      "state_link": "https://www.palegis.us/legislation/bills/2025/hb2793",
       "session": "2025-2026 Regular Session",
+      "state": "PA",
+      "state_link": "https://www.palegis.us/legislation/bills/2025/hb2793",
+      "status": 1,
+      "status_date": "2026-09-24",
+      "title": "Providing for a temporary transition period for certain skill game devices and for expiration.",
+      "url": "https://legiscan.com/PA/bill/HB2793/2025",
       "bill_id": "2158787",
       "change_hash": "4c0f5e127776680991d8ed18a7ba5931",
       "relevance": 99,
@@ -1667,7 +1667,7 @@
       "state_link": "https://www.palegis.us/legislation/bills/2025/hb2795",
       "session": "2025-2026 Regular Session",
       "bill_id": "2158952",
-      "change_hash": "270fb2acb28392e14375c43c16341608",
+      "change_hash": "c3d471351ded8d924b622b83ee43f982",
       "relevance": 98,
       "matched": [
         "\"skill game\"",
@@ -5368,7 +5368,7 @@
       "url": "https://legiscan.com/NJ/bill/S704/2026",
       "bill_id": "2075817",
       "change_hash": "575b28de8163110406fef97dc5d99c80",
-      "relevance": 92,
+      "relevance": 91,
       "matched": [
         "\"amusement device\""
       ],
