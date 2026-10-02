@@ -1,5 +1,5 @@
 {
-  "generated_utc": "2026-10-01T16:38:35+00:00",
+  "generated_utc": "2026-10-02T15:55:47+00:00",
   "count": 308,
   "bills": [
     {
@@ -1558,17 +1558,17 @@
       ]
     },
     {
-      "state": "PA",
       "bill_number": "HB2213",
-      "title": "Providing for skill video gaming; imposing duties on the Department of Revenue; providing for issuance of licenses for skill video gaming; imposing a fee and criminal and civil penalties; and providing for zoning.",
       "description": "An Act providing for skill video gaming; imposing duties on the Department of Revenue; providing for issuance of licenses for skill video gaming; imposing a fee and criminal and civil penalties; and providing for zoning.",
-      "status": 1,
-      "status_date": "2026-02-11",
       "last_action": "Referred to Gaming Oversight",
       "last_action_date": "2026-02-11",
-      "url": "https://legiscan.com/PA/bill/HB2213/2025",
-      "state_link": "https://www.palegis.us/legislation/bills/2025/hb2213",
       "session": "2025-2026 Regular Session",
+      "state": "PA",
+      "state_link": "https://www.palegis.us/legislation/bills/2025/hb2213",
+      "status": 1,
+      "status_date": "2026-02-11",
+      "title": "Providing for skill video gaming; imposing duties on the Department of Revenue; providing for issuance of licenses for skill video gaming; imposing a fee and criminal and civil penalties; and providing for zoning.",
+      "url": "https://legiscan.com/PA/bill/HB2213/2025",
       "bill_id": "2113319",
       "change_hash": "1b026af86568b638c15e114b7204e1d7",
       "relevance": 99,
@@ -1667,7 +1667,7 @@
       "state_link": "https://www.palegis.us/legislation/bills/2025/hb2795",
       "session": "2025-2026 Regular Session",
       "bill_id": "2158952",
-      "change_hash": "c3d471351ded8d924b622b83ee43f982",
+      "change_hash": "dedd3aa4e784c933704b0d63f6acd76e",
       "relevance": 98,
       "matched": [
         "\"skill game\"",
