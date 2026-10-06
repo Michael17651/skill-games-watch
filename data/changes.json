@@ -1,5 +1,5 @@
 {
-  "generated_utc": "2026-10-05T18:44:18+00:00",
+  "generated_utc": "2026-10-06T16:08:00+00:00",
   "first_run": false,
   "keywords": [
     "\"skill game\"",
@@ -22,105 +22,54 @@
     "secondary": 223,
     "new": 0,
     "new_primary": 0,
-    "changed": 4,
-    "changed_primary": 3,
+    "changed": 2,
+    "changed_primary": 1,
     "no_longer_matching": 0
   },
   "new": [],
   "changed": [
     {
       "state": "PA",
-      "bill_number": "HB2793",
-      "title": "Providing for a temporary transition period for certain skill game devices and for expiration.",
-      "description": "An Act providing for a temporary transition period for certain skill game devices and for expiration.",
+      "bill_number": "HB2213",
+      "title": "Providing for skill video gaming; imposing duties on the Department of Revenue; providing for issuance of licenses for skill video gaming; imposing a fee and criminal and civil penalties; and providing for zoning.",
+      "description": "An Act providing for skill video gaming; imposing duties on the Department of Revenue; providing for issuance of licenses for skill video gaming; imposing a fee and criminal and civil penalties; and providing for zoning.",
       "status": 1,
-      "status_date": "2026-09-24",
+      "status_date": "2026-02-11",
       "last_action": "Referred to Gaming Oversight",
-      "last_action_date": "2026-09-24",
-      "url": "https://legiscan.com/PA/bill/HB2793/2025",
-      "state_link": "https://www.palegis.us/legislation/bills/2025/hb2793",
+      "last_action_date": "2026-02-11",
+      "url": "https://legiscan.com/PA/bill/HB2213/2025",
+      "state_link": "https://www.palegis.us/legislation/bills/2025/hb2213",
       "session": "2025-2026 Regular Session",
-      "bill_id": "2158787",
-      "change_hash": "195a12bdd0eb6905e59a8a55fe465827",
+      "bill_id": "2113319",
+      "change_hash": "72573f067afc45447e398451c798e7eb",
       "relevance": 99,
       "matched": [
+        "\"amusement device\"",
         "\"skill game\"",
         "\"skill games\""
       ],
       "tier": "primary",
       "subject_terms": [
-        "skill game"
+        "video gaming"
       ]
     },
     {
-      "state": "PA",
-      "bill_number": "HB2795",
-      "title": "Providing for temporary authorization of skill games.",
-      "description": "An Act amending Title 4 (Amusements) of the Pennsylvania Consolidated Statutes, providing for temporary authorization of skill games.",
+      "state": "NJ",
+      "bill_number": "S4227",
+      "title": "Prohibits fur farming.",
+      "description": "Prohibits fur farming.",
       "status": 1,
-      "status_date": "2026-09-24",
-      "last_action": "Referred to Gaming Oversight",
-      "last_action_date": "2026-09-24",
-      "url": "https://legiscan.com/PA/bill/HB2795/2025",
-      "state_link": "https://www.palegis.us/legislation/bills/2025/hb2795",
-      "session": "2025-2026 Regular Session",
-      "bill_id": "2158952",
-      "change_hash": "bd50108d0799edee827f5fd3cf639a7d",
-      "relevance": 98,
+      "status_date": "2026-05-14",
+      "last_action": "Introduced in the Senate, Referred to Senate Economic Growth Committee",
+      "last_action_date": "2026-05-14",
+      "url": "https://legiscan.com/NJ/bill/S4227/2026",
+      "state_link": "https://www.njleg.state.nj.us/bill-search/2026/S4227",
+      "session": "2026-2027 Regular Session",
+      "bill_id": "2148964",
+      "change_hash": "dd2c044e32a70e99ef8ab865e6c8652e",
+      "relevance": 92,
       "matched": [
-        "\"skill game\"",
-        "\"skill games\""
-      ],
-      "tier": "primary",
-      "subject_terms": [
-        "skill game"
-      ]
-    },
-    {
-      "state": "PA",
-      "bill_number": "HB2801",
-      "title": "In preliminary provisions, providing for scope of title, for legislative intent and for definitions; in fantasy contests, further providing for definitions, for general and specific powers of board, for issuance and denial of license, for license renewal, for conditions of licensure, for prohibitions, for penalties, for fantasy contest tax, for licensed operator deposits and for responsibility and authority of department and repealing provisions relating to compulsive and problem gambling; in general provisions relating to gaming, repealing provisions relating to legislative intent and further providing for definitions; in Pennsylvania Gaming Control Board, further providing for Pennsylvania Gaming Control Board established, for general and specific powers, for expenses of regulatory agencies, for regulatory authority of board, for collection of fees and fines, for slot machine license fee, for reports of board and for specific authority to suspend slot machine license; in licensees, further providing for Category 1 slot machine license, for Category 2 slot machine license, for Category 3 slot machine license, for Category 4 slot machine license and for conduct of auctions, providing for conduct of additional auctions, further providing for slot machine license application financial fitness requirements and for slot machine license operation fee; in table games, further providing for regulatory authority, repealing provisions relating to temporary table game regulations, further providing for prohibitions, for table game accounting controls and audit protocols, for table game authorization fee and for table game taxes and repealing provisions relating to local share assessment; in interactive gaming, further providing for fee and for multi-use gaming device tax, repealing provisions relating to multi-use gaming device local share assessment, further providing for interactive games and interactive gaming devices and associated equipment testing and certification standards, for interactive gaming authorization fee and for interactive gaming tax, repealing provisions relating to local share assessment and to compulsive and problem gambling, further providing for certificate holder deposits and providing for sweepstakes games prohibited; in sports wagering, further providing for unauthorized sports wagering, for authorization to conduct sports wagering, for authorized locations for operation, for sports wagering authorization fee and for sports wagering tax and repealing provisions relating to local share assessment and to compulsive and problem gambling; in revenues, further providing for slot machine licensee deposits, for gross terminal revenue deductions, for itemized budget reporting, for establishment of State Gaming Fund and net slot machine revenue distribution, for distributions from licensee's revenue receipts, for Pennsylvania Race Horse Development Trust Fund, for protection of funds, for distributions from Pennsylvania Race Horse Development Trust Fund and for Pennsylvania Gaming Economic Development and Tourism Fund, repealing provisions relating to Casino Marketing and Capital Development Account and to transfers from State Gaming Fund, further providing for Property Tax Relief Fund and providing for State Gaming Fund and for Pennsylvania Gaming Control Board Regulatory Fund; in administration and enforcement, further providing for drug and alcohol treatment, for financial and employment interests, for list of persons self excluded from gaming activities and for prohibited acts and penalties; in fingerprinting, further providing for submission of fingerprints and photographs; in miscellaneous provisions, further providing for Commonwealth Financing Authority; in general provisions relating to video gaming, further providing for definitions; in administration, further providing for powers of board and for records and confidentiality of information; in application and licensure, further providing for establishment licenses, for license or permit prohibition, for issuance and renewal and for conditional licenses; in operation, further providing for testing and certification of terminals and for video gaming limitations, providing for hours of operation and further providing for terminal placement agreements and for compulsive and problem gambling; in enforcement, further providing for self-exclusion, for investigations and enforcement and for prohibited acts and penalties; in revenues, further providing for fees and for taxes and assessments, repealing provisions relating to distribution of local share, further providing for regulatory assessments and repealing provisions relating to transfers from Video Gaming Fund; in ethics, further providing for financial and employment interests; in miscellaneous provisions, further providing for preemption of local taxes and license fees and for Commonwealth Financing Authority; in prohibition options, further providing for definitions and for municipal option for gaming; making repeals; and making an editorial change.",
-      "description": "An Act amending Titles 4 (Amusements) and 53 (Municipalities Generally) of the Pennsylvania Consolidated Statutes, in preliminary provisions, providing for scope of title, for legislative intent and for definitions; in fantasy contests, further providing for definitions, for general and specific powers of board, for issuance and denial of license, for license renewal, for conditions of licensure, for prohibitions, for penalties, for fantasy contest tax, for licensed operator deposits and for responsibility and authority of department and repealing provisions relating to compulsive and problem gambling; in general provisions relating to gaming, repealing provisions relating to legislative intent and further providing for definitions; in Pennsylvania Gaming Control Board, further providing for Pennsylvania Gaming Control Board established, for general and specific powers, for expenses of regulatory agencies, for regulatory authority of board, for collection of fees and fines, for slot machine license fee, for reports of board and for specific authority to suspend slot machine license; in licensees, further providing for Category 1 slot machine license, for Category 2 slot machine license, for Category 3 slot machine license, for Category 4 slot machine license and for conduct of auctions, providing for conduct of additional auctions, further providing for slot machine license application financial fitness requirements and for slot machine license operation fee; in table games, further providing for regulatory authority, repealing provisions relating to temporary table game regulations, further providing for prohibitions, for table game accounting controls and audit protocols, for table game authorization fee and for table game taxes and repealing provisions relating to local share assessment; in interactive gaming, further providing for fee and for multi-use gaming device tax, repealing provisions relating to multi-use gaming device local share assessment, further providing for interactive games and interactive gaming devices and associated equipment testing and certification standards, for interactive gaming authorization fee and for interactive gaming tax, repealing provisions relating to local share assessment and to compulsive and problem gambling, further providing for certificate holder deposits and providing for sweepstakes games prohibited; in sports wagering, further providing for unauthorized sports wagering, for authorization to conduct sports wagering, for authorized locations for operation, for sports wagering authorization fee and for sports wagering tax and repealing provisions relating to local share assessment and to compulsive and problem gambling; in revenues, further providing for slot machine licensee deposits, for gross terminal revenue deductions, for itemized budget reporting, for establishment of State Gaming Fund and net slot machine revenue distribution, for distributions from licensee's revenue receipts, for Pennsylvania Race Horse Development Trust Fund, for protection of funds, for distributions from Pennsylvania Race Horse Development Trust Fund and for Pennsylvania Gaming Economic Development and Tourism Fund, repealing provisions relating to Casino Marketing and Capital Development Account and to transfers from State Gaming Fund, further providing for Property Tax Relief Fund and providing for State Gaming Fund and for Pennsylvania Gaming Control Board Regulatory Fund; in administration and enforcement, further providing for drug and alcohol treatment, for financial and employment interests, for list of persons self excluded from gaming activities and for prohibited acts and penalties; in fingerprinting, further providing for submission of fingerprints and photographs; in miscellaneous provisions, further providing for Commonwealth Financing Authority; in general provisions relating to video gaming, further providing for definitions; in administration, further providing for powers of board and for records and confidentiality of information; in application and licensure, further providing for establishment licenses, for license or permit prohibition, for issuance and renewal and for conditional licenses; in operation, further providing for testing and certification of terminals and for video gaming limitations, providing for hours of operation and further providing for terminal placement agreements and for compulsive and problem gambling; in enforcement, further providing for self-exclusion, for investigations and enforcement and for prohibited acts and penalties; in revenues, further providing for fees and for taxes and assessments, repealing provisions relating to distribution of local share, further providing for regulatory assessments and repealing provisions relating to transfers from Video Gaming Fund; in ethics, further providing for financial and employment interests; in miscellaneous provisions, further providing for preemption of local taxes and license fees and for Commonwealth Financing Authority; in prohibition options, further providing for definitions and for municipal option for gaming; making repeals; and making an editorial change.",
-      "status": 1,
-      "status_date": "2026-09-24",
-      "last_action": "Referred to Gaming Oversight",
-      "last_action_date": "2026-09-24",
-      "url": "https://legiscan.com/PA/bill/HB2801/2025",
-      "state_link": "https://www.palegis.us/legislation/bills/2025/hb2801",
-      "session": "2025-2026 Regular Session",
-      "bill_id": "2158935",
-      "change_hash": "8dbfc269cb98c4d9afb095d9e7b8da46",
-      "relevance": 99,
-      "matched": [
-        "\"dual currency\"",
-        "\"sweepstakes\"",
-        "\"video gaming terminal\""
-      ],
-      "tier": "primary",
-      "subject_terms": [
-        "sweepstakes",
-        "video gaming",
-        "gaming device",
-        "slot machine"
-      ]
-    },
-    {
-      "state": "OH",
-      "bill_number": "HB116",
-      "title": "Enact the Ohio Blockchain Basics Act",
-      "description": "To amend sections 301.30, 504.04, 715.013, 718.01, 1315.01, and 5747.01 and to enact sections 1352.01, 1352.02, 1352.03, and 1352.04 of the Revised Code to enact the Ohio Blockchain Basics Act to address mining, taxation, and regulation of digital assets.",
-      "status": 2,
-      "status_date": "2025-06-18",
-      "last_action": "Referred to committee: Financial Institutions, Insurance and Technology",
-      "last_action_date": "2025-06-25",
-      "url": "https://legiscan.com/OH/bill/HB116/2025",
-      "state_link": "https://www.legislature.ohio.gov/legislation/136/hb116",
-      "session": "136th General Assembly",
-      "bill_id": "1981394",
-      "change_hash": "7915853501b0d481cdc936ad6151bd8c",
-      "relevance": 69,
-      "matched": [
-        "\"sweepstakes\""
+        "\"amusement device\""
       ],
       "tier": "secondary",
       "subject_terms": []
