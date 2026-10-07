@@ -13,6 +13,111 @@
   ],
   "entries": [
     {
+      "date": "2026-10-07",
+      "run": "priority",
+      "headline": "Pennsylvania's countdown narrows to a single working day before the October 13 deadline, with Rep. Doyle Heffley planning a floor amendment for a six month delay and Rep. Russ Diamond and House Democratic leadership publicly trading blame over which chamber must move first. A sponsor question on House Bill 2793 gets resolved. Oklahoma, Iowa and the rest of the priority states stayed quiet, and the week's only primary change in the legislative feed turned out to be a stale metadata refresh on an already known bill.",
+      "items": [
+        {
+          "state": "US",
+          "kind": "legislation",
+          "flag": "info",
+          "text": "The legislative feed refreshed again, generated at 16:08 UTC on October 6, 2026, one day after the prior scan reported here. Totals moved to 308 matching bills, 85 primary and 223 secondary, with two changed records and none new. The primary changed record is Pennsylvania House Bill 2213, the flat fee House companion to Senate Bill 1079 already reported on this page, and its own last action date of February 11, 2026 did not move, so this again looks like a metadata refresh rather than new committee or floor action. The secondary changed record, New Jersey Senate Bill 4227, prohibits fur farming and matched only on the phrase amusement device in passing, so it is not reported further.",
+          "sources": [
+            {
+              "title": "LegiScan",
+              "url": "https://legiscan.com/legiscan"
+            },
+            {
+              "title": "LegiScan, HB 2213",
+              "url": "https://legiscan.com/PA/bill/HB2213/2025"
+            }
+          ]
+        },
+        {
+          "state": "PA",
+          "kind": "legislation",
+          "flag": "watch",
+          "text": "With six days left to the October 13 deadline, the House and Senate had only one scheduled session day left to act before then, today, October 7, with the next session day not until October 19, six days after the stay is due to expire. Reporting on October 6 said Rep. Doyle Heffley plans to offer a floor amendment that would delay enforcement by six months, and quoted him urging leadership to let the chamber vote: 'We've seen Democrats here. We've seen Republicans here. This is bipartisan.' No committee vote or floor vote had been confirmed as of this search.",
+          "sources": [
+            {
+              "title": "City & State PA",
+              "url": "https://www.cityandstatepa.com/policy/2026/10/put-it-vote-enforcement-looms-supporters-urge-lawmakers-save-skill-games/416451/"
+            }
+          ]
+        },
+        {
+          "state": "PA",
+          "kind": "legislation",
+          "flag": "watch",
+          "text": "Rep. Russ Diamond publicly pressed House leadership on October 5 not to let the deadline pass without a vote, saying Senate Republican leadership's insistence that any skill games bill originate in the Senate stands in the way of action, and offering to add public transportation funding to his own two bills to attract Democratic votes. A spokesperson for House Majority Leader Matt Bradford countered that Senate Republicans had demanded control of the issue but failed to pass their own measure, and said House Democrats remain willing to reach a resolution that also ensures a safe and equitable framework. Neither side described a specific vote count or timeline.",
+          "sources": [
+            {
+              "title": "Pennsylvania Capital-Star",
+              "url": "https://penncapital-star.com/economy/diamond-urges-house-leaders-not-to-allow-skill-games-deadline-to-pass-without-a-solution/"
+            }
+          ]
+        },
+        {
+          "state": "PA",
+          "bill": "HB 2793",
+          "kind": "legislation",
+          "flag": "watch",
+          "text": "A clarification on a bill this page could not previously attribute. Pennsylvania Petroleum Association reporting from September 27 identifies House Bill 2793 as Rep. Manuel Guzman's extension bill, temporarily authorizing skill games through April 13, 2027, running parallel to Rep. Brad Roae's House Bill 2795, which carries the same expiration date. Both were referred to the House Gaming Oversight Committee on September 24 and neither has been scheduled for a vote.",
+          "sources": [
+            {
+              "title": "Pennsylvania Petroleum Association, State Capitol Update",
+              "url": "https://papetroleum.org/state-capitol-update-27/"
+            }
+          ]
+        },
+        {
+          "state": "OK",
+          "bill": "SB 1589",
+          "kind": "enforcement",
+          "flag": "watch",
+          "text": "No new enforcement guidance from the attorney general or state gaming authorities, no legal challenge to the statute and no additional operator exit beyond the restrictions already reported turned up in searches this week. Twenty five days remain to the November 1 effective date.",
+          "sources": []
+        },
+        {
+          "state": "IA",
+          "bill": "SF 2289",
+          "kind": "regulator",
+          "flag": "watch",
+          "text": "Still no first cease and desist order against a dual currency sweepstakes operator has been published since the Racing and Gaming Commission's authority took effect July 1. Nothing new found this week.",
+          "sources": [
+            {
+              "title": "Iowa Racing and Gaming Commission",
+              "url": "https://irgc.iowa.gov/"
+            }
+          ]
+        },
+        {
+          "state": "US",
+          "kind": "tribal",
+          "flag": "info",
+          "text": "No Indian Gaming compact notice newer than the Squaxin Island Tribe and Washington amendment already reported has appeared in the Federal Register's Indian Affairs Bureau index, which still shows no October entries as of this search. The index's own snapshot lags behind real time, so this should be read as not found rather than confirmed absent.",
+          "sources": [
+            {
+              "title": "Federal Register, Indian Affairs Bureau index",
+              "url": "https://www.federalregister.gov/index/2026/indian-affairs-bureau"
+            }
+          ]
+        },
+        {
+          "state": "US",
+          "kind": "industry",
+          "flag": "info",
+          "text": "Searches this week across the remaining priority states, Virginia, Missouri, Georgia, South Carolina, Texas, Ohio, Florida, Maryland, Mississippi, New York, New Jersey, California, Connecticut, Montana, Louisiana, Michigan, Washington, Illinois, North Carolina, Nevada and Wisconsin, and for Pace-O-Matic, Torch Electronics and Great Lakes Amusement by name, turned up nothing new beyond the items above. The North Carolina Supreme Court has still not ruled in No Limit Games v. Sheriff of Robeson County following the September 9 argument, and Florida's October 23 deadline for Google, Meta, Reddit, Snap and TikTok to confirm they have stopped running sweepstakes casino ads has not yet arrived.",
+          "sources": [
+            {
+              "title": "NC Supreme Court docket, No Limit Games v. Sheriff of Robeson County",
+              "url": "https://appellate.nccourts.org/dockets.php?court=1&docket=1-2025-0047-001&pdf=1&a=0&dev=1"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "date": "2026-10-06",
       "run": "secondary",
       "headline": "A quiet run across the nineteen lower-activity states. The legislative feed's change set surfaced one previously unreported Pennsylvania bill, but the rest of the week in these states produced nothing new.",
