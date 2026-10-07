@@ -1,5 +1,5 @@
 {
-  "generated_utc": "2026-10-06T16:08:00+00:00",
+  "generated_utc": "2026-10-07T16:47:51+00:00",
   "count": 308,
   "bills": [
     {
@@ -1558,17 +1558,17 @@
       ]
     },
     {
-      "state": "PA",
       "bill_number": "HB2213",
-      "title": "Providing for skill video gaming; imposing duties on the Department of Revenue; providing for issuance of licenses for skill video gaming; imposing a fee and criminal and civil penalties; and providing for zoning.",
       "description": "An Act providing for skill video gaming; imposing duties on the Department of Revenue; providing for issuance of licenses for skill video gaming; imposing a fee and criminal and civil penalties; and providing for zoning.",
-      "status": 1,
-      "status_date": "2026-02-11",
       "last_action": "Referred to Gaming Oversight",
       "last_action_date": "2026-02-11",
-      "url": "https://legiscan.com/PA/bill/HB2213/2025",
-      "state_link": "https://www.palegis.us/legislation/bills/2025/hb2213",
       "session": "2025-2026 Regular Session",
+      "state": "PA",
+      "state_link": "https://www.palegis.us/legislation/bills/2025/hb2213",
+      "status": 1,
+      "status_date": "2026-02-11",
+      "title": "Providing for skill video gaming; imposing duties on the Department of Revenue; providing for issuance of licenses for skill video gaming; imposing a fee and criminal and civil penalties; and providing for zoning.",
+      "url": "https://legiscan.com/PA/bill/HB2213/2025",
       "bill_id": "2113319",
       "change_hash": "72573f067afc45447e398451c798e7eb",
       "relevance": 99,
@@ -3126,7 +3126,7 @@
       "url": "https://legiscan.com/IL/bill/HB2949/2025",
       "bill_id": "1958330",
       "change_hash": "12382d8b8e66f35cd90be7607257b43e",
-      "relevance": 53,
+      "relevance": 54,
       "matched": [
         "\"video gaming terminal\""
       ],
@@ -3871,7 +3871,7 @@
       "url": "https://legiscan.com/MA/bill/H5500/2025",
       "bill_id": "2143341",
       "change_hash": "f20fd73b107ef511d2c1a0166032eae3",
-      "relevance": 43,
+      "relevance": 44,
       "matched": [
         "\"amusement device\""
       ],
@@ -5313,17 +5313,17 @@
       "subject_terms": []
     },
     {
-      "state": "NJ",
       "bill_number": "S4227",
-      "title": "Prohibits fur farming.",
       "description": "Prohibits fur farming.",
-      "status": 1,
-      "status_date": "2026-05-14",
       "last_action": "Introduced in the Senate, Referred to Senate Economic Growth Committee",
       "last_action_date": "2026-05-14",
-      "url": "https://legiscan.com/NJ/bill/S4227/2026",
-      "state_link": "https://www.njleg.state.nj.us/bill-search/2026/S4227",
       "session": "2026-2027 Regular Session",
+      "state": "NJ",
+      "state_link": "https://www.njleg.state.nj.us/bill-search/2026/S4227",
+      "status": 1,
+      "status_date": "2026-05-14",
+      "title": "Prohibits fur farming.",
+      "url": "https://legiscan.com/NJ/bill/S4227/2026",
       "bill_id": "2148964",
       "change_hash": "dd2c044e32a70e99ef8ab865e6c8652e",
       "relevance": 92,
