@@ -1,5 +1,5 @@
 {
-  "generated_utc": "2026-10-07T16:47:51+00:00",
+  "generated_utc": "2026-10-08T16:48:06+00:00",
   "first_run": false,
   "keywords": [
     "\"skill game\"",
@@ -17,16 +17,38 @@
   "min_relevance": 40,
   "detail_cap_hit": false,
   "totals": {
-    "matching": 308,
+    "matching": 309,
     "primary": 85,
-    "secondary": 223,
-    "new": 0,
+    "secondary": 224,
+    "new": 1,
     "new_primary": 0,
     "changed": 0,
     "changed_primary": 0,
     "no_longer_matching": 0
   },
-  "new": [],
+  "new": [
+    {
+      "state": "MA",
+      "bill_number": "H5501",
+      "title": "Making appropriations for the fiscal year 2027 for the maintenance of the departments, boards, commissions, institutions, and certain activities of the commonwealth, for interest, sinking fund, and serial bond requirements, and for certain permanent improvements",
+      "description": "Making appropriations for the fiscal year 2027 for the maintenance of the departments, boards, commissions, institutions, and certain activities of the commonwealth, for interest, sinking fund, and serial bond requirements, and for certain permanent improvements",
+      "status": 2,
+      "status_date": "2026-04-29",
+      "last_action": "Reported, in part, by H5555",
+      "last_action_date": "2026-07-01",
+      "url": "https://legiscan.com/MA/bill/H5501/2025",
+      "state_link": "https://malegislature.gov/Bills/194/H5501",
+      "session": "194th General Court",
+      "bill_id": "2147802",
+      "change_hash": "914fbe7adcbc2413ed69485fee5acf54",
+      "relevance": 40,
+      "matched": [
+        "\"amusement device\""
+      ],
+      "tier": "secondary",
+      "subject_terms": []
+    }
+  ],
   "changed": [],
   "no_longer_matching": [],
   "errors": [],
