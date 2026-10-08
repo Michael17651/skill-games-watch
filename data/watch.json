@@ -13,6 +13,41 @@
   ],
   "entries": [
     {
+      "date": "2026-10-08",
+      "run": "secondary",
+      "headline": "Another quiet run across the nineteen lower-activity states. The legislative feed's latest refresh carried no new or changed records, and no attorney general, enforcement, court or regulator activity turned up in any of the nineteen states, including the Kentucky and Wyoming items this run watches most closely.",
+      "items": [
+        {
+          "state": "US",
+          "kind": "legislation",
+          "flag": "info",
+          "text": "The legislative feed refreshed again, generated at 16:47 UTC on October 7, 2026, about nine hours after the scan reported here on October 7. Totals held at 308 matching bills, 85 primary and 223 secondary, with zero new and zero changed records, so nothing moved in the feed to report from any state.",
+          "sources": [
+            {
+              "title": "LegiScan",
+              "url": "https://legiscan.com/legiscan"
+            }
+          ]
+        },
+        {
+          "state": "US",
+          "kind": "industry",
+          "flag": "info",
+          "text": "Searches covering the past seven days found no attorney general opinion, enforcement action, seizure, prosecution, cease and desist order, court ruling, tribal compact item or regulator notice in any of the nineteen lower-activity states: Alabama, Alaska, Arkansas, Colorado, Idaho, Indiana, Kansas, Kentucky, Maine, Nebraska, New Hampshire, New Mexico, North Dakota, Oregon, Rhode Island, South Dakota, Tennessee, Vermont and Wyoming. A Kentucky Lantern brief describing a new lawsuit against the HB 594 ban, found in this search, turned out to date from May 2023 and is not a current revival. A Wyoming House bill found in this search, HB 137, would raise the skill game tax rate under W.S. 11-25-304 from 20 to 25 percent of net proceeds and route a new 20 percent share to the state highway fund, but it carried a July 1, 2026 effective date that has already passed with the rate unchanged, so it did not advance and is not a live development. No change to Wyoming's 20 percent tax rate, four machine per location limit, 3 dollar maximum wager or 3,000 dollar payout cap under W.S. 11-25-301 et seq., and no enforcement or rulemaking news from Indiana, Maine or Tennessee since their sweepstakes bans took effect. General searches for Pace-O-Matic, Torch Electronics and Great Lakes Amusement returned only unrelated award, personnel and historical items. None of the nineteen states shows a first sign of new activity that would warrant moving it to the priority list.",
+          "sources": [
+            {
+              "title": "Kentucky Lantern, lawsuit brief",
+              "url": "https://kentuckylantern.com/briefs/another-lawsuit-challenges-kentuckys-ban-on-skill-based-gambling-machines/"
+            },
+            {
+              "title": "Wyoming Legislature, HB 137",
+              "url": "https://wyoleg.gov/2026/Introduced/HB0137.pdf"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "date": "2026-10-07",
       "run": "priority",
       "headline": "Pennsylvania's countdown narrows to a single working day before the October 13 deadline, with Rep. Doyle Heffley planning a floor amendment for a six month delay and Rep. Russ Diamond and House Democratic leadership publicly trading blame over which chamber must move first. A sponsor question on House Bill 2793 gets resolved. Oklahoma, Iowa and the rest of the priority states stayed quiet, and the week's only primary change in the legislative feed turned out to be a stale metadata refresh on an already known bill.",
