@@ -4,6 +4,10 @@ Tracks state skill-game and sweepstakes legislation. A GitHub Actions cron job (
 
 The bot also pushes to main. The checkpoint hook runs `git pull --rebase --autostash` before pushing; on a conflict it aborts, leaves commits local, and `.claude/.last_checkpoint_sync_problem` says so (shown at session start). Resolve with `git pull --rebase` by hand.
 
+## Commands
+
+- Rerun the semantic doc pass: in Claude Code, run `/graphify . --update --mode deep`. It re-reads only new or changed docs and images, with an LLM, and keeps the rest of the graph. Run it after significant doc changes (new docs, or heavily edited `.md` files). The git hooks refresh code only and never re-read docs.
+
 ## Working rules
 
 - Before building anything, write success criteria and the tests that prove them.
