@@ -13,6 +13,122 @@
   ],
   "entries": [
     {
+      "date": "2026-10-09",
+      "run": "priority",
+      "headline": "Week in review: Pennsylvania's fight over the October 13 deadline moved to the Supreme Court itself this week, as four lawmakers petitioned directly for a stay extension to February 10, then withdrew and refiled that petition a day later without one of its original sponsors, while the House and Senate broke for the week without a vote on any tax plan. Pace-O-Matic and a fifty-signer letter led by Rep. Eric Davanzo asked the court on Thursday to delay enforcement anyway, telling the justices that none of six competing bills has cleared committee. Oklahoma, Iowa and the other twenty-two priority states stayed quiet, and the legislative feed's only new record this week was an off-topic Massachusetts budget bill.",
+      "items": [
+        {
+          "state": "US",
+          "kind": "legislation",
+          "flag": "info",
+          "text": "The legislative feed refreshed again, generated at 16:48 UTC on October 8, 2026, about nine hours after the prior scan reported here. Totals moved to 309 matching bills, 85 primary and 224 secondary, with one new record and none changed. The new record is Massachusetts House Bill 5501, the fiscal year 2027 state budget appropriations bill, which matched only on the phrase amusement device in passing and has nothing to do with skill games or sweepstakes gaming, so it is not reported further here.",
+          "sources": [
+            {
+              "title": "LegiScan",
+              "url": "https://legiscan.com/legiscan"
+            },
+            {
+              "title": "LegiScan, MA HB 5501",
+              "url": "https://legiscan.com/MA/bill/H5501/2025"
+            }
+          ]
+        },
+        {
+          "state": "PA",
+          "kind": "legislation",
+          "flag": "watch",
+          "text": "A bipartisan group of four lawmakers, Sen. Gene Yaw, Sen. Anthony Williams, Rep. Danilo Burgos and Rep. Jonathan Fritz, petitioned the Supreme Court on October 6 to use its King's Bench authority and extend the stay on its June 15 ruling from October 13 to February 10, 2027, so the legislature could finish regulating skill games before enforcement begins. Their attorney withdrew the petition the next morning without explanation and refiled a version later that day that dropped Rep. Burgos as a petitioner along with the exhibit describing his cosponsorship memo. Three petitioners now remain: Yaw, Williams and Fritz. The court had not ruled on the refiled petition as of this search.",
+          "sources": [
+            {
+              "title": "CBS News Philadelphia",
+              "url": "https://www.cbsnews.com/philadelphia/news/skill-games-pennsylvania-deadline-supreme-court-2027/"
+            },
+            {
+              "title": "States Newsroom, via newsfromthestates.com",
+              "url": "https://www.newsfromthestates.com/article/lawmakers-withdraw-request-state-supreme-court-extend-skill-games-deadline"
+            },
+            {
+              "title": "WESA",
+              "url": "https://www.wesanews.org/politics-government/2026-10-09/skill-game-court-petitions-withdrawal"
+            }
+          ]
+        },
+        {
+          "state": "PA",
+          "kind": "legislation",
+          "flag": "watch",
+          "text": "Skill game manufacturer Pace-O-Matic filed its own document with the court on October 8, telling the justices that several bills are moving through Harrisburg but that none of six identified measures has advanced out of committee, a required step before a House floor vote, and that the Senate majority is divided too. The filing attached a letter drafted by Rep. Eric Davanzo and signed by fifty lawmakers, 47 of them Republicans, asking the court for a delay to avoid what the letter called hardships being unduly placed on small businesses and nonprofit organizations.",
+          "sources": [
+            {
+              "title": "WESA",
+              "url": "https://www.wesanews.org/politics-government/2026-10-09/skill-game-court-petitions-withdrawal"
+            }
+          ]
+        },
+        {
+          "state": "PA",
+          "kind": "legislation",
+          "flag": "watch",
+          "text": "The House and Senate ended their session week on October 7 without a committee vote or floor vote on any tax or extension proposal, and are not scheduled to return until October 19, six days after the stay is set to expire. Governor Josh Shapiro said that week he still favors a 52 percent tax rate and put the installed base at 40,000 to 45,000 machines, while Senate leaders have floated rates as low as 16 percent or flat per-machine fees, leaving the chambers as far apart as before. Pennsylvania State Police and Attorney General Dave Sunday both repeated this week that machines not removed by October 14 are subject to seizure, forfeiture and possible criminal charges, and that unplugging a machine does not count as compliance.",
+          "sources": [
+            {
+              "title": "Tribune-Democrat",
+              "url": "https://www.tribdem.com/news/politics/pa-lawmakers-break-without-skill-games-solution-ahead-of-enforcement-deadline/article_d305959a-02b1-53fe-b01e-bbf9d2161a98.html"
+            },
+            {
+              "title": "Times Leader",
+              "url": "https://www.timesleader.com/news/1761968/petition-filed-to-delay-skill-games-operation-deadline-psp-ag-warn-of-enforcement"
+            }
+          ]
+        },
+        {
+          "state": "OK",
+          "bill": "SB 1589",
+          "kind": "enforcement",
+          "flag": "watch",
+          "text": "No new enforcement guidance from the attorney general or state gaming authorities, no legal challenge to the statute and no additional operator exit beyond the restrictions already reported turned up in searches this week. Twenty three days remain to the November 1 effective date.",
+          "sources": []
+        },
+        {
+          "state": "IA",
+          "bill": "SF 2289",
+          "kind": "regulator",
+          "flag": "watch",
+          "text": "Still no first cease and desist order against a dual currency sweepstakes operator has been published since the Racing and Gaming Commission's authority took effect July 1. Nothing new found this week.",
+          "sources": [
+            {
+              "title": "Iowa Racing and Gaming Commission",
+              "url": "https://irgc.iowa.gov/"
+            }
+          ]
+        },
+        {
+          "state": "US",
+          "kind": "tribal",
+          "flag": "info",
+          "text": "The Federal Register's Indian Affairs Bureau index states it is current as of September 28, 2026 and lists no gaming related entry past the Squaxin Island Tribe and Washington notice already reported on September 29. An index that has not been updated past September 28 would not be expected to show any October filing yet, so this should be read as not available rather than confirmed absent.",
+          "sources": [
+            {
+              "title": "Federal Register, Indian Affairs Bureau index",
+              "url": "https://www.federalregister.gov/index/2026/indian-affairs-bureau"
+            }
+          ]
+        },
+        {
+          "state": "US",
+          "kind": "industry",
+          "flag": "info",
+          "text": "Searches this week across the remaining priority states, Virginia, Missouri, Georgia, South Carolina, Texas, Ohio, Florida, Maryland, Mississippi, New York, New Jersey, California, Connecticut, Montana, Louisiana, Michigan, Washington, Illinois, North Carolina, Nevada and Wisconsin, and for Pace-O-Matic, Torch Electronics and Great Lakes Amusement beyond the Pennsylvania filing above, turned up nothing new. The North Carolina Supreme Court still has not ruled in No Limit Games v. Sheriff of Robeson County following the September 9 argument, and Florida's October 23 deadline for Google, Meta, Reddit, Snap and TikTok to confirm they have stopped running sweepstakes casino ads has not yet arrived.",
+          "sources": [
+            {
+              "title": "NC Supreme Court docket, No Limit Games v. Sheriff of Robeson County",
+              "url": "https://appellate.nccourts.org/dockets.php?court=1&docket=1-2025-0047-001&pdf=1&a=0&dev=1"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "date": "2026-10-08",
       "run": "secondary",
       "headline": "Another quiet run across the nineteen lower-activity states. The legislative feed's latest refresh carried no new or changed records, and no attorney general, enforcement, court or regulator activity turned up in any of the nineteen states, including the Kentucky and Wyoming items this run watches most closely.",
