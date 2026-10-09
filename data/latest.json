@@ -1,6 +1,6 @@
 {
-  "generated_utc": "2026-10-08T16:48:06+00:00",
-  "count": 309,
+  "generated_utc": "2026-10-09T16:26:57+00:00",
+  "count": 308,
   "bills": [
     {
       "bill_number": "AB831",
@@ -3879,27 +3879,6 @@
       "subject_terms": []
     },
     {
-      "state": "MA",
-      "bill_number": "H5501",
-      "title": "Making appropriations for the fiscal year 2027 for the maintenance of the departments, boards, commissions, institutions, and certain activities of the commonwealth, for interest, sinking fund, and serial bond requirements, and for certain permanent improvements",
-      "description": "Making appropriations for the fiscal year 2027 for the maintenance of the departments, boards, commissions, institutions, and certain activities of the commonwealth, for interest, sinking fund, and serial bond requirements, and for certain permanent improvements",
-      "status": 2,
-      "status_date": "2026-04-29",
-      "last_action": "Reported, in part, by H5555",
-      "last_action_date": "2026-07-01",
-      "url": "https://legiscan.com/MA/bill/H5501/2025",
-      "state_link": "https://malegislature.gov/Bills/194/H5501",
-      "session": "194th General Court",
-      "bill_id": "2147802",
-      "change_hash": "914fbe7adcbc2413ed69485fee5acf54",
-      "relevance": 40,
-      "matched": [
-        "\"amusement device\""
-      ],
-      "tier": "secondary",
-      "subject_terms": []
-    },
-    {
       "bill_number": "H5555",
       "description": "Making appropriations for the fiscal year 2027 for the maintenance of the departments, boards, commissions, institutions, and certain activities of the commonwealth, for interest, sinking fund, and serial bond requirements, and for certain permanent improvements",
       "last_action": "Signed by the Governor, Chapter 137 of the Acts of 2026",
@@ -4018,7 +3997,7 @@
       "url": "https://legiscan.com/MD/bill/HB1226/2026",
       "bill_id": "2113838",
       "change_hash": "4a0e1211f4fe71af0d5eb1bbefa6932d",
-      "relevance": 95,
+      "relevance": 94,
       "matched": [
         "\"dual currency\"",
         "\"sweepstakes\""
