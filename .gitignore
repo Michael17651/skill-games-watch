@@ -2,3 +2,4 @@ __pycache__/
 *.pyc
 .claude/.last_checkpoint_tokens
 .claude/.last_checkpoint_time
+.claude/.last_checkpoint_sync_problem

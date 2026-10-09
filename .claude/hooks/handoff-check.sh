@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 # Fires on PreToolUse (every tool call) and on Stop. Reads live token usage
 # for the current ccusage 5h billing block and checkpoints (commit + write
-# resume-note.md + commit + push) once both of these hold since the last
+# resume-note.md + commit + pull --rebase + push) once both of these hold since the last
 # checkpoint:
 #   1. billable tokens (totalTokens minus cache-read tokens) have crossed a
 #      new CHECKPOINT_INCREMENT-token step, and
@@ -29,9 +29,44 @@ TIME_FILE=".claude/.last_checkpoint_time"
 CHECKPOINT_INCREMENT=100000
 MIN_INTERVAL_SECONDS=900
 
+PROBLEM_FILE=".claude/.last_checkpoint_sync_problem"   # gitignored; session-start.sh shows it
+MAX_FILE_BYTES="${CHECKPOINT_MAX_FILE_BYTES:-52428800}"    # 50 MB: bigger single files are never committed
+MAX_TOTAL_BYTES="${CHECKPOINT_MAX_TOTAL_BYTES:-209715200}" # 200 MB: if one checkpoint would add more than this, commit nothing
+PROBLEMS=""
+add_problem() { PROBLEMS="${PROBLEMS}- $1"$'\n'; }
+
+# Looks at what a blanket `git add -A` would sweep in (untracked, modified or already staged files).
+#  - A single file over MAX_FILE_BYTES is left out (and unstaged if it was staged), stays on disk, and is reported.
+#  - If the files that remain add up to more than MAX_TOTAL_BYTES (many mid-size files, like the
+#    ~1.2 GB of PDFs that once got committed), SKIP_COMMIT=1: the working tree is not committed at all.
+# Fills BIG_EXCLUDES with pathspecs for `git add`. Symlinks count as a few bytes, as git stores them.
+find_big_files() {
+  BIG_EXCLUDES=(); SKIP_COMMIT=0
+  local p sz total=0 staged
+  while IFS= read -r -d '' p; do
+    [ -L "$p" ] && continue
+    [ -f "$p" ] || continue
+    sz=$(wc -c < "$p" 2>/dev/null | tr -d ' ')
+    case "$sz" in ''|*[!0-9]*) continue ;; esac
+    if [ "$sz" -gt "$MAX_FILE_BYTES" ]; then
+      BIG_EXCLUDES+=(":(exclude,literal)$p")
+      git reset -q -- ":(literal)$p" 2>/dev/null   # in case it was already staged
+      add_problem "not committed, over $((MAX_FILE_BYTES / 1048576)) MB: $p ($((sz / 1048576)) MB). Move it out of the repo, or add it to .gitignore."
+    else
+      total=$((total + sz))
+    fi
+  done < <({ git ls-files -z --others --exclude-standard; git ls-files -z -m; git diff --cached --name-only -z --diff-filter=AMR; } 2>/dev/null | sort -zu)
+  if [ "$total" -gt "$MAX_TOTAL_BYTES" ]; then
+    SKIP_COMMIT=1
+    add_problem "nothing was committed: the pending changes add up to $((total / 1048576)) MB, over the $((MAX_TOTAL_BYTES / 1048576)) MB checkpoint limit. Look at git status; add generated or copied folders to .gitignore, commit by hand, or raise CHECKPOINT_MAX_TOTAL_BYTES."
+  fi
+}
+
 checkpoint() {  # $1 = commit label, $2 = why it fired
-  if [ -n "$(git status --porcelain)" ]; then
-    git add -A
+  PROBLEMS=""
+  find_big_files
+  if [ "$SKIP_COMMIT" -eq 0 ] && [ -n "$(git status --porcelain)" ]; then
+    if [ ${#BIG_EXCLUDES[@]} -gt 0 ]; then git add -A -- . "${BIG_EXCLUDES[@]}"; else git add -A; fi
     git commit -m "Auto-handoff: $1" -q || true
   fi
 
@@ -53,8 +88,43 @@ checkpoint() {  # $1 = commit label, $2 = why it fired
   } > resume-note.md
 
   git add resume-note.md
-  git commit -m "Add resume notes for checkpoint" -q || true
-  git push -u origin HEAD 2>/dev/null || true
+  git commit -m "Add resume notes for checkpoint" -q -- resume-note.md || true   # only the note, even if something else is staged
+  sync_and_push
+  if [ -n "$PROBLEMS" ]; then
+    { printf 'Checkpoint problems (%s). Commits already made stay local; nothing was forced.\n' "$(date -u +"%Y-%m-%dT%H:%M:%SZ")"; printf '%s' "$PROBLEMS"; } > "$PROBLEM_FILE"
+  else
+    rm -f "$PROBLEM_FILE"
+  fi
+}
+
+# Rebase onto the upstream first, so a bot or another machine pushing doesn't make the push fail.
+# Every failure (conflict, any other pull failure, a rejected push, a repo left mid-rebase) is
+# recorded with add_problem, the checkpoint commits stay local, and nothing is ever forced.
+sync_and_push() {
+  export GIT_TERMINAL_PROMPT=0
+  local gd out
+  gd=$(git rev-parse --git-dir 2>/dev/null) || return 0
+  # Someone is mid-rebase/merge by hand: leave the repo alone.
+  if [ -e "$gd/rebase-merge" ] || [ -e "$gd/rebase-apply" ] || [ -e "$gd/MERGE_HEAD" ]; then
+    add_problem "the repo is in the middle of a rebase or merge, so the checkpoint was not pulled or pushed. Finish or abort it, then push."
+    return 0
+  fi
+  if git rev-parse --abbrev-ref --symbolic-full-name '@{u}' >/dev/null 2>&1; then
+    if ! out=$(git pull --rebase --autostash -q 2>&1); then
+      if [ -e "$gd/rebase-merge" ] || [ -e "$gd/rebase-apply" ]; then
+        git rebase --abort >/dev/null 2>&1
+        add_problem "git pull --rebase hit a conflict and was aborted; checkpoint commits are not pushed. Run git pull --rebase yourself, resolve it, then push."
+      else
+        add_problem "git pull --rebase failed ($(printf '%s\n' "$out" | grep -v '^hint:' | tail -n 1)); checkpoint commits are not pushed. Offline? If it mentions the stash, check git stash list."
+      fi
+      return 0
+    fi
+  fi
+  if ! out=$(git push -u origin HEAD 2>&1); then
+    out=$(printf '%s\n' "$out" | grep -v '^hint:' | tail -n 1)
+    add_problem "git push failed (${out}); checkpoint commits are local only."
+  fi
+  return 0
 }
 
 # Prints billable tokens for the active block, or nothing if unavailable.
