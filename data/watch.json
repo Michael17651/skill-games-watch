@@ -13,6 +13,127 @@
   ],
   "entries": [
     {
+      "date": "2026-10-12",
+      "run": "priority",
+      "headline": "Pennsylvania's Supreme Court denied the last petition to delay Tuesday's skill games enforcement deadline in a one page order issued Friday, so the stay from the June ruling runs out as scheduled and state police and the attorney general say enforcement begins Wednesday, October 14, with the legislature still not having passed any tax or regulatory bill. The distributor of Pennsylvania Skill, the state's most common machine, told host locations it will power down units at its next collection round rather than commit to removing them, which the attorney general says will not satisfy the law. Oklahoma and Iowa stayed quiet, and the legislative feed's only change this week was a bill dropping out of the matched set that had already been dismissed here as off topic.",
+      "items": [
+        {
+          "state": "US",
+          "kind": "legislation",
+          "flag": "info",
+          "text": "The legislative feed refreshed on October 9, 2026 at 16:26 UTC, about nine hours after the prior scan reported here. Totals moved to 308 matching bills, 85 primary and 223 secondary, with no new and no changed records and one bill falling out of the matched set entirely. The feed does not name the dropped bill beyond its LegiScan id, 2147802, but that is almost certainly the Massachusetts fiscal year 2027 budget bill, House Bill 5501, flagged here last week as an off topic match on the phrase amusement device, since it was the only new record added in that run and it has now fallen below the relevance threshold. Nothing further to report from the feed this week.",
+          "sources": [
+            {
+              "title": "LegiScan",
+              "url": "https://legiscan.com/legiscan"
+            }
+          ]
+        },
+        {
+          "state": "PA",
+          "kind": "court",
+          "flag": "action",
+          "text": "The Pennsylvania Supreme Court denied the renewed King's Bench petition on Friday, October 9, 2026, in a one page order that gave no reasoning. The petition, from Sen. Anthony Williams, Sen. Gene Yaw and Rep. Jonathan Fritz, had asked the court to push the enforcement deadline from October 13 to February 10, 2027 so the legislature could finish a regulatory framework, and drew supporting briefs from Pace-O-Matic and from a coalition of roughly twenty social clubs, veterans posts, fraternal lodges and volunteer fire companies. The attorney general's office opposed the petition, with Chief Deputy Attorney General Susan Affronti arguing the lawmakers waited too long to file and lacked standing to seek the court's intervention, and that the legislature remains free to revisit the policy later. With the denial, the 120 day stay from the June 15 ruling runs out at the close of October 13 as scheduled, and state police and the attorney general say enforcement begins October 14.",
+          "sources": [
+            {
+              "title": "WJAC",
+              "url": "https://wjactv.com/news/local/pennsylvania-supreme-court-denies-emergency-request-to-extend-skill-games-deadline"
+            },
+            {
+              "title": "Philadelphia Inquirer",
+              "url": "https://www.inquirer.com/politics/pennsylvania/skill-games-pennsylvania-supreme-court-20261009.html"
+            }
+          ]
+        },
+        {
+          "state": "PA",
+          "kind": "enforcement",
+          "flag": "watch",
+          "text": "Miele Manufacturing, whose Miele Amusements and Pennsylvania Amusements divisions distribute Pennsylvania Skill, the most common machine in the state, told host locations on October 9 that units will be powered down at their next collection round. It did not say whether it will also remove the machines and did not respond to requests for comment on removal. Attorney General Dave Sunday repeated that powering off or unplugging a machine does not satisfy the law and urged hosts to press their vendors and distributors to remove the machines outright. The State Police have posted a dedicated web page for businesses and say enforcement starting October 14 can include seizing machines and proceeds, criminal charges under Section 5513 of the Crimes Code, a first degree misdemeanor carrying up to five years and 10,000 dollars per offense, asset forfeiture, and administrative citations against liquor licenses. The attorney general's office has put the installed base at roughly 70,000 machines statewide, well above the 40,000 to 45,000 figure Governor Shapiro cited last week.",
+          "sources": [
+            {
+              "title": "Casino.org, operator update",
+              "url": "https://casino.org/news/pennsylvania-skill-games-operator-updates-host-locations"
+            },
+            {
+              "title": "Casino.org, enforcement deadline",
+              "url": "https://casino.org/news/pennsylvania-skill-games-face-final-deadline"
+            },
+            {
+              "title": "City & State PA",
+              "url": "https://www.cityandstatepa.com/policy/2026/10/what-know-pennsylvanias-skill-games-deadline-takes-effect/416540/"
+            }
+          ]
+        },
+        {
+          "state": "PA",
+          "kind": "legislation",
+          "flag": "watch",
+          "text": "No tax or extension bill has passed either chamber. The General Assembly does not return until Monday, October 19, six days after enforcement begins, for a short session before recessing again ahead of the November election. Governor Josh Shapiro, debating Republican gubernatorial nominee and state Treasurer Stacy Garrity on October 7, again called on lawmakers to send him a bill; Garrity said she backs a flat 500 dollar per machine monthly fee, the figure behind Senate Bill 1079 and House Bill 2213. None of the pending proposals, including Shapiro's 52 percent rate, the Senate Republican 35 percent rate, Rep. Russ Diamond's 20 percent two bill package, Sen. Yaw's 16 percent rate, the flat fee bills, or the Roae and Guzman extension bills, has advanced out of committee.",
+          "sources": [
+            {
+              "title": "City & State PA",
+              "url": "https://www.cityandstatepa.com/policy/2026/10/what-know-pennsylvanias-skill-games-deadline-takes-effect/416540/"
+            },
+            {
+              "title": "CDC Gaming, Shapiro-Garrity debate",
+              "url": "https://cdcgaming.com/brief/pennsylvania-governor-opponent-debate-skill-games-as-zero-hour-for-the-industry-closes-in/"
+            }
+          ]
+        },
+        {
+          "state": "OK",
+          "bill": "SB 1589",
+          "kind": "enforcement",
+          "flag": "watch",
+          "text": "No new enforcement guidance from Attorney General Gentner Drummond's office or state gaming authorities, no legal challenge to SB 1589 and no additional operator exit beyond the Pulsz Gold Coin only restriction already reported turned up in searches this week. Twenty days remain to the November 1 effective date.",
+          "sources": [
+            {
+              "title": "Legal Sports Report, Oklahoma",
+              "url": "https://www.legalsportsreport.com/online-casinos/oklahoma/"
+            }
+          ]
+        },
+        {
+          "state": "IA",
+          "bill": "SF 2289",
+          "kind": "regulator",
+          "flag": "watch",
+          "text": "Still no first cease and desist order against a dual currency sweepstakes operator has been published since the Racing and Gaming Commission's authority took effect July 1. Nothing new found this week.",
+          "sources": [
+            {
+              "title": "Iowa Racing and Gaming Commission",
+              "url": "https://irgc.iowa.gov/"
+            }
+          ]
+        },
+        {
+          "state": "US",
+          "kind": "tribal",
+          "flag": "info",
+          "text": "The Federal Register's Indian Affairs Bureau index still states it is current as of September 28, 2026, and the full list of its 2026 entries shows no gaming related notice past the Squaxin Island Tribe and Washington compact amendment already reported on September 29. Since the index's own currency statement has not advanced past that date in over two weeks, this should be read as not available rather than confirmed absent.",
+          "sources": [
+            {
+              "title": "Federal Register, Indian Affairs Bureau index",
+              "url": "https://www.federalregister.gov/index/2026/indian-affairs-bureau"
+            }
+          ]
+        },
+        {
+          "state": "US",
+          "kind": "industry",
+          "flag": "info",
+          "text": "Searches this week across the remaining priority states, Virginia, Missouri, Georgia, South Carolina, Texas, Ohio, Maryland, Mississippi, New York, New Jersey, California, Connecticut, Montana, Louisiana, Michigan, Washington, Illinois, North Carolina, Nevada and Wisconsin, and for Pace-O-Matic, Torch Electronics and Great Lakes Amusement by name, turned up nothing new beyond the items above. The North Carolina Supreme Court still has not ruled in No Limit Games v. Sheriff of Robeson County following the September 9 argument, and Florida's October 23 deadline for Google, Meta, Reddit, Snap and TikTok to confirm they have stopped running sweepstakes casino ads has not yet arrived.",
+          "sources": [
+            {
+              "title": "NC Supreme Court docket, No Limit Games v. Sheriff of Robeson County",
+              "url": "https://appellate.nccourts.org/dockets.php?court=1&docket=1-2025-0047-001&pdf=1&a=0&dev=1"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "date": "2026-10-09",
       "run": "priority",
       "headline": "Week in review: Pennsylvania's fight over the October 13 deadline moved to the Supreme Court itself this week, as four lawmakers petitioned directly for a stay extension to February 10, then withdrew and refiled that petition a day later without one of its original sponsors, while the House and Senate broke for the week without a vote on any tax plan. Pace-O-Matic and a fifty-signer letter led by Rep. Eric Davanzo asked the court on Thursday to delay enforcement anyway, telling the justices that none of six competing bills has cleared committee. Oklahoma, Iowa and the other twenty-two priority states stayed quiet, and the legislative feed's only new record this week was an off-topic Massachusetts budget bill.",
