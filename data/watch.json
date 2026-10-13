@@ -13,6 +13,45 @@
   ],
   "entries": [
     {
+      "date": "2026-10-13",
+      "run": "secondary",
+      "headline": "Another quiet run across the nineteen lower-activity states. The legislative feed refreshed again, but its only new record is the same off-topic Massachusetts budget bill this page has already reported and dismissed twice, and no attorney general, enforcement, court or regulator activity turned up in Kentucky, Wyoming or the other seventeen states this run watches.",
+      "items": [
+        {
+          "state": "US",
+          "kind": "legislation",
+          "flag": "info",
+          "text": "The legislative feed refreshed again, generated at 19:13 UTC on October 12, 2026, a few hours after the scan reported in the priority run earlier that day. Totals moved to 309 matching bills, 85 primary and 224 secondary, with one new record and none changed. The new record is Massachusetts House Bill 5501, the fiscal year 2027 budget appropriations bill, which matches only on the phrase amusement device in passing. This is the same bill already reported as new on October 8 and as having fallen out of the matched set as of the October 9 scan reported on October 12; it is now back in. It has nothing to do with skill games or sweepstakes gaming and is not reported further here.",
+          "sources": [
+            {
+              "title": "LegiScan",
+              "url": "https://legiscan.com/legiscan"
+            },
+            {
+              "title": "LegiScan, MA HB 5501",
+              "url": "https://legiscan.com/MA/bill/H5501/2025"
+            }
+          ]
+        },
+        {
+          "state": "US",
+          "kind": "industry",
+          "flag": "info",
+          "text": "Searches covering the past seven days found no attorney general opinion, enforcement action, seizure, prosecution, cease and desist order, court ruling, tribal compact item or regulator notice in any of the nineteen lower-activity states: Alabama, Alaska, Arkansas, Colorado, Idaho, Indiana, Kansas, Kentucky, Maine, Nebraska, New Hampshire, New Mexico, North Dakota, Oregon, Rhode Island, South Dakota, Tennessee, Vermont and Wyoming. Searches on Kentucky's HB 594 litigation surfaced only the Court of Appeals ruling and the attorney general's opinion already reported on this page, with no revival or new challenge. A Wyoming bill draft restricting skill game licenses to truck stops, smoke shops and premises licensed for on site alcohol consumption turned up again in this search, but it still traces to the Select Committee on Gaming's 2025 session and the Management Council's approval that November, not a development of the past week, and no change to Wyoming's 20 percent tax rate, four machine per location limit, 3 dollar maximum wager, 3,000 dollar payout cap or lab certification requirements under W.S. 11-25-301 et seq. was found. No enforcement or rulemaking news from Indiana, Maine or Tennessee has appeared since their sweepstakes bans took effect, and no tribal compact activity specific to Idaho, Oregon or New Mexico turned up in this search. General searches for Pace-O-Matic, Torch Electronics and Great Lakes Amusement returned no relevant results. None of the nineteen states shows a first sign of new activity that would warrant moving it to the priority list.",
+          "sources": [
+            {
+              "title": "Wyoming Legislature, Management Council bill draft coverage",
+              "url": "https://county10.com/management-council-advances-bill-draft-aimed-at-removing-skill-games-from-grocery-stores-salazar-votes-yes/"
+            },
+            {
+              "title": "Kentucky Attorney General, opinion affirming",
+              "url": "https://www.ag.ky.gov/Press%20Release%20Attachments/2026-02-27%20Opinion%20Affirming.pdf"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "date": "2026-10-12",
       "run": "priority",
       "headline": "Pennsylvania's Supreme Court denied the last petition to delay Tuesday's skill games enforcement deadline in a one page order issued Friday, so the stay from the June ruling runs out as scheduled and state police and the attorney general say enforcement begins Wednesday, October 14, with the legislature still not having passed any tax or regulatory bill. The distributor of Pennsylvania Skill, the state's most common machine, told host locations it will power down units at its next collection round rather than commit to removing them, which the attorney general says will not satisfy the law. Oklahoma and Iowa stayed quiet, and the legislative feed's only change this week was a bill dropping out of the matched set that had already been dismissed here as off topic.",
