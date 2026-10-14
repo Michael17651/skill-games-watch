@@ -1,5 +1,5 @@
 {
-  "generated_utc": "2026-10-13T17:04:03+00:00",
+  "generated_utc": "2026-10-14T14:36:45+00:00",
   "count": 309,
   "bills": [
     {
@@ -4018,7 +4018,7 @@
       "url": "https://legiscan.com/MD/bill/HB1226/2026",
       "bill_id": "2113838",
       "change_hash": "4a0e1211f4fe71af0d5eb1bbefa6932d",
-      "relevance": 95,
+      "relevance": 94,
       "matched": [
         "\"dual currency\"",
         "\"sweepstakes\""
