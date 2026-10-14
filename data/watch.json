@@ -13,6 +13,123 @@
   ],
   "entries": [
     {
+      "date": "2026-10-14",
+      "run": "priority",
+      "headline": "Pennsylvania's enforcement deadline arrived as scheduled at the close of Tuesday, October 13, after the legislature never got a tax or extension bill through either chamber, a failure reporting attributes in part to the state constitution's three day rule, which requires a bill to sit on three separate days in each chamber with no emergency exception and left no time to act once the Supreme Court denied the last extension petition on October 9. State Police guidance now treats skill game machines outside licensed casinos as unlawful and subject to immediate seizure, and Attorney General Dave Sunday says his office will act in accordance with the law even though it would rather see voluntary compliance than raids on storefronts and clubs. Michigan's gaming board sent cease and desist letters to 33 offshore gambling platforms, and Modo and Stake.us joined Pulsz in curtailing Oklahoma access ahead of its November 1 sweepstakes ban. Iowa and the rest of the priority states stayed quiet, and the legislative feed, current again after yesterday's refresh, carried no new or changed record.",
+      "items": [
+        {
+          "state": "US",
+          "kind": "legislation",
+          "flag": "info",
+          "text": "The legislative feed refreshed again, generated at 17:04 UTC on October 13, 2026, confirming the scan already reported from the October 12 run. Totals held at 309 matching bills, 85 primary and 224 secondary, with zero new and zero changed records. Nothing to report from any state through the feed this week.",
+          "sources": [
+            {
+              "title": "LegiScan",
+              "url": "https://legiscan.com/legiscan"
+            }
+          ]
+        },
+        {
+          "state": "PA",
+          "kind": "enforcement",
+          "flag": "action",
+          "text": "The Pennsylvania Supreme Court's 120 day stay on its June 15 ruling that skill games are slot machines expired at the close of October 13, 2026. State Police guidance says machines outside Pennsylvania Gaming Control Board licensed locations are now unlawful and subject to immediate seizure, criminal prosecution under Section 5513 of the Crimes Code, asset forfeiture and liquor license citations, with no grace period beyond October 14. No tax or extension bill passed either chamber before the deadline. Reporting attributes this in part to the state constitution's three day rule, which requires a bill to be considered on three separate days in each chamber with no emergency exception, leaving no time to act after the court denied the final extension petition on October 9. The General Assembly does not return until October 19, five days into enforcement.",
+          "sources": [
+            {
+              "title": "Yogonet",
+              "url": "https://www.yogonet.com/international/news/2026/10/13/126813-pennsylvania-police-to-begin-skill-game-seizures-wednesday-after-lawmakers-miss-deadline"
+            },
+            {
+              "title": "Casino.org, D-Day looms",
+              "url": "https://www.casino.org/news/pennsylvania-skill-game-d-day-looms-legislative-fix-fails/"
+            },
+            {
+              "title": "Best in Slot",
+              "url": "https://www.bestinslot.co/news/pennsylvania-skill-game-deadline-legislative-fix-fails-40328"
+            }
+          ]
+        },
+        {
+          "state": "PA",
+          "kind": "enforcement",
+          "flag": "watch",
+          "text": "Attorney General Dave Sunday said his office does not want to see searches and seizures at storefronts, bars, social clubs and restaurants but will act in accordance with the law. His office and State Police put the installed base at roughly 70,000 machines across four to six brands, with Pace-O-Matic's Pennsylvania Skill brand accounting for about 20,000 of them. Pace-O-Matic said communities across the state are now facing the consequences of the impasse and does not expect legislative action before the November election. Some locations, including a Dauphin County VFW post and other clubs and bars, have already removed their machines voluntarily; distributor Miele Manufacturing told host locations last week it would power down units at its next collection round, which the attorney general's office has said does not by itself satisfy the law.",
+          "sources": [
+            {
+              "title": "Insidebitcoins",
+              "url": "https://insidebitcoins.com/news/pennsylvania-skill-games-oct-14-deadline"
+            },
+            {
+              "title": "Yogonet",
+              "url": "https://www.yogonet.com/international/news/2026/10/13/126813-pennsylvania-police-to-begin-skill-game-seizures-wednesday-after-lawmakers-miss-deadline"
+            }
+          ]
+        },
+        {
+          "state": "OK",
+          "bill": "SB 1589",
+          "kind": "industry",
+          "flag": "watch",
+          "text": "Two more sweepstakes platforms moved to restrict Oklahoma ahead of the November 1 effective date, beyond the Pulsz Gold Coin only restriction already reported. Modo told players by email that Oklahoma purchases of Gold Coin packages with promotional Sweeps Coin stopped October 1, with Sweeps Coin play and redemption continuing only through October 31 and Gold Coin only play surviving afterward. Stake.us told an Oklahoma player it will no longer be available to Oklahoma players starting October 30, though redemption of existing balances appeared to remain open for now. No new enforcement guidance from Attorney General Gentner Drummond's office or state gaming authorities and no legal challenge to the statute were found this week.",
+          "sources": [
+            {
+              "title": "Sweeps Kings, Modo and Stake.us Oklahoma restrictions",
+              "url": "https://sweepskings.com/news/modo-stake-upcoming-oklahoma-restrictions/"
+            }
+          ]
+        },
+        {
+          "state": "IA",
+          "bill": "SF 2289",
+          "kind": "regulator",
+          "flag": "watch",
+          "text": "Still no first cease and desist order against a dual currency sweepstakes operator has been published since the Racing and Gaming Commission's authority took effect July 1. Nothing new found this week.",
+          "sources": [
+            {
+              "title": "Iowa Racing and Gaming Commission",
+              "url": "https://irgc.iowa.gov/"
+            }
+          ]
+        },
+        {
+          "state": "MI",
+          "kind": "enforcement",
+          "flag": "watch",
+          "text": "The Michigan Gaming Control Board issued cease and desist letters to 33 offshore gambling operators on October 8, 2026, after investigations found they offered casino style, sweepstakes style or sports betting products to Michigan residents without a state license under the Lawful Internet Gaming Act and the Lawful Sports Betting Act. Named platforms include Sloto'Cash, Exclusive Casino, BitofGold, Lucky Charm Sweep and Regal Casino and Sportsbook, among 33 total. Executive Director Henry Williams said offshore sites do not honor Michigan's self exclusion list and that the letters put operators on notice that residents are not an untapped market; the board says further enforcement with the state attorney general is possible against operators that ignore the letters. This follows 45 similar letters the board announced in April 2026.",
+          "sources": [
+            {
+              "title": "Michigan Gaming Control Board",
+              "url": "https://www.michigan.gov/mgcb/news/2026/10/08/mgcb-issues-33-cease-and-desist-letters"
+            }
+          ]
+        },
+        {
+          "state": "US",
+          "kind": "tribal",
+          "flag": "info",
+          "text": "No Indian Gaming compact notice newer than the Squaxin Island Tribe and Washington amendment already reported on September 29 was found in the Federal Register this week.",
+          "sources": [
+            {
+              "title": "Federal Register, Indian Affairs Bureau index",
+              "url": "https://www.federalregister.gov/index/2026/indian-affairs-bureau"
+            }
+          ]
+        },
+        {
+          "state": "US",
+          "kind": "industry",
+          "flag": "info",
+          "text": "Searches this week across the remaining priority states, Virginia, Missouri, Georgia, South Carolina, Texas, Ohio, Florida, Maryland, Mississippi, New York, New Jersey, California, Connecticut, Montana, Louisiana, Washington, Illinois, North Carolina, Nevada and Wisconsin, and for Pace-O-Matic, Torch Electronics and Great Lakes Amusement by name, turned up nothing new beyond the items above. The North Carolina Supreme Court still has not ruled in No Limit Games v. Sheriff of Robeson County following the September 9 argument, and Florida's October 23 deadline for Google, Meta, Reddit, Snap and TikTok to confirm they have stopped running sweepstakes casino ads has not yet arrived.",
+          "sources": [
+            {
+              "title": "NC Supreme Court docket, No Limit Games v. Sheriff of Robeson County",
+              "url": "https://appellate.nccourts.org/dockets.php?court=1&docket=1-2025-0047-001&pdf=1&a=0&dev=1"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "date": "2026-10-13",
       "run": "secondary",
       "headline": "Another quiet run across the nineteen lower-activity states. The legislative feed refreshed again, but its only new record is the same off-topic Massachusetts budget bill this page has already reported and dismissed twice, and no attorney general, enforcement, court or regulator activity turned up in Kentucky, Wyoming or the other seventeen states this run watches.",
