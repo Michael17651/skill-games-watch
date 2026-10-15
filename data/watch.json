@@ -13,6 +13,41 @@
   ],
   "entries": [
     {
+      "date": "2026-10-15",
+      "run": "secondary",
+      "headline": "Another quiet run across the nineteen lower-activity states. The legislative feed refreshed again with zero new or changed records, and no attorney general, enforcement, court, regulator or tribal compact activity turned up in Kentucky, Wyoming or the other seventeen states this run watches.",
+      "items": [
+        {
+          "state": "US",
+          "kind": "legislation",
+          "flag": "info",
+          "text": "The legislative feed refreshed again, generated at 14:36 UTC on October 14, 2026, about twenty two hours after the scan reported in the priority run the day before. Totals held at 309 matching bills, 85 primary and 224 secondary, with zero new and zero changed records. Nothing to report from any state through the feed this week.",
+          "sources": [
+            {
+              "title": "LegiScan",
+              "url": "https://legiscan.com/legiscan"
+            }
+          ]
+        },
+        {
+          "state": "US",
+          "kind": "industry",
+          "flag": "info",
+          "text": "Searches covering the past seven days found no attorney general opinion, enforcement action, seizure, prosecution, cease and desist order, court ruling, tribal compact item or regulator notice in any of the nineteen lower-activity states: Alabama, Alaska, Arkansas, Colorado, Idaho, Indiana, Kansas, Kentucky, Maine, Nebraska, New Hampshire, New Mexico, North Dakota, Oregon, Rhode Island, South Dakota, Tennessee, Vermont and Wyoming. Searches on Kentucky's HB 594 litigation surfaced only coverage already reported on this page, with no revival or new challenge. No change to Wyoming's 20 percent tax rate, four machine per location limit, 3 dollar maximum wager, 3,000 dollar payout cap or lab certification requirements under W.S. 11-25-301 et seq. was found. No enforcement or rulemaking news from Indiana, Maine or Tennessee has appeared since their sweepstakes bans took effect, and no tribal compact activity specific to Idaho, Oregon or New Mexico turned up in this search. General searches for Pace-O-Matic, Torch Electronics and Great Lakes Amusement by name returned only older or unrelated results. None of the nineteen states shows a first sign of new activity that would warrant moving it to the priority list.",
+          "sources": [
+            {
+              "title": "Kentucky Attorney General, opinion affirming",
+              "url": "https://www.ag.ky.gov/Press%20Release%20Attachments/2026-02-27%20Opinion%20Affirming.pdf"
+            },
+            {
+              "title": "Wyoming Gaming Commission, Skill Based Amusement Games",
+              "url": "https://gaming.wyo.gov/sbag"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "date": "2026-10-14",
       "run": "priority",
       "headline": "Pennsylvania's enforcement deadline arrived as scheduled at the close of Tuesday, October 13, after the legislature never got a tax or extension bill through either chamber, a failure reporting attributes in part to the state constitution's three day rule, which requires a bill to sit on three separate days in each chamber with no emergency exception and left no time to act once the Supreme Court denied the last extension petition on October 9. State Police guidance now treats skill game machines outside licensed casinos as unlawful and subject to immediate seizure, and Attorney General Dave Sunday says his office will act in accordance with the law even though it would rather see voluntary compliance than raids on storefronts and clubs. Michigan's gaming board sent cease and desist letters to 33 offshore gambling platforms, and Modo and Stake.us joined Pulsz in curtailing Oklahoma access ahead of its November 1 sweepstakes ban. Iowa and the rest of the priority states stayed quiet, and the legislative feed, current again after yesterday's refresh, carried no new or changed record.",
