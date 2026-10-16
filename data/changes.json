@@ -1,5 +1,5 @@
 {
-  "generated_utc": "2026-10-15T14:18:12+00:00",
+  "generated_utc": "2026-10-16T14:07:47+00:00",
   "first_run": false,
   "keywords": [
     "\"skill game\"",
@@ -17,18 +17,42 @@
   "min_relevance": 40,
   "detail_cap_hit": false,
   "totals": {
-    "matching": 309,
+    "matching": 308,
     "primary": 85,
-    "secondary": 224,
+    "secondary": 223,
     "new": 0,
     "new_primary": 0,
-    "changed": 0,
+    "changed": 1,
     "changed_primary": 0,
-    "no_longer_matching": 0
+    "no_longer_matching": 1
   },
   "new": [],
-  "changed": [],
-  "no_longer_matching": [],
+  "changed": [
+    {
+      "state": "NJ",
+      "bill_number": "S4404",
+      "title": "Makes various revisions to the laws governing alcoholic beverage licensing.",
+      "description": "Makes various revisions to the laws governing alcoholic beverage licensing.",
+      "status": 4,
+      "status_date": "2026-07-22",
+      "last_action": "Approved P.L.2026, c.46.",
+      "last_action_date": "2026-07-22",
+      "url": "https://legiscan.com/NJ/bill/S4404/2026",
+      "state_link": "https://www.njleg.state.nj.us/bill-search/2026/S4404",
+      "session": "2026-2027 Regular Session",
+      "bill_id": "2152481",
+      "change_hash": "cabf8d8e9042b2a6d12533b94a4dd992",
+      "relevance": 80,
+      "matched": [
+        "\"games of skill\""
+      ],
+      "tier": "secondary",
+      "subject_terms": []
+    }
+  ],
+  "no_longer_matching": [
+    "2147802"
+  ],
   "errors": [],
   "attribution": "LegiScan API by LegiScan LLC, licensed under CC BY 4.0"
 }

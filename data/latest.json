@@ -1,6 +1,6 @@
 {
-  "generated_utc": "2026-10-15T14:18:12+00:00",
-  "count": 309,
+  "generated_utc": "2026-10-16T14:07:47+00:00",
+  "count": 308,
   "bills": [
     {
       "bill_number": "AB831",
@@ -3126,7 +3126,7 @@
       "url": "https://legiscan.com/IL/bill/HB2949/2025",
       "bill_id": "1958330",
       "change_hash": "12382d8b8e66f35cd90be7607257b43e",
-      "relevance": 54,
+      "relevance": 53,
       "matched": [
         "\"video gaming terminal\""
       ],
@@ -3871,28 +3871,7 @@
       "url": "https://legiscan.com/MA/bill/H5500/2025",
       "bill_id": "2143341",
       "change_hash": "f20fd73b107ef511d2c1a0166032eae3",
-      "relevance": 44,
-      "matched": [
-        "\"amusement device\""
-      ],
-      "tier": "secondary",
-      "subject_terms": []
-    },
-    {
-      "bill_number": "H5501",
-      "description": "Making appropriations for the fiscal year 2027 for the maintenance of the departments, boards, commissions, institutions, and certain activities of the commonwealth, for interest, sinking fund, and serial bond requirements, and for certain permanent improvements",
-      "last_action": "Reported, in part, by H5555",
-      "last_action_date": "2026-07-01",
-      "session": "194th General Court",
-      "state": "MA",
-      "state_link": "https://malegislature.gov/Bills/194/H5501",
-      "status": 2,
-      "status_date": "2026-04-29",
-      "title": "Making appropriations for the fiscal year 2027 for the maintenance of the departments, boards, commissions, institutions, and certain activities of the commonwealth, for interest, sinking fund, and serial bond requirements, and for certain permanent improvements",
-      "url": "https://legiscan.com/MA/bill/H5501/2025",
-      "bill_id": "2147802",
-      "change_hash": "914fbe7adcbc2413ed69485fee5acf54",
-      "relevance": 40,
+      "relevance": 43,
       "matched": [
         "\"amusement device\""
       ],
@@ -5355,20 +5334,20 @@
       "subject_terms": []
     },
     {
-      "bill_number": "S4404",
-      "description": "Makes various revisions to the laws governing alcoholic beverage licensing.",
-      "last_action": "Approved P.L.2026, c.46.",
-      "last_action_date": "2026-07-22",
-      "session": "2026-2027 Regular Session",
       "state": "NJ",
-      "state_link": "https://www.njleg.state.nj.us/bill-search/2026/S4404",
+      "bill_number": "S4404",
+      "title": "Makes various revisions to the laws governing alcoholic beverage licensing.",
+      "description": "Makes various revisions to the laws governing alcoholic beverage licensing.",
       "status": 4,
       "status_date": "2026-07-22",
-      "title": "Makes various revisions to the laws governing alcoholic beverage licensing.",
+      "last_action": "Approved P.L.2026, c.46.",
+      "last_action_date": "2026-07-22",
       "url": "https://legiscan.com/NJ/bill/S4404/2026",
+      "state_link": "https://www.njleg.state.nj.us/bill-search/2026/S4404",
+      "session": "2026-2027 Regular Session",
       "bill_id": "2152481",
-      "change_hash": "4615164df887be09f484c68d4d3d53bc",
-      "relevance": 78,
+      "change_hash": "cabf8d8e9042b2a6d12533b94a4dd992",
+      "relevance": 80,
       "matched": [
         "\"games of skill\""
       ],
