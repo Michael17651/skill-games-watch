@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 # Fires on PreToolUse (every tool call) and on Stop. Reads live token usage
 # for the current ccusage 5h billing block and checkpoints (commit + write
-# resume-note.md + commit + pull --rebase + push) once both of these hold since the last
+# resume-note.md + commit + pull --rebase=merges + push) once both of these hold since the last
 # checkpoint:
 #   1. billable tokens (totalTokens minus cache-read tokens) have crossed a
 #      new CHECKPOINT_INCREMENT-token step, and
@@ -110,12 +110,12 @@ sync_and_push() {
     return 0
   fi
   if git rev-parse --abbrev-ref --symbolic-full-name '@{u}' >/dev/null 2>&1; then
-    if ! out=$(git pull --rebase --autostash -q 2>&1); then
+    if ! out=$(git pull --rebase=merges --autostash -q 2>&1); then
       if [ -e "$gd/rebase-merge" ] || [ -e "$gd/rebase-apply" ]; then
         git rebase --abort >/dev/null 2>&1
-        add_problem "git pull --rebase hit a conflict and was aborted; checkpoint commits are not pushed. Run git pull --rebase yourself, resolve it, then push."
+        add_problem "git pull --rebase=merges hit a conflict and was aborted; checkpoint commits are not pushed. Run git pull --rebase=merges yourself, resolve it, then push."
       else
-        add_problem "git pull --rebase failed ($(printf '%s\n' "$out" | grep -v '^hint:' | tail -n 1)); checkpoint commits are not pushed. Offline? If it mentions the stash, check git stash list."
+        add_problem "git pull --rebase=merges failed ($(printf '%s\n' "$out" | grep -v '^hint:' | tail -n 1)); checkpoint commits are not pushed. Offline? If it mentions the stash, check git stash list."
       fi
       return 0
     fi
