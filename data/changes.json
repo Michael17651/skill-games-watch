@@ -1,5 +1,5 @@
 {
-  "generated_utc": "2026-10-16T14:07:47+00:00",
+  "generated_utc": "2026-10-19T16:35:51+00:00",
   "first_run": false,
   "keywords": [
     "\"skill game\"",
@@ -17,42 +17,136 @@
   "min_relevance": 40,
   "detail_cap_hit": false,
   "totals": {
-    "matching": 308,
-    "primary": 85,
-    "secondary": 223,
-    "new": 0,
-    "new_primary": 0,
-    "changed": 1,
+    "matching": 313,
+    "primary": 86,
+    "secondary": 227,
+    "new": 5,
+    "new_primary": 1,
+    "changed": 0,
     "changed_primary": 0,
-    "no_longer_matching": 1
+    "no_longer_matching": 0
   },
-  "new": [],
-  "changed": [
+  "new": [
     {
-      "state": "NJ",
-      "bill_number": "S4404",
-      "title": "Makes various revisions to the laws governing alcoholic beverage licensing.",
-      "description": "Makes various revisions to the laws governing alcoholic beverage licensing.",
-      "status": 4,
-      "status_date": "2026-07-22",
-      "last_action": "Approved P.L.2026, c.46.",
-      "last_action_date": "2026-07-22",
-      "url": "https://legiscan.com/NJ/bill/S4404/2026",
-      "state_link": "https://www.njleg.state.nj.us/bill-search/2026/S4404",
-      "session": "2026-2027 Regular Session",
-      "bill_id": "2152481",
-      "change_hash": "cabf8d8e9042b2a6d12533b94a4dd992",
-      "relevance": 80,
+      "state": "VA",
+      "bill_number": "SB579",
+      "title": "Illegal gambling; online sweepstakes games, civil penalty.",
+      "description": "Illegal gambling; online sweepstakes games; civil penalty. Includes the (i) operating, conducting, or promoting of any online sweepstakes games and (ii) supporting or assisting in the operating, conducting, or promoting of any online sweepstakes game in the definition of \"illegal gambling.\" The bill defines an \"online sweepstakes game\" as any game, contest, or promotion in which a prize is awarded based on chance that (a) is available on the internet and accessible on a mobile phone, computer, or similar device; (b) utilizes a dual currency system of payment allowing the player to exchange the currency for any prize, award, cash, or cash equivalent; and (c) simulates casino-style gaming, including slot machines, video poker, table games, lottery games, and sports betting. Persons who operate, conduct, or promote online sweepstakes games or take any action to support or assist in the operation, conduct, or promotion of online sweepstakes games shall be subject to a civil penalty of not less than $10,000 and not more than $100,000 per violation. The bill contains technical amendments.",
+      "status": 1,
+      "status_date": "2026-01-14",
+      "last_action": "Continued from last session",
+      "last_action_date": "2026-07-21",
+      "url": "https://legiscan.com/VA/bill/SB579/2027",
+      "state_link": "https://lis.virginia.gov/bill-details/20271/SB579",
+      "session": "2027 Regular Session",
+      "bill_id": "2160888",
+      "change_hash": "dba5b3c7c91ae15d3244aa1b48cc1406",
+      "relevance": 99,
       "matched": [
-        "\"games of skill\""
+        "\"amusement device\"",
+        "\"dual currency\"",
+        "\"skill game\"",
+        "\"skill games\"",
+        "\"sweepstakes\""
+      ],
+      "tier": "primary",
+      "subject_terms": [
+        "sweepstakes",
+        "dual currency",
+        "slot machine"
+      ]
+    },
+    {
+      "state": "MA",
+      "bill_number": "H5501",
+      "title": "Making appropriations for the fiscal year 2027 for the maintenance of the departments, boards, commissions, institutions, and certain activities of the commonwealth, for interest, sinking fund, and serial bond requirements, and for certain permanent improvements",
+      "description": "Making appropriations for the fiscal year 2027 for the maintenance of the departments, boards, commissions, institutions, and certain activities of the commonwealth, for interest, sinking fund, and serial bond requirements, and for certain permanent improvements",
+      "status": 2,
+      "status_date": "2026-04-29",
+      "last_action": "Reported, in part, by H5555",
+      "last_action_date": "2026-07-01",
+      "url": "https://legiscan.com/MA/bill/H5501/2025",
+      "state_link": "https://malegislature.gov/Bills/194/H5501",
+      "session": "194th General Court",
+      "bill_id": "2147802",
+      "change_hash": "914fbe7adcbc2413ed69485fee5acf54",
+      "relevance": 40,
+      "matched": [
+        "\"amusement device\""
+      ],
+      "tier": "secondary",
+      "subject_terms": []
+    },
+    {
+      "state": "OH",
+      "bill_number": "SB479",
+      "title": "Specify that betting on elections constitutes prohibited gambling",
+      "description": "To amend section 2915.01 of the Revised Code to specify that betting on elections constitutes prohibited gambling.",
+      "status": 1,
+      "status_date": "2026-10-13",
+      "last_action": "Introduced",
+      "last_action_date": "2026-10-13",
+      "url": "https://legiscan.com/OH/bill/SB479/2025",
+      "state_link": "https://www.legislature.ohio.gov/legislation/136/sb479",
+      "session": "136th General Assembly",
+      "bill_id": "2160318",
+      "change_hash": "7b4a3314f9f836e82caca753e2ffb92d",
+      "relevance": 99,
+      "matched": [
+        "\"amusement machine\"",
+        "\"sweepstakes\""
+      ],
+      "tier": "secondary",
+      "subject_terms": []
+    },
+    {
+      "state": "VA",
+      "bill_number": "HB271",
+      "title": "Gaming Commission; established, penalties, report.",
+      "description": "Virginia Gaming Commission established; penalties. Establishes the Virginia Gaming Commission as an independent agency of the Commonwealth, exclusive of the legislative, executive, or judicial branches of government, to oversee and regulate all forms of legal gambling in the Commonwealth except for the state lottery. The bill sets eligibility requirements for the appointment of a Commissioner and Virginia Gaming Commission Board members, provides powers and duties of such Commissioner and Board members, and provides for the transfer of current employees of relevant state agencies to the Commission. The bill contains numerous technical amendments.",
+      "status": 2,
+      "status_date": "2026-02-16",
+      "last_action": "Continued from last session",
+      "last_action_date": "2026-07-21",
+      "url": "https://legiscan.com/VA/bill/HB271/2027",
+      "state_link": "https://lis.virginia.gov/bill-details/20271/HB271",
+      "session": "2027 Regular Session",
+      "bill_id": "2160841",
+      "change_hash": "63cae46038f7e4288fcd6140013cf1c6",
+      "relevance": 97,
+      "matched": [
+        "\"amusement device\"",
+        "\"electronic gaming device\"",
+        "\"skill game\"",
+        "\"skill games\""
+      ],
+      "tier": "secondary",
+      "subject_terms": []
+    },
+    {
+      "state": "VA",
+      "bill_number": "SB604",
+      "title": "Charitable gaming; common interest communities, bingo.",
+      "description": "Charitable gaming; common interest communities; bingo. Allows common interest communities that qualify for deductions pursuant to \u00c2\u00a7 277 of the Internal Revenue Code and that are solely available to residents age 55 or older to become qualified organizations, subject to certain registration requirements, for the purposes of conducting bingo in accordance with the rules and regulations of the Department of Agriculture and Consumer Services.",
+      "status": 1,
+      "status_date": "2026-01-14",
+      "last_action": "Continued from last session",
+      "last_action_date": "2026-07-21",
+      "url": "https://legiscan.com/VA/bill/SB604/2027",
+      "state_link": "https://lis.virginia.gov/bill-details/20271/SB604",
+      "session": "2027 Regular Session",
+      "bill_id": "2160656",
+      "change_hash": "28094949f398b5cf3fafc161d8e7a023",
+      "relevance": 96,
+      "matched": [
+        "\"electronic gaming device\""
       ],
       "tier": "secondary",
       "subject_terms": []
     }
   ],
-  "no_longer_matching": [
-    "2147802"
-  ],
+  "changed": [],
+  "no_longer_matching": [],
   "errors": [],
   "attribution": "LegiScan API by LegiScan LLC, licensed under CC BY 4.0"
 }

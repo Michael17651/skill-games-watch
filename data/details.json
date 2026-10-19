@@ -3782,6 +3782,19 @@
     "title": "Enacts the \"no gambling ads for kids act\" under which certain covered platforms and social media platforms are prohibited from advertising a service permitting gaming-related gambling, predictive market wagering, online sweepstakes gaming, sports-related gambling, and/or traditional online gambling to minors.",
     "url": "https://legiscan.com/NY/bill/S10092/2025"
   },
+  "2147802": {
+    "bill_number": "H5501",
+    "description": "Making appropriations for the fiscal year 2027 for the maintenance of the departments, boards, commissions, institutions, and certain activities of the commonwealth, for interest, sinking fund, and serial bond requirements, and for certain permanent improvements",
+    "last_action": "Reported, in part, by H5555",
+    "last_action_date": "2026-07-01",
+    "session": "194th General Court",
+    "state": "MA",
+    "state_link": "https://malegislature.gov/Bills/194/H5501",
+    "status": 2,
+    "status_date": "2026-04-29",
+    "title": "Making appropriations for the fiscal year 2027 for the maintenance of the departments, boards, commissions, institutions, and certain activities of the commonwealth, for interest, sinking fund, and serial bond requirements, and for certain permanent improvements",
+    "url": "https://legiscan.com/MA/bill/H5501/2025"
+  },
   "2148107": {
     "bill_number": "S4",
     "description": "Site Information & Links",
@@ -4002,5 +4015,57 @@
     "status_date": "2026-09-24",
     "title": "Providing for temporary authorization of skill games.",
     "url": "https://legiscan.com/PA/bill/HB2795/2025"
+  },
+  "2160318": {
+    "bill_number": "SB479",
+    "description": "To amend section 2915.01 of the Revised Code to specify that betting on elections constitutes prohibited gambling.",
+    "last_action": "Introduced",
+    "last_action_date": "2026-10-13",
+    "session": "136th General Assembly",
+    "state": "OH",
+    "state_link": "https://www.legislature.ohio.gov/legislation/136/sb479",
+    "status": 1,
+    "status_date": "2026-10-13",
+    "title": "Specify that betting on elections constitutes prohibited gambling",
+    "url": "https://legiscan.com/OH/bill/SB479/2025"
+  },
+  "2160656": {
+    "bill_number": "SB604",
+    "description": "Charitable gaming; common interest communities; bingo. Allows common interest communities that qualify for deductions pursuant to \u00c2\u00a7 277 of the Internal Revenue Code and that are solely available to residents age 55 or older to become qualified organizations, subject to certain registration requirements, for the purposes of conducting bingo in accordance with the rules and regulations of the Department of Agriculture and Consumer Services.",
+    "last_action": "Continued from last session",
+    "last_action_date": "2026-07-21",
+    "session": "2027 Regular Session",
+    "state": "VA",
+    "state_link": "https://lis.virginia.gov/bill-details/20271/SB604",
+    "status": 1,
+    "status_date": "2026-01-14",
+    "title": "Charitable gaming; common interest communities, bingo.",
+    "url": "https://legiscan.com/VA/bill/SB604/2027"
+  },
+  "2160841": {
+    "bill_number": "HB271",
+    "description": "Virginia Gaming Commission established; penalties. Establishes the Virginia Gaming Commission as an independent agency of the Commonwealth, exclusive of the legislative, executive, or judicial branches of government, to oversee and regulate all forms of legal gambling in the Commonwealth except for the state lottery. The bill sets eligibility requirements for the appointment of a Commissioner and Virginia Gaming Commission Board members, provides powers and duties of such Commissioner and Board members, and provides for the transfer of current employees of relevant state agencies to the Commission. The bill contains numerous technical amendments.",
+    "last_action": "Continued from last session",
+    "last_action_date": "2026-07-21",
+    "session": "2027 Regular Session",
+    "state": "VA",
+    "state_link": "https://lis.virginia.gov/bill-details/20271/HB271",
+    "status": 2,
+    "status_date": "2026-02-16",
+    "title": "Gaming Commission; established, penalties, report.",
+    "url": "https://legiscan.com/VA/bill/HB271/2027"
+  },
+  "2160888": {
+    "bill_number": "SB579",
+    "description": "Illegal gambling; online sweepstakes games; civil penalty. Includes the (i) operating, conducting, or promoting of any online sweepstakes games and (ii) supporting or assisting in the operating, conducting, or promoting of any online sweepstakes game in the definition of \"illegal gambling.\" The bill defines an \"online sweepstakes game\" as any game, contest, or promotion in which a prize is awarded based on chance that (a) is available on the internet and accessible on a mobile phone, computer, or similar device; (b) utilizes a dual currency system of payment allowing the player to exchange the currency for any prize, award, cash, or cash equivalent; and (c) simulates casino-style gaming, including slot machines, video poker, table games, lottery games, and sports betting. Persons who operate, conduct, or promote online sweepstakes games or take any action to support or assist in the operation, conduct, or promotion of online sweepstakes games shall be subject to a civil penalty of not less than $10,000 and not more than $100,000 per violation. The bill contains technical amendments.",
+    "last_action": "Continued from last session",
+    "last_action_date": "2026-07-21",
+    "session": "2027 Regular Session",
+    "state": "VA",
+    "state_link": "https://lis.virginia.gov/bill-details/20271/SB579",
+    "status": 1,
+    "status_date": "2026-01-14",
+    "title": "Illegal gambling; online sweepstakes games, civil penalty.",
+    "url": "https://legiscan.com/VA/bill/SB579/2027"
   }
 }
