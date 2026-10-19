@@ -13,6 +13,131 @@
   ],
   "entries": [
     {
+      "date": "2026-10-19",
+      "run": "priority",
+      "headline": "Pennsylvania's General Assembly returned today with the state's skill game enforcement five days old and an estimated 70,000 machines unplugged statewide, though no official count of machines actually removed or seized has been published and the current legislative session has only days left to run before the November election recess. Oklahoma's November 1 sweepstakes ban pushed two more platforms out of the state, Baba Casino and ACE Casino, joining Pulsz, Modo and Stake.us. Iowa, the federal tribal compact register, Michigan and the rest of the priority and lower-activity states stayed quiet, and the legislative feed's only change this week was an off-topic New Jersey liquor-licensing bill.",
+      "items": [
+        {
+          "state": "US",
+          "kind": "legislation",
+          "flag": "info",
+          "text": "The legislative feed refreshed, generated at 14:07 UTC on October 16, 2026, the first scan not yet reported on this page. Totals moved to 308 matching bills, 85 primary and 223 secondary, with zero new records, one changed record and one bill dropping out of the matched set. The changed record is New Jersey Senate Bill S4404, a wide-ranging revision of alcoholic beverage licensing law that was approved back on July 22, 2026 and matches only on the incidental phrase games of skill; it has nothing to do with skill game or sweepstakes regulation. The bill that dropped out of the matched set is identified only by LegiScan id 2147802, almost certainly the Massachusetts fiscal year 2027 budget bill already reported and dismissed as an off-topic match on this page earlier in October. Nothing to report from any state through the feed this week.",
+          "sources": [
+            {
+              "title": "LegiScan",
+              "url": "https://legiscan.com/legiscan"
+            },
+            {
+              "title": "LegiScan, NJ S4404",
+              "url": "https://legiscan.com/NJ/bill/S4404/2026"
+            }
+          ]
+        },
+        {
+          "state": "PA",
+          "kind": "legislation",
+          "flag": "watch",
+          "text": "The General Assembly returned to Harrisburg today, October 19, six days after enforcement began, with no tax or regulatory bill having advanced out of committee in either chamber. A Pennsylvania Capital-Star report published this morning says the chamber has only a handful of session days left before recessing again ahead of the November election, narrowing the window to act. All five pending proposals remain on the table: Governor Shapiro's 52 percent rate, which his office has estimated could raise roughly 2 billion dollars a year, the Senate Republican 35 percent rate, Representative Diamond's 20 percent two-bill package, Senator Yaw's 16 percent rate, and the 500 dollar per machine monthly fee backed by Senators Yaw and Williams. Earlier in the month Republican Rep. Doyle Heffley had pushed for a floor vote on a measure to delay enforcement by six months, but no such vote has been scheduled or taken.",
+          "sources": [
+            {
+              "title": "Pennsylvania Capital-Star, skill games saga ends with machines removed for now",
+              "url": "https://penncapital-star.com/government-politics/skill-games-saga-ends-with-outlawed-gambling-machines-removed-for-now/"
+            },
+            {
+              "title": "City & State PA, Put it up for a vote",
+              "url": "https://www.cityandstatepa.com/policy/2026/10/put-it-vote-enforcement-looms-supporters-urge-lawmakers-save-skill-games/416451/"
+            }
+          ]
+        },
+        {
+          "state": "PA",
+          "kind": "enforcement",
+          "flag": "watch",
+          "text": "No new seizure, prosecution or forfeiture has been confirmed. A Monday report from the Pennsylvania Capital-Star estimates roughly 70,000 skill game machines were installed in small businesses and private clubs statewide and says they are now unplugged and awaiting transfer to storage, but it gives no official count of machines actually removed or seized and notes the state has published no official figures on the industry's size. This is consistent with State Police's account last week of agreements with six operators or distributors for phased, rolling removal, with several other distributors still negotiating.",
+          "sources": [
+            {
+              "title": "Pennsylvania Capital-Star, skill games saga ends with machines removed for now",
+              "url": "https://penncapital-star.com/government-politics/skill-games-saga-ends-with-outlawed-gambling-machines-removed-for-now/"
+            }
+          ]
+        },
+        {
+          "state": "OK",
+          "bill": "SB 1589",
+          "kind": "industry",
+          "flag": "watch",
+          "text": "Two more sweepstakes platforms announced Oklahoma exits ahead of the November 1 effective date. Baba Casino told players its Sweeps Coin play and redemptions end October 21, after it stopped bundling promotional Sweeps Coins with Gold Coin purchases on October 5; Gold Coin only play continues. ACE Casino left Oklahoma entirely as of October 6, removing both currencies. Both join Pulsz, Modo and Stake.us, which have already announced restrictions or exits reported on this page. No new enforcement guidance from Attorney General Gentner Drummond's office and no legal challenge to SB 1589 were found this week.",
+          "sources": [
+            {
+              "title": "Sweepsy, Baba and ACE exit Oklahoma ahead of Nov. 1 sweeps ban",
+              "url": "https://www.sweepsy.com/news/baba-ace-exit-oklahoma-nov-1-sweeps-ban/"
+            },
+            {
+              "title": "Covers, Stake and Modo scale back Oklahoma operations",
+              "url": "https://www.covers.com/industry/stake-modo-scale-back-their-sweepstakes-operations-in-oklahoma-oct-15-2026"
+            }
+          ]
+        },
+        {
+          "state": "IA",
+          "bill": "SF 2289",
+          "kind": "regulator",
+          "flag": "watch",
+          "text": "Still no first cease and desist order against a dual currency sweepstakes operator has been published since the Racing and Gaming Commission's authority took effect July 1. Nothing new found this week.",
+          "sources": [
+            {
+              "title": "Iowa Racing and Gaming Commission",
+              "url": "https://irgc.iowa.gov/"
+            }
+          ]
+        },
+        {
+          "state": "US",
+          "kind": "tribal",
+          "flag": "info",
+          "text": "The Federal Register's Indian Affairs Bureau index still states it is current only as of September 28, 2026, and its most recent Indian gaming entries remain the July 14 Wyandotte Nation and Kansas compact approval and the July 7 Yurok Tribe and California compact extension, both already reported. No new compact notice or amendment has appeared.",
+          "sources": [
+            {
+              "title": "Federal Register, Indian Affairs Bureau index",
+              "url": "https://www.federalregister.gov/index/2026/indian-affairs-bureau"
+            }
+          ]
+        },
+        {
+          "state": "US",
+          "kind": "court",
+          "flag": "watch",
+          "text": "The North Carolina Supreme Court docket in No Limit Games v. Sheriff of Robeson County still shows no opinion filed as of today. The case remains open, with no ruling recorded since the September 9, 2026 argument.",
+          "sources": [
+            {
+              "title": "NC Supreme Court docket, No Limit Games v. Sheriff of Robeson County",
+              "url": "https://appellate.nccourts.org/dockets.php?court=1&docket=1-2025-0047-001&pdf=1&a=0&dev=1"
+            }
+          ]
+        },
+        {
+          "state": "US",
+          "kind": "industry",
+          "flag": "info",
+          "text": "Searches this week across Michigan and the other twenty-one remaining priority states, Virginia, Missouri, Georgia, South Carolina, Texas, Ohio, Maryland, Mississippi, New York, New Jersey, California, Connecticut, Montana, Louisiana, Washington, Illinois, Nevada and Wisconsin, and the nineteen lower-activity states, Alabama, Alaska, Arkansas, Colorado, Idaho, Indiana, Kansas, Kentucky, Maine, Nebraska, New Hampshire, New Mexico, North Dakota, Oregon, Rhode Island, South Dakota, Tennessee, Vermont and Wyoming, found nothing new beyond the items above. Florida's October 23 deadline for Google, Meta, Reddit, Snap and TikTok to confirm they have stopped running sweepstakes casino ads has not yet arrived. Kentucky's HB 594 ban shows no revival or new challenge, Wyoming's tax rate, machine limit, wager cap and payout cap under W.S. 11-25-301 et seq. are unchanged, and no enforcement or rulemaking news has appeared from Indiana, Maine or Tennessee since their sweepstakes bans took effect. General searches for Pace-O-Matic, Torch Electronics and Great Lakes Amusement by name returned nothing relevant this week.",
+          "sources": [
+            {
+              "title": "Casino.org, Florida demands ad platforms stop sweepstakes casino ads",
+              "url": "https://casino.org/news/florida-demands-google-meta-tiktok-stop-sweepstakes-casino-ads"
+            },
+            {
+              "title": "Kentucky Attorney General, opinion affirming",
+              "url": "https://www.ag.ky.gov/Press%20Release%20Attachments/2026-02-27%20Opinion%20Affirming.pdf"
+            },
+            {
+              "title": "Wyoming Gaming Commission, Skill Based Amusement Games",
+              "url": "https://gaming.wyo.gov/sbag"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "date": "2026-10-16",
       "run": "priority",
       "headline": "This week Pennsylvania's enforcement deadline arrived and took hold: the Supreme Court's stay expired October 13 with no tax bill passed, State Police enforcement began October 14, and by Friday the department had disclosed agreements with six operators or distributors for phased machine removal while several others still negotiate, with no seizures yet confirmed. Michigan sent cease and desist letters to 33 offshore gambling platforms and Oklahoma's November 1 sweepstakes ban is already pushing Pulsz, Modo and Stake.us to restrict the state, but the other twenty three priority states, the federal tribal compact register and the nineteen lower activity states stayed quiet all week. Today's run adds detail on the Pennsylvania enforcement agreements and confirms another legislative feed refresh with zero new or changed bills.",
