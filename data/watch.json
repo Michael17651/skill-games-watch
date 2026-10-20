@@ -13,6 +13,172 @@
   ],
   "entries": [
     {
+      "date": "2026-10-20",
+      "run": "priority",
+      "headline": "The legislative feed surfaced two previously unreported Virginia bills carried over into the 2027 session, a primary tier bill setting civil penalties of 10,000 to 100,000 dollars per violation for operating online sweepstakes games and a bill that would fold oversight of skill games and other gambling into a new Virginia Gaming Commission. Pennsylvania's General Assembly returned to session Monday but passed nothing, and Spotlight PA reporting cited this week says a legislative fix now looks unlikely before the end of the year, with several lawmakers pointing to the November 3 election as the next real turning point. Oklahoma, Iowa, the federal tribal compact register, the North Carolina Supreme Court and the rest of the priority and lower-activity states stayed quiet.",
+      "items": [
+        {
+          "state": "US",
+          "kind": "legislation",
+          "flag": "info",
+          "text": "The legislative feed refreshed, generated at 16:35 UTC on October 19, 2026, the first new scan since the October 16 run already reported on this page. Totals moved to 313 matching bills, 86 primary and 227 secondary, with five new records, one of them primary, and no changed records. The new primary record is Virginia Senate Bill 579, covered as its own item below. Of the four new secondary records, Virginia House Bill 271 is also reported separately below because it matches strongly on skill game language even though the feed classifies it as secondary tier. The other three are not on topic: Massachusetts House Bill 5501, the recurring fiscal year 2027 budget bill that has cycled in and out of the matched set since early October on the incidental phrase amusement device; Ohio Senate Bill 479, introduced October 13, which would classify betting on elections as prohibited gambling and matches only on the incidental phrases amusement machine and sweepstakes; and Virginia Senate Bill 604, a charitable bingo bill for age restricted communities that matches only on the incidental phrase electronic gaming device.",
+          "sources": [
+            {
+              "title": "LegiScan",
+              "url": "https://legiscan.com/legiscan"
+            },
+            {
+              "title": "LegiScan, MA H5501",
+              "url": "https://legiscan.com/MA/bill/H5501/2025"
+            },
+            {
+              "title": "LegiScan, OH SB479",
+              "url": "https://legiscan.com/OH/bill/SB479/2025"
+            },
+            {
+              "title": "LegiScan, VA SB604",
+              "url": "https://legiscan.com/VA/bill/SB604/2027"
+            }
+          ]
+        },
+        {
+          "state": "VA",
+          "bill": "SB 579",
+          "kind": "legislation",
+          "flag": "watch",
+          "text": "Virginia Senate Bill 579 would add operating, conducting or promoting an online sweepstakes game to the state's definition of illegal gambling. It defines an online sweepstakes game as an internet or mobile game that uses a dual currency system letting a player exchange one currency for a prize, cash or cash equivalent and that simulates casino style gaming such as slot machines, video poker, table games or sports betting, and it sets a civil penalty of not less than 10,000 dollars and not more than 100,000 dollars per violation. LegiScan's record shows the bill carried over from the prior session into the 2027 regular session, with a last action of continued from last session dated July 21, 2026, and no floor or committee action yet in the new session. This bill was not previously reported on this page.",
+          "sources": [
+            {
+              "title": "LegiScan, VA SB579",
+              "url": "https://legiscan.com/VA/bill/SB579/2027"
+            },
+            {
+              "title": "Virginia Legislative Information System, SB579",
+              "url": "https://lis.virginia.gov/bill-details/20271/SB579"
+            },
+            {
+              "title": "Covers, Virginia eyes sweepstakes casino ban in 2027 session",
+              "url": "https://www.covers.com/industry/virginia-eyes-sweepstakes-casino-ban-in-2027-legislative-session-aug-17-2026"
+            }
+          ]
+        },
+        {
+          "state": "VA",
+          "bill": "HB 271",
+          "kind": "legislation",
+          "flag": "watch",
+          "text": "Virginia House Bill 271 would establish a Virginia Gaming Commission as an independent agency to oversee and regulate all forms of legal gambling in the commonwealth except the state lottery, with its own eligibility rules for commissioners and board members and a provision to transfer staff from existing gaming agencies. A commission with that scope would take over oversight of Virginia's skill game and sweepstakes framework. Like Senate Bill 579, LegiScan shows this bill continued from the prior session into the 2027 regular session, with a last action dated July 21, 2026, and no floor or committee action yet in the new session. Similar proposals for a Virginia gaming commission have circulated since at least January 2026 without passing.",
+          "sources": [
+            {
+              "title": "LegiScan, VA HB271",
+              "url": "https://legiscan.com/VA/bill/HB271/2027"
+            },
+            {
+              "title": "Virginia Legislative Information System, HB271",
+              "url": "https://lis.virginia.gov/bill-details/20271/HB271"
+            },
+            {
+              "title": "SBC Americas, second attempt to create Virginia gaming commission",
+              "url": "https://sbcamericas.com/2026/01/12/krizek-wants-virginia-gaming-commission/"
+            }
+          ]
+        },
+        {
+          "state": "PA",
+          "kind": "legislation",
+          "flag": "watch",
+          "text": "The General Assembly returned to Harrisburg on Monday, October 19, but produced no committee vote, floor vote or new bill on skill games. Reporting from Spotlight PA, cited by WITF, says action before the end of 2026 now looks unlikely. New detail on the extension petition that the Supreme Court denied October 9: the attorney bringing it withdrew it on October 7 and refiled it the next day without Rep. Danilo Burgos as a petitioner, after Burgos's own cosponsorship memo had drawn 104 cosponsors; unnamed House Democratic sources say Majority Leader Matt Bradford told the caucus that members should not have backed Burgos's proposal. Republican gubernatorial nominee and state Treasurer Stacy Garrity continues to back a flat per machine monthly fee, while Governor Shapiro backs a revenue based tax. Senate Majority Leader Joe Pittman's office says the chamber still intends to reach a framework that can pass both chambers and be signed by the governor. Several lawmakers, including Sen. Anthony Williams, pointed to the November 3 election, which could flip control of the Senate, as a factor likely to shape how and whether the issue gets resolved, including in future budget talks.",
+          "sources": [
+            {
+              "title": "WITF, the legislature didn't act on skill games by the deadline",
+              "url": "https://www.witf.org/2026/10/19/the-legislature-didnt-act-on-skill-games-by-the-pa-supreme-courts-deadline-what-happens-now/"
+            }
+          ]
+        },
+        {
+          "state": "PA",
+          "kind": "enforcement",
+          "flag": "watch",
+          "text": "No new seizure, prosecution or forfeiture has been confirmed, and no official count of machines removed or seized has been published, consistent with last week's reporting. Additional detail found this week: State Police have designated storage locations for machines they remove, and Pace-O-Matic has said it disabled its Pennsylvania machines remotely at midnight on October 14. The attorney general's office continues to say machines must be physically removed, not merely powered down, to satisfy the law, and the District Attorneys Association's Kelly Callihan says local agencies will help coordinate voluntary surrenders.",
+          "sources": [
+            {
+              "title": "WITF, the legislature didn't act on skill games by the deadline",
+              "url": "https://www.witf.org/2026/10/19/the-legislature-didnt-act-on-skill-games-by-the-pa-supreme-courts-deadline-what-happens-now/"
+            },
+            {
+              "title": "PA Office of Attorney General, Sunday urges businesses to remove skill game devices",
+              "url": "https://www.attorneygeneral.gov/taking-action/attorney-general-sunday-pa-businesses-with-skill-games-devices-not-removed-by-oct-14-risk-law-enforcement-action/"
+            }
+          ]
+        },
+        {
+          "state": "OK",
+          "bill": "SB 1589",
+          "kind": "industry",
+          "flag": "watch",
+          "text": "No new enforcement guidance from Attorney General Gentner Drummond's office, no legal challenge to SB 1589 and no additional operator exit beyond the Baba Casino, ACE Casino, Pulsz, Modo and Stake.us restrictions already reported turned up in searches this week. Twelve days remain to the November 1 effective date.",
+          "sources": []
+        },
+        {
+          "state": "IA",
+          "bill": "SF 2289",
+          "kind": "regulator",
+          "flag": "watch",
+          "text": "Still no first cease and desist order against a dual currency sweepstakes operator has been published since the Racing and Gaming Commission's authority took effect July 1. Nothing new found this week.",
+          "sources": [
+            {
+              "title": "Iowa Racing and Gaming Commission",
+              "url": "https://irgc.iowa.gov/"
+            }
+          ]
+        },
+        {
+          "state": "US",
+          "kind": "tribal",
+          "flag": "info",
+          "text": "The Federal Register's Indian Affairs Bureau index still lists the July 14 Wyandotte Nation and Kansas compact approval and the July 7 Yurok Tribe and California compact extension as its most recent Indian gaming entries, both already reported. No new compact notice or amendment has appeared.",
+          "sources": [
+            {
+              "title": "Federal Register, Indian Affairs Bureau index",
+              "url": "https://www.federalregister.gov/index/2026/indian-affairs-bureau"
+            }
+          ]
+        },
+        {
+          "state": "US",
+          "kind": "court",
+          "flag": "watch",
+          "text": "The North Carolina Supreme Court docket in No Limit Games v. Sheriff of Robeson County still shows no opinion filed. The most recent docket entry is an unspecified filing dated September 1, 2026, over six weeks ago, with nothing since. The case remains open following the September 9 argument.",
+          "sources": [
+            {
+              "title": "NC Supreme Court docket, No Limit Games v. Sheriff of Robeson County",
+              "url": "https://appellate.nccourts.org/dockets.php?court=1&docket=1-2025-0047-001&pdf=1&a=0&dev=1"
+            }
+          ]
+        },
+        {
+          "state": "US",
+          "kind": "industry",
+          "flag": "info",
+          "text": "Searches this week across the other priority states, Missouri, Georgia, South Carolina, Texas, Ohio, Florida, Maryland, Mississippi, New York, New Jersey, California, Connecticut, Montana, Louisiana, Michigan, Washington, Illinois, North Carolina, Nevada and Wisconsin, and the nineteen lower-activity states, Alabama, Alaska, Arkansas, Colorado, Idaho, Indiana, Kansas, Kentucky, Maine, Nebraska, New Hampshire, New Mexico, North Dakota, Oregon, Rhode Island, South Dakota, Tennessee, Vermont and Wyoming, found nothing new beyond the items above. Florida's October 23 deadline for Google, Meta, Reddit, Snap and TikTok to confirm they have stopped running sweepstakes casino ads is three days away. Kentucky's HB 594 ban shows no revival or new challenge, Wyoming's tax rate, machine limit, wager cap and payout cap under W.S. 11-25-301 et seq. are unchanged, and no enforcement or rulemaking news has appeared from Indiana, Maine or Tennessee since their sweepstakes bans took effect. General searches for Pace-O-Matic, Torch Electronics and Great Lakes Amusement by name returned nothing relevant this week.",
+          "sources": [
+            {
+              "title": "Casino.org, Florida demands ad platforms stop sweepstakes casino ads",
+              "url": "https://casino.org/news/florida-demands-google-meta-tiktok-stop-sweepstakes-casino-ads"
+            },
+            {
+              "title": "Kentucky Attorney General, opinion affirming",
+              "url": "https://www.ag.ky.gov/Press%20Release%20Attachments/2026-02-27%20Opinion%20Affirming.pdf"
+            },
+            {
+              "title": "Wyoming Gaming Commission, Skill Based Amusement Games",
+              "url": "https://gaming.wyo.gov/sbag"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "date": "2026-10-19",
       "run": "priority",
       "headline": "Pennsylvania's General Assembly returned today with the state's skill game enforcement five days old and an estimated 70,000 machines unplugged statewide, though no official count of machines actually removed or seized has been published and the current legislative session has only days left to run before the November election recess. Oklahoma's November 1 sweepstakes ban pushed two more platforms out of the state, Baba Casino and ACE Casino, joining Pulsz, Modo and Stake.us. Iowa, the federal tribal compact register, Michigan and the rest of the priority and lower-activity states stayed quiet, and the legislative feed's only change this week was an off-topic New Jersey liquor-licensing bill.",
