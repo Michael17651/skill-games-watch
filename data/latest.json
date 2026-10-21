@@ -1,5 +1,5 @@
 {
-  "generated_utc": "2026-10-20T14:25:49+00:00",
+  "generated_utc": "2026-10-21T14:34:56+00:00",
   "count": 313,
   "bills": [
     {
@@ -3476,7 +3476,7 @@
       "url": "https://legiscan.com/IL/bill/SB3394/2025",
       "bill_id": "2107648",
       "change_hash": "3323a340f1de8191f7f3a5acfe63ea34",
-      "relevance": 91,
+      "relevance": 90,
       "matched": [
         "\"video gaming terminal\""
       ],
@@ -4281,7 +4281,7 @@
       "url": "https://legiscan.com/MN/bill/SF1124/2025",
       "bill_id": "1957779",
       "change_hash": "9bf1e4fb269ddbce14cb2e78f3f1959e",
-      "relevance": 93,
+      "relevance": 94,
       "matched": [
         "\"skill game\""
       ],
@@ -5321,19 +5321,19 @@
       "subject_terms": []
     },
     {
-      "bill_number": "A5060",
-      "description": "Prohibits fur farming.",
-      "last_action": "Introduced, Referred to Assembly Agriculture and Natural Resources Committee",
-      "last_action_date": "2026-05-14",
-      "session": "2026-2027 Regular Session",
       "state": "NJ",
-      "state_link": "https://www.njleg.state.nj.us/bill-search/2026/A5060",
+      "bill_number": "A5060",
+      "title": "Prohibits fur farming.",
+      "description": "Prohibits fur farming.",
       "status": 1,
       "status_date": "2026-05-14",
-      "title": "Prohibits fur farming.",
+      "last_action": "Introduced, Referred to Assembly Agriculture and Natural Resources Committee",
+      "last_action_date": "2026-05-14",
       "url": "https://legiscan.com/NJ/bill/A5060/2026",
+      "state_link": "https://www.njleg.state.nj.us/bill-search/2026/A5060",
+      "session": "2026-2027 Regular Session",
       "bill_id": "2148951",
-      "change_hash": "e86a72d8fd8e0780b3f19d5ece724148",
+      "change_hash": "2c5bf2937a2190692892615d7722e0db",
       "relevance": 92,
       "matched": [
         "\"amusement device\""
