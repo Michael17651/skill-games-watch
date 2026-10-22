@@ -1,5 +1,5 @@
 {
-  "generated_utc": "2026-10-21T14:34:56+00:00",
+  "generated_utc": "2026-10-22T14:36:33+00:00",
   "count": 313,
   "bills": [
     {
@@ -5321,17 +5321,17 @@
       "subject_terms": []
     },
     {
-      "state": "NJ",
       "bill_number": "A5060",
-      "title": "Prohibits fur farming.",
       "description": "Prohibits fur farming.",
-      "status": 1,
-      "status_date": "2026-05-14",
       "last_action": "Introduced, Referred to Assembly Agriculture and Natural Resources Committee",
       "last_action_date": "2026-05-14",
-      "url": "https://legiscan.com/NJ/bill/A5060/2026",
-      "state_link": "https://www.njleg.state.nj.us/bill-search/2026/A5060",
       "session": "2026-2027 Regular Session",
+      "state": "NJ",
+      "state_link": "https://www.njleg.state.nj.us/bill-search/2026/A5060",
+      "status": 1,
+      "status_date": "2026-05-14",
+      "title": "Prohibits fur farming.",
+      "url": "https://legiscan.com/NJ/bill/A5060/2026",
       "bill_id": "2148951",
       "change_hash": "2c5bf2937a2190692892615d7722e0db",
       "relevance": 92,
