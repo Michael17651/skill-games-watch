@@ -1,5 +1,5 @@
 {
-  "generated_utc": "2026-10-22T14:36:33+00:00",
+  "generated_utc": "2026-10-23T14:20:47+00:00",
   "count": 313,
   "bills": [
     {
@@ -4281,7 +4281,7 @@
       "url": "https://legiscan.com/MN/bill/SF1124/2025",
       "bill_id": "1957779",
       "change_hash": "9bf1e4fb269ddbce14cb2e78f3f1959e",
-      "relevance": 94,
+      "relevance": 93,
       "matched": [
         "\"skill game\""
       ],
