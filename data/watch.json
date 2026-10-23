@@ -13,6 +13,122 @@
   ],
   "entries": [
     {
+      "date": "2026-10-23",
+      "run": "priority",
+      "headline": "Week in review: Pennsylvania's negotiated skill game deal, said to be taking shape earlier in the week, collapsed by Wednesday with House Democratic leaders blaming Senate Republicans, leaving the chamber with only two scheduled session days left in November and lawmakers on both sides pointing to the November 3 election, which could flip control of the Senate, as the more likely path forward. State Police this week renewed a public appeal for tips on noncompliant businesses and reporting from earlier in October flagged a cashless-machine workaround they are watching for, though no statewide count of machines seized or removed has been published since enforcement began October 14. Oklahoma's sweepstakes exodus continued ahead of its November 1 ban, Virginia's two carryover bills surfaced through the legislative feed were the week's only new legislation nationwide, and Iowa, the North Carolina Supreme Court, Wyoming's draft ban and the federal tribal compact register all held steady. Florida's deadline for Google, Meta, Reddit, Snap and TikTok to confirm they have stopped running sweepstakes casino ads arrives today, with no compliance confirmation yet reported.",
+      "items": [
+        {
+          "state": "US",
+          "kind": "legislation",
+          "flag": "info",
+          "text": "The legislative feed refreshed, generated at 14:36 UTC on October 22, 2026, about twenty four hours after the scan already reported in yesterday's run. Totals held steady at 313 matching bills, 86 primary and 227 secondary, with zero new and zero changed records. Nothing to report from any state through the feed today.",
+          "sources": [
+            {
+              "title": "LegiScan",
+              "url": "https://legiscan.com/legiscan"
+            }
+          ]
+        },
+        {
+          "state": "PA",
+          "bill": "SB 1079",
+          "kind": "legislation",
+          "flag": "watch",
+          "text": "No committee vote, floor vote or new bill followed Wednesday's report that the negotiated deal to tax and legalize skill games had collapsed. Five scheduled session days remain in November before the General Assembly adjourns for the year, and lawmakers on both sides continue to point to the November 3 election as the more likely path to a resolution. Senate Bill 1079, the 500 dollar per machine monthly fee backed by Senators Yaw and Williams, and the four other pending tax proposals all remain unmoved.",
+          "sources": []
+        },
+        {
+          "state": "PA",
+          "kind": "enforcement",
+          "flag": "watch",
+          "text": "Pennsylvania State Police renewed a public appeal this week for residents to report businesses still operating skill games, directing tips to tips@pa.gov or 1-888-292-1919, and reiterated that a machine which has been powered off or unplugged is still subject to seizure. Separately, reporting from earlier in October noted State Police are watching for operators attempting to work around the ban with cashless-payment machines, a tactic Pace-O-Matic has used to contest an earlier ban in Virginia, though no Pennsylvania case citing that tactic has been confirmed. No official statewide count of machines removed or seized has been published.",
+          "sources": [
+            {
+              "title": "Casino.org, PA State Police urge public to report illegal skill games",
+              "url": "https://casino.org/news/pennsylvania-state-police-urge-public-to-report-illegal-skill-games"
+            },
+            {
+              "title": "Spotlight PA, skill games disappear as PA lawmakers let deadline pass",
+              "url": "https://www.spotlightpa.org/news/2026/10/skill-games-deadline-pennsylvania-legislature-divided-caucus-democrats-capitol/"
+            }
+          ]
+        },
+        {
+          "state": "OK",
+          "bill": "SB 1589",
+          "kind": "industry",
+          "flag": "watch",
+          "text": "No new enforcement guidance from Attorney General Gentner Drummond's office, no legal challenge to SB 1589 and no additional operator exit beyond the Stake.us, Baba Casino, ACE Casino, Pulsz and Modo restrictions already reported turned up in searches this week. Nine days remain to the November 1 effective date.",
+          "sources": []
+        },
+        {
+          "state": "IA",
+          "bill": "SF 2289",
+          "kind": "regulator",
+          "flag": "watch",
+          "text": "Still no first cease and desist order against a dual currency sweepstakes operator has been published since the Racing and Gaming Commission's authority took effect July 1. The commission's only recent posting is a routine September revenue report dated October 9, not an enforcement item.",
+          "sources": [
+            {
+              "title": "Iowa Racing and Gaming Commission",
+              "url": "https://irgc.iowa.gov/"
+            }
+          ]
+        },
+        {
+          "state": "US",
+          "kind": "court",
+          "flag": "watch",
+          "text": "Checked the North Carolina Supreme Court docket directly. No Limit Games v. Sheriff of Robeson County still shows no opinion filed. The most recent docket entry remains the September 1, 2026 filing already reported, described in the docket only as an unspecified filing, with nothing since. The case remains open more than six weeks after the September 9 argument.",
+          "sources": [
+            {
+              "title": "NC Supreme Court docket, No Limit Games v. Sheriff of Robeson County",
+              "url": "https://appellate.nccourts.org/dockets.php?court=1&docket=1-2025-0047-001&pdf=1&a=0&dev=1"
+            }
+          ]
+        },
+        {
+          "state": "US",
+          "kind": "tribal",
+          "flag": "info",
+          "text": "The Federal Register's Indian Affairs Bureau index still lists the July 14 Wyandotte Nation and Kansas compact approval and the July 7 Yurok Tribe and California compact extension as its most recent Indian gaming entries, both already reported. No new compact notice or amendment has appeared.",
+          "sources": [
+            {
+              "title": "Federal Register, Indian Affairs Bureau index",
+              "url": "https://www.federalregister.gov/index/2026/indian-affairs-bureau"
+            }
+          ]
+        },
+        {
+          "state": "FL",
+          "kind": "enforcement",
+          "flag": "watch",
+          "text": "Attorney General James Uthmeier's October 23 deadline for Google, Meta, Reddit, Snap and TikTok to confirm they have stopped running sweepstakes casino ads and explain how they will keep them from reaching Florida residents arrives today. No confirmation of compliance from any of the five platforms has been reported yet.",
+          "sources": [
+            {
+              "title": "Casino.org, Florida demands ad platforms stop sweepstakes casino ads",
+              "url": "https://casino.org/news/florida-demands-google-meta-tiktok-stop-sweepstakes-casino-ads"
+            }
+          ]
+        },
+        {
+          "state": "US",
+          "kind": "industry",
+          "flag": "info",
+          "text": "Searches this week across the other priority states, Missouri, Georgia, South Carolina, Texas, Ohio, Maryland, Mississippi, New York, New Jersey, California, Connecticut, Montana, Louisiana, Michigan, Washington, Illinois, North Carolina, Nevada and Wisconsin, and the nineteen lower activity states, Alabama, Alaska, Arkansas, Colorado, Idaho, Indiana, Kansas, Kentucky, Maine, Nebraska, New Hampshire, New Mexico, North Dakota, Oregon, Rhode Island, South Dakota, Tennessee, Vermont and Wyoming, found nothing new beyond the items above. Kentucky's HB 594 ban shows no revival or new challenge, Wyoming's regulated program and its pending sweepstakes ban draft sent to the Management Council are unchanged, and no enforcement or rulemaking news has appeared from Indiana, Maine or Tennessee since their sweepstakes bans took effect. Colorado's Colorado Springs and Pueblo skill gaming lawsuit shows no new docket activity beyond the December 2025 coverage already reported. General searches for Pace-O-Matic, Torch Electronics and Great Lakes Amusement by name returned nothing relevant this week.",
+          "sources": [
+            {
+              "title": "Kentucky Attorney General, opinion affirming",
+              "url": "https://www.ag.ky.gov/Press%20Release%20Attachments/2026-02-27%20Opinion%20Affirming.pdf"
+            },
+            {
+              "title": "Wyoming Gaming Commission, Skill Based Amusement Games",
+              "url": "https://gaming.wyo.gov/sbag"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "date": "2026-10-22",
       "run": "priority",
       "headline": "Pennsylvania's negotiated skill game deal collapsed this week, with House Democratic leaders blaming Senate Republicans for failing to deliver votes and only two legislative session days remaining before the chamber adjourns for the year; the 500 dollar per machine monthly fee proposal from Senators Yaw and Williams is now identified as Senate Bill 1079. The legislative feed's only change was an off topic New Jersey fur farming bill, and Oklahoma, Iowa, the North Carolina Supreme Court and the federal tribal compact register all held steady.",
