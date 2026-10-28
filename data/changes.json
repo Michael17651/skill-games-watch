@@ -1,5 +1,5 @@
 {
-  "generated_utc": "2026-10-27T15:29:23+00:00",
+  "generated_utc": "2026-10-28T16:13:04+00:00",
   "first_run": false,
   "keywords": [
     "\"skill game\"",
@@ -17,42 +17,65 @@
   "min_relevance": 40,
   "detail_cap_hit": false,
   "totals": {
-    "matching": 314,
+    "matching": 315,
     "primary": 87,
-    "secondary": 227,
+    "secondary": 228,
     "new": 1,
-    "new_primary": 1,
-    "changed": 0,
-    "changed_primary": 0,
+    "new_primary": 0,
+    "changed": 1,
+    "changed_primary": 1,
     "no_longer_matching": 0
   },
   "new": [
     {
       "state": "PA",
-      "bill_number": "SB1488",
-      "title": "Providing for temporary authorization of skill games.",
-      "description": "An Act amending Title 4 (Amusements) of the Pennsylvania Consolidated Statutes, providing for temporary authorization of skill games.",
+      "bill_number": "SB1506",
+      "title": "Providing for consumer rights in digital games; imposing a penalty; and providing for severability.",
+      "description": "An Act providing for consumer rights in digital games; imposing a penalty; and providing for severability.",
       "status": 1,
-      "status_date": "2026-10-26",
-      "last_action": "Referred to Community, Economic & Recreational Development",
-      "last_action_date": "2026-10-26",
-      "url": "https://legiscan.com/PA/bill/SB1488/2025",
-      "state_link": "https://www.palegis.us/legislation/bills/2025/sb1488",
+      "status_date": "2026-10-27",
+      "last_action": "Referred to Consumer Protection & Professional Licensure",
+      "last_action_date": "2026-10-27",
+      "url": "https://legiscan.com/PA/bill/SB1506/2025",
+      "state_link": "https://www.palegis.us/legislation/bills/2025/sb1506",
       "session": "2025-2026 Regular Session",
-      "bill_id": "2161266",
-      "change_hash": "cdedd07b37437efc6a985dcab7a92b97",
-      "relevance": 98,
+      "bill_id": "2161303",
+      "change_hash": "1e8bcef70e6863593cc55d269646e26d",
+      "relevance": 92,
       "matched": [
+        "\"electronic gaming device\""
+      ],
+      "tier": "secondary",
+      "subject_terms": []
+    }
+  ],
+  "changed": [
+    {
+      "state": "PA",
+      "bill_number": "HB2213",
+      "title": "Providing for skill video gaming; imposing duties on the Department of Revenue; providing for issuance of licenses for skill video gaming; imposing a fee and criminal and civil penalties; and providing for zoning.",
+      "description": "An Act providing for skill video gaming; imposing duties on the Department of Revenue; providing for issuance of licenses for skill video gaming; imposing a fee and criminal and civil penalties; and providing for zoning.",
+      "status": 1,
+      "status_date": "2026-02-11",
+      "last_action": "Referred to Gaming Oversight",
+      "last_action_date": "2026-02-11",
+      "url": "https://legiscan.com/PA/bill/HB2213/2025",
+      "state_link": "https://www.palegis.us/legislation/bills/2025/hb2213",
+      "session": "2025-2026 Regular Session",
+      "bill_id": "2113319",
+      "change_hash": "6d04b989a7cefab3bb1c2afb6f874ac7",
+      "relevance": 99,
+      "matched": [
+        "\"amusement device\"",
         "\"skill game\"",
         "\"skill games\""
       ],
       "tier": "primary",
       "subject_terms": [
-        "skill game"
+        "video gaming"
       ]
     }
   ],
-  "changed": [],
   "no_longer_matching": [],
   "errors": [],
   "attribution": "LegiScan API by LegiScan LLC, licensed under CC BY 4.0"
