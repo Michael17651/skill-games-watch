@@ -1,5 +1,5 @@
 {
-  "generated_utc": "2026-10-29T16:21:20+00:00",
+  "generated_utc": "2026-10-30T16:09:06+00:00",
   "count": 315,
   "bills": [
     {
@@ -3995,19 +3995,19 @@
       "subject_terms": []
     },
     {
-      "bill_number": "S2525",
-      "description": "Site Information & Links",
-      "last_action": "See H4001",
-      "last_action_date": "2025-05-22",
-      "session": "194th General Court",
       "state": "MA",
-      "state_link": "https://malegislature.gov/Bills/194/S2525",
+      "bill_number": "S2525",
+      "title": "Amendment S.2525",
+      "description": "Amendment S.2525",
       "status": 1,
       "status_date": "2025-05-22",
-      "title": "Site Information & Links",
+      "last_action": "See H4001",
+      "last_action_date": "2025-05-22",
       "url": "https://legiscan.com/MA/bill/S2525/2025",
+      "state_link": "https://malegislature.gov/Bills/194/S2525",
+      "session": "194th General Court",
       "bill_id": "2034275",
-      "change_hash": "36236fa5f157d4960a4bdf3b2f7ca779",
+      "change_hash": "1f2d6cfb869119aefdffea6cd9aa08ab",
       "relevance": 47,
       "matched": [
         "\"amusement device\""
@@ -4016,19 +4016,19 @@
       "subject_terms": []
     },
     {
-      "bill_number": "S3100",
-      "description": "Site Information & Links",
-      "last_action": "See H5501",
-      "last_action_date": "2026-05-21",
-      "session": "194th General Court",
       "state": "MA",
-      "state_link": "https://malegislature.gov/Bills/194/S3100",
+      "bill_number": "S3100",
+      "title": "Amendment S.3100",
+      "description": "Amendment S.3100",
       "status": 1,
       "status_date": "2026-05-21",
-      "title": "Site Information & Links",
+      "last_action": "See H5501",
+      "last_action_date": "2026-05-21",
       "url": "https://legiscan.com/MA/bill/S3100/2025",
+      "state_link": "https://malegislature.gov/Bills/194/S3100",
+      "session": "194th General Court",
       "bill_id": "2152020",
-      "change_hash": "4715463bf874410869ceb705123ac917",
+      "change_hash": "6ba1fc9a133bae114d271f72cff18449",
       "relevance": 46,
       "matched": [
         "\"amusement device\""
@@ -4037,19 +4037,19 @@
       "subject_terms": []
     },
     {
-      "bill_number": "S4",
-      "description": "Site Information & Links",
-      "last_action": "Amendment #304 (Dooner) rejected",
-      "last_action_date": "2026-05-19",
-      "session": "194th General Court",
       "state": "MA",
-      "state_link": "https://malegislature.gov/Bills/194/S4",
+      "bill_number": "S4",
+      "title": "Amendment S.4",
+      "description": "Amendment S.4",
       "status": 1,
       "status_date": "2026-05-04",
-      "title": "Site Information & Links",
+      "last_action": "Amendment #304 (Dooner) rejected",
+      "last_action_date": "2026-05-19",
       "url": "https://legiscan.com/MA/bill/S4/2025",
+      "state_link": "https://malegislature.gov/Bills/194/S4",
+      "session": "194th General Court",
       "bill_id": "2148107",
-      "change_hash": "66cf85497089e2c635b4990900c8bb6a",
+      "change_hash": "b8266fdec7cb50e4df05deedf9319f0f",
       "relevance": 43,
       "matched": [
         "\"amusement device\""

@@ -1,5 +1,5 @@
 {
-  "generated_utc": "2026-10-29T16:21:20+00:00",
+  "generated_utc": "2026-10-30T16:09:06+00:00",
   "first_run": false,
   "keywords": [
     "\"skill game\"",
@@ -22,12 +22,76 @@
     "secondary": 228,
     "new": 0,
     "new_primary": 0,
-    "changed": 0,
+    "changed": 3,
     "changed_primary": 0,
     "no_longer_matching": 0
   },
   "new": [],
-  "changed": [],
+  "changed": [
+    {
+      "state": "MA",
+      "bill_number": "S2525",
+      "title": "Amendment S.2525",
+      "description": "Amendment S.2525",
+      "status": 1,
+      "status_date": "2025-05-22",
+      "last_action": "See H4001",
+      "last_action_date": "2025-05-22",
+      "url": "https://legiscan.com/MA/bill/S2525/2025",
+      "state_link": "https://malegislature.gov/Bills/194/S2525",
+      "session": "194th General Court",
+      "bill_id": "2034275",
+      "change_hash": "1f2d6cfb869119aefdffea6cd9aa08ab",
+      "relevance": 47,
+      "matched": [
+        "\"amusement device\""
+      ],
+      "tier": "secondary",
+      "subject_terms": []
+    },
+    {
+      "state": "MA",
+      "bill_number": "S3100",
+      "title": "Amendment S.3100",
+      "description": "Amendment S.3100",
+      "status": 1,
+      "status_date": "2026-05-21",
+      "last_action": "See H5501",
+      "last_action_date": "2026-05-21",
+      "url": "https://legiscan.com/MA/bill/S3100/2025",
+      "state_link": "https://malegislature.gov/Bills/194/S3100",
+      "session": "194th General Court",
+      "bill_id": "2152020",
+      "change_hash": "6ba1fc9a133bae114d271f72cff18449",
+      "relevance": 46,
+      "matched": [
+        "\"amusement device\""
+      ],
+      "tier": "secondary",
+      "subject_terms": []
+    },
+    {
+      "state": "MA",
+      "bill_number": "S4",
+      "title": "Amendment S.4",
+      "description": "Amendment S.4",
+      "status": 1,
+      "status_date": "2026-05-04",
+      "last_action": "Amendment #304 (Dooner) rejected",
+      "last_action_date": "2026-05-19",
+      "url": "https://legiscan.com/MA/bill/S4/2025",
+      "state_link": "https://malegislature.gov/Bills/194/S4",
+      "session": "194th General Court",
+      "bill_id": "2148107",
+      "change_hash": "b8266fdec7cb50e4df05deedf9319f0f",
+      "relevance": 43,
+      "matched": [
+        "\"amusement device\""
+      ],
+      "tier": "secondary",
+      "subject_terms": []
+    }
+  ],
   "no_longer_matching": [],
   "errors": [],
   "attribution": "LegiScan API by LegiScan LLC, licensed under CC BY 4.0"
