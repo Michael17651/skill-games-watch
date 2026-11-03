@@ -1,5 +1,5 @@
 {
-  "generated_utc": "2026-11-02T19:40:42+00:00",
+  "generated_utc": "2026-11-03T17:13:55+00:00",
   "first_run": false,
   "keywords": [
     "\"skill game\"",
@@ -17,18 +17,20 @@
   "min_relevance": 40,
   "detail_cap_hit": false,
   "totals": {
-    "matching": 315,
+    "matching": 314,
     "primary": 87,
-    "secondary": 228,
+    "secondary": 227,
     "new": 0,
     "new_primary": 0,
     "changed": 0,
     "changed_primary": 0,
-    "no_longer_matching": 0
+    "no_longer_matching": 1
   },
   "new": [],
   "changed": [],
-  "no_longer_matching": [],
+  "no_longer_matching": [
+    "2147802"
+  ],
   "errors": [],
   "attribution": "LegiScan API by LegiScan LLC, licensed under CC BY 4.0"
 }
