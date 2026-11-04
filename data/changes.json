@@ -1,5 +1,5 @@
 {
-  "generated_utc": "2026-11-03T17:13:55+00:00",
+  "generated_utc": "2026-11-04T17:25:12+00:00",
   "first_run": false,
   "keywords": [
     "\"skill game\"",
@@ -24,13 +24,11 @@
     "new_primary": 0,
     "changed": 0,
     "changed_primary": 0,
-    "no_longer_matching": 1
+    "no_longer_matching": 0
   },
   "new": [],
   "changed": [],
-  "no_longer_matching": [
-    "2147802"
-  ],
+  "no_longer_matching": [],
   "errors": [],
   "attribution": "LegiScan API by LegiScan LLC, licensed under CC BY 4.0"
 }
