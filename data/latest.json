@@ -1,5 +1,5 @@
 {
-  "generated_utc": "2026-11-09T19:57:40+00:00",
+  "generated_utc": "2026-11-10T17:12:39+00:00",
   "count": 314,
   "bills": [
     {
@@ -3179,7 +3179,7 @@
       "url": "https://legiscan.com/IL/bill/HB2949/2025",
       "bill_id": "1958330",
       "change_hash": "12382d8b8e66f35cd90be7607257b43e",
-      "relevance": 54,
+      "relevance": 53,
       "matched": [
         "\"video gaming terminal\""
       ],
