@@ -1,6 +1,6 @@
 {
-  "generated_utc": "2026-11-10T17:12:39+00:00",
-  "count": 314,
+  "generated_utc": "2026-11-11T17:21:34+00:00",
+  "count": 312,
   "bills": [
     {
       "bill_number": "AB831",
@@ -1050,7 +1050,7 @@
       "url": "https://legiscan.com/MS/bill/SB2104/2026",
       "bill_id": "2069578",
       "change_hash": "ac3478668950b542a52e22b2657103d5",
-      "relevance": 99,
+      "relevance": 98,
       "matched": [
         "\"sweepstakes casino\"",
         "\"sweepstakes\""
@@ -1263,7 +1263,7 @@
       "url": "https://legiscan.com/NY/bill/A06030/2025",
       "bill_id": "1983068",
       "change_hash": "6d03559be1a3f5c0fdfeb8678c41f129",
-      "relevance": 100,
+      "relevance": 99,
       "matched": [
         "\"games of skill\""
       ],
@@ -1974,29 +1974,6 @@
       ]
     },
     {
-      "bill_number": "HR890",
-      "description": "Congratulating the Anahuac High School Student Council on earning the District 17 Outstanding Student Council and Sweepstakes awards from the Texas Association of Student Councils.",
-      "last_action": "Reported enrolled",
-      "last_action_date": "2025-05-24",
-      "session": "89th Legislature Regular Session",
-      "state": "TX",
-      "state_link": "https://capitol.texas.gov/BillLookup/History.aspx?LegSess=89R&Bill=HR890",
-      "status": 4,
-      "status_date": "2025-05-24",
-      "title": "Congratulating the Anahuac High School Student Council on earning the District 17 Outstanding Student Council and Sweepstakes awards from the Texas Association of Student Councils.",
-      "url": "https://legiscan.com/TX/bill/HR890/2025",
-      "bill_id": "2025223",
-      "change_hash": "243ce2057a80799800ab8db1d901325b",
-      "relevance": 98,
-      "matched": [
-        "\"sweepstakes\""
-      ],
-      "tier": "primary",
-      "subject_terms": [
-        "sweepstakes"
-      ]
-    },
-    {
       "bill_number": "HB1272",
       "description": "Regulation and taxation of electronic gaming devices; penalties. Authorizes and specifies the licensing requirements for the manufacture, distribution, operation, hosting, and playing of electronic gaming devices, as defined in the bill, under the regulatory authority of the Virginia Lottery Board. The bill imposes a 30 percent tax on all gross profits from the play of such electronic gaming devices and provides for the use of such tax proceeds. The bill also imposes criminal and civil penalties for violations of the law and regulations related to electronic gaming devices.",
       "last_action": "Failed to Pass from conference",
@@ -2524,7 +2501,7 @@
       "url": "https://legiscan.com/DC/bill/B26-0379/2025",
       "bill_id": "2045709",
       "change_hash": "1b3b662806ee03fc0acbf246c23d427e",
-      "relevance": 99,
+      "relevance": 100,
       "matched": [
         "\"games of skill\""
       ],
@@ -2693,7 +2670,7 @@
       "url": "https://legiscan.com/FL/bill/S0482/2026",
       "bill_id": "2060634",
       "change_hash": "315ef93be6b4b972448caa92ce5c9c36",
-      "relevance": 86,
+      "relevance": 85,
       "matched": [
         "\"amusement device\""
       ],
@@ -2926,7 +2903,7 @@
       "url": "https://legiscan.com/IA/bill/SF2289/2025",
       "bill_id": "2114543",
       "change_hash": "eff562166131a0892f3022a207ead81a",
-      "relevance": 80,
+      "relevance": 79,
       "matched": [
         "\"sweepstakes\""
       ],
@@ -3031,7 +3008,7 @@
       "url": "https://legiscan.com/IL/bill/HB1075/2025",
       "bill_id": "1906342",
       "change_hash": "e4e6b6bc17d2ec0f71211528ad614324",
-      "relevance": 72,
+      "relevance": 71,
       "matched": [
         "\"video gaming terminal\""
       ],
@@ -3052,7 +3029,7 @@
       "url": "https://legiscan.com/IL/bill/HB1143/2025",
       "bill_id": "1906039",
       "change_hash": "5139636219fdeb0af4751327866d1f6c",
-      "relevance": 41,
+      "relevance": 40,
       "matched": [
         "\"amusement device\""
       ],
@@ -3294,19 +3271,19 @@
       "subject_terms": []
     },
     {
-      "bill_number": "HB5814",
-      "description": "Amends the Sports Wagering Act. Repeals provisions concerning an exchange wager transaction tax. Repeals the following provisions concerning fantasy contests: (1) provisions providing that fantasy contests do not constitute gambling; (2) provisions concerning licensure of fantasy contest operators; and (3) provisions imposing a privilege tax on the privilege of holding a license to operate fantasy contests under the Act. Amends the Criminal Code of 2012. Repeals provisions providing that participants in certain fantasy contests shall not be convicted of gambling. Effective immediately.",
-      "last_action": "Added Co-Sponsor Rep. Steven Reick",
-      "last_action_date": "2026-09-17",
-      "session": "104th General Assembly",
       "state": "IL",
-      "state_link": "https://www.ilga.gov/Legislation/BillStatus?DocNum=5814&GAID=18&DocTypeID=HB&LegId=168901&SessionID=114",
+      "bill_number": "HB5814",
+      "title": "SPORTS WAGERING-FANTASY MKT",
+      "description": "Amends the Sports Wagering Act. Repeals provisions concerning an exchange wager transaction tax. Repeals the following provisions concerning fantasy contests: (1) provisions providing that fantasy contests do not constitute gambling; (2) provisions concerning licensure of fantasy contest operators; and (3) provisions imposing a privilege tax on the privilege of holding a license to operate fantasy contests under the Act. Amends the Criminal Code of 2012. Repeals provisions providing that participants in certain fantasy contests shall not be convicted of gambling. Effective immediately.",
       "status": 1,
       "status_date": "2026-09-14",
-      "title": "SPORTS WAGERING-FANTASY MKT",
+      "last_action": "Added Co-Sponsor Rep. Dave Severin",
+      "last_action_date": "2026-10-02",
       "url": "https://legiscan.com/IL/bill/HB5814/2025",
+      "state_link": "https://www.ilga.gov/Legislation/BillStatus?DocNum=5814&GAID=18&DocTypeID=HB&LegId=168901&SessionID=114",
+      "session": "104th General Assembly",
       "bill_id": "2158533",
-      "change_hash": "b0541a386e12907761fea0f84ead5e12",
+      "change_hash": "8e139424d5b91e0cb1092f2990c0611f",
       "relevance": 95,
       "matched": [
         "\"games of skill\"",
@@ -3445,19 +3422,19 @@
       "subject_terms": []
     },
     {
-      "bill_number": "SB2822",
-      "description": "Reinserts the provisions of Senate Amendment No. 1 with the following changes. Creates the Digital Purchase Transparency Act. Reinserts the provisions of Senate Amendment No. 1 as the provisions of the Act. Provides that a violation of any of the provisions of the Act is an unlawful practice under the Consumer Fraud and Deceptive Business Practices Act. Amends the Consumer Fraud and Deceptive Business Practices Act to make a conforming change.",
-      "last_action": "Added Alternate Co-Sponsor Rep. Camille Y. Lilly",
-      "last_action_date": "2026-05-21",
-      "session": "104th General Assembly",
       "state": "IL",
-      "state_link": "https://www.ilga.gov/Legislation/BillStatus?DocNum=2822&GAID=18&DocTypeID=SB&LegId=165018&SessionID=114",
+      "bill_number": "SB2822",
+      "title": "DIGITAL PURCHASE DISCLOSURES",
+      "description": "Reinserts the provisions of Senate Amendment No. 1 with the following changes. Creates the Digital Purchase Transparency Act. Reinserts the provisions of Senate Amendment No. 1 as the provisions of the Act. Provides that a violation of any of the provisions of the Act is an unlawful practice under the Consumer Fraud and Deceptive Business Practices Act. Amends the Consumer Fraud and Deceptive Business Practices Act to make a conforming change.",
       "status": 2,
       "status_date": "2026-05-07",
-      "title": "DIGITAL PURCHASE DISCLOSURES",
+      "last_action": "Alternate Chief Sponsor Changed to Rep. Jay Hoffman",
+      "last_action_date": "2026-10-27",
       "url": "https://legiscan.com/IL/bill/SB2822/2025",
+      "state_link": "https://www.ilga.gov/Legislation/BillStatus?DocNum=2822&GAID=18&DocTypeID=SB&LegId=165018&SessionID=114",
+      "session": "104th General Assembly",
       "bill_id": "2073342",
-      "change_hash": "2db3746596099ec040081d186bb8b88d",
+      "change_hash": "049edbd10c43a1e3fd0873f258295386",
       "relevance": 92,
       "matched": [
         "\"electronic gaming device\""
@@ -3500,7 +3477,7 @@
       "url": "https://legiscan.com/IL/bill/SB3394/2025",
       "bill_id": "2107648",
       "change_hash": "3323a340f1de8191f7f3a5acfe63ea34",
-      "relevance": 90,
+      "relevance": 91,
       "matched": [
         "\"video gaming terminal\""
       ],
@@ -3629,7 +3606,7 @@
       "url": "https://legiscan.com/KS/bill/HB2515/2025",
       "bill_id": "2090720",
       "change_hash": "612f3f5de3281ee72bc1c8d84a5e2ec5",
-      "relevance": 82,
+      "relevance": 81,
       "matched": [
         "\"sweepstakes\""
       ],
@@ -3776,7 +3753,7 @@
       "url": "https://legiscan.com/MA/bill/H1/2025",
       "bill_id": "1935328",
       "change_hash": "7b6b1fdfacfa5bb1b46c75ee26d088c2",
-      "relevance": 55,
+      "relevance": 54,
       "matched": [
         "\"amusement device\""
       ],
@@ -3924,7 +3901,7 @@
       "url": "https://legiscan.com/MA/bill/H5500/2025",
       "bill_id": "2143341",
       "change_hash": "f20fd73b107ef511d2c1a0166032eae3",
-      "relevance": 44,
+      "relevance": 43,
       "matched": [
         "\"amusement device\""
       ],
@@ -4029,7 +4006,7 @@
       "url": "https://legiscan.com/MA/bill/S4/2025",
       "bill_id": "2148107",
       "change_hash": "b8266fdec7cb50e4df05deedf9319f0f",
-      "relevance": 43,
+      "relevance": 42,
       "matched": [
         "\"amusement device\""
       ],
@@ -4115,7 +4092,7 @@
       "url": "https://legiscan.com/MD/bill/SB884/2026",
       "bill_id": "2112621",
       "change_hash": "70a32837fd201e2c892241133417e32a",
-      "relevance": 83,
+      "relevance": 82,
       "matched": [
         "\"sweepstakes\""
       ],
@@ -4179,7 +4156,7 @@
       "url": "https://legiscan.com/MN/bill/HF1842/2025",
       "bill_id": "1989922",
       "change_hash": "524e4bf445d005136ab2c9feb5f8668b",
-      "relevance": 94,
+      "relevance": 93,
       "matched": [
         "\"skill game\""
       ],
@@ -4221,7 +4198,7 @@
       "url": "https://legiscan.com/MN/bill/HF357/2025",
       "bill_id": "1969986",
       "change_hash": "9a8f6269c7a72931121a4ab5da73002d",
-      "relevance": 91,
+      "relevance": 90,
       "matched": [
         "\"skill game\""
       ],
@@ -4390,7 +4367,7 @@
       "url": "https://legiscan.com/MN/bill/SF757/2025",
       "bill_id": "1946932",
       "change_hash": "48caa5c653c3d0feed4fe5160b19de4b",
-      "relevance": 94,
+      "relevance": 93,
       "matched": [
         "\"skill game\""
       ],
@@ -4537,7 +4514,7 @@
       "url": "https://legiscan.com/MS/bill/HB1625/2026",
       "bill_id": "2089334",
       "change_hash": "82d4377f00df10f9abab303f5c0b8e9e",
-      "relevance": 86,
+      "relevance": 85,
       "matched": [
         "\"sweepstakes\""
       ],
@@ -4768,7 +4745,7 @@
       "url": "https://legiscan.com/NC/bill/S257/2025",
       "bill_id": "1996111",
       "change_hash": "83740db680156a1dbadf2701ff8168eb",
-      "relevance": 67,
+      "relevance": 66,
       "matched": [
         "\"amusement device\""
       ],
@@ -4831,7 +4808,7 @@
       "url": "https://legiscan.com/NE/bill/LB1001/2025",
       "bill_id": "2072228",
       "change_hash": "f7833d2a01dd9223674504342dd4ea93",
-      "relevance": 99,
+      "relevance": 98,
       "matched": [
         "\"amusement device\"",
         "\"electronic gaming device\""
@@ -5021,7 +4998,7 @@
       "url": "https://legiscan.com/NE/bill/LB264/2025",
       "bill_id": "1919656",
       "change_hash": "7bf02fc3db0fdd07bcad779d76583a4c",
-      "relevance": 63,
+      "relevance": 62,
       "matched": [
         "\"amusement device\""
       ],
@@ -5400,7 +5377,7 @@
       "url": "https://legiscan.com/NJ/bill/S4404/2026",
       "bill_id": "2152481",
       "change_hash": "cabf8d8e9042b2a6d12533b94a4dd992",
-      "relevance": 80,
+      "relevance": 79,
       "matched": [
         "\"games of skill\""
       ],
@@ -5613,7 +5590,7 @@
       "url": "https://legiscan.com/OH/bill/HB617/2025",
       "bill_id": "2055208",
       "change_hash": "48f7fff04929c1373c5d3bb354f4f700",
-      "relevance": 69,
+      "relevance": 68,
       "matched": [
         "\"sweepstakes\""
       ],
@@ -5676,7 +5653,7 @@
       "url": "https://legiscan.com/OH/bill/HB96/2025",
       "bill_id": "1966320",
       "change_hash": "5cd63ea54a15f20aea9338c3a785fef7",
-      "relevance": 61,
+      "relevance": 60,
       "matched": [
         "\"amusement machine\"",
         "\"sweepstakes\""
@@ -5749,19 +5726,19 @@
       "subject_terms": []
     },
     {
-      "bill_number": "SB479",
-      "description": "To amend section 2915.01 of the Revised Code to specify that betting on elections constitutes prohibited gambling.",
-      "last_action": "Introduced",
-      "last_action_date": "2026-10-13",
-      "session": "136th General Assembly",
       "state": "OH",
-      "state_link": "https://www.legislature.ohio.gov/legislation/136/sb479",
+      "bill_number": "SB479",
+      "title": "Specify that betting on elections constitutes prohibited gambling",
+      "description": "To amend section 2915.01 of the Revised Code to specify that betting on elections constitutes prohibited gambling.",
       "status": 1,
       "status_date": "2026-10-13",
-      "title": "Specify that betting on elections constitutes prohibited gambling",
+      "last_action": "Referred to committee: General Government",
+      "last_action_date": "2026-11-10",
       "url": "https://legiscan.com/OH/bill/SB479/2025",
+      "state_link": "https://www.legislature.ohio.gov/legislation/136/sb479",
+      "session": "136th General Assembly",
       "bill_id": "2160318",
-      "change_hash": "7b4a3314f9f836e82caca753e2ffb92d",
+      "change_hash": "66bd14c033be71944330e03f3e78c44b",
       "relevance": 99,
       "matched": [
         "\"amusement machine\"",
@@ -5852,27 +5829,6 @@
       "relevance": 92,
       "matched": [
         "\"electronic gaming device\""
-      ],
-      "tier": "secondary",
-      "subject_terms": []
-    },
-    {
-      "bill_number": "H3924",
-      "description": "Amend The South Carolina Code Of Laws By Adding Chapter 56 To Title 46 So As To Regulate The Sale Of Hemp-derived Consumables, Among Other Things.",
-      "last_action": "Roll call Ayes-27 Nays-11",
-      "last_action_date": "2026-06-25",
-      "session": "126th General Assembly",
-      "state": "SC",
-      "state_link": "https://www.scstatehouse.gov/billsearch.php?billnumbers=3924&session=126&summary=B",
-      "status": 2,
-      "status_date": "2025-04-10",
-      "title": "Hemp-derived ingestible",
-      "url": "https://legiscan.com/SC/bill/H3924/2025",
-      "bill_id": "1959298",
-      "change_hash": "8abe7d6fa90cef05133032e75fec6053",
-      "relevance": 40,
-      "matched": [
-        "\"sweepstakes\""
       ],
       "tier": "secondary",
       "subject_terms": []
@@ -6122,7 +6078,7 @@
       "url": "https://legiscan.com/TN/bill/HR0073/2025",
       "bill_id": "2017420",
       "change_hash": "61d6d1db759d08ea252d87553e86901a",
-      "relevance": 83,
+      "relevance": 82,
       "matched": [
         "\"sweepstakes\""
       ],
@@ -6143,7 +6099,7 @@
       "url": "https://legiscan.com/TN/bill/HR0193/2025",
       "bill_id": "2142491",
       "change_hash": "6add615fe353cfea1fca27d41e769ea5",
-      "relevance": 83,
+      "relevance": 82,
       "matched": [
         "\"sweepstakes\""
       ],
@@ -6896,7 +6852,7 @@
       "url": "https://legiscan.com/WI/bill/AB606/2025",
       "bill_id": "2047792",
       "change_hash": "ef5be2e3363f386710118e01ea0e09d5",
-      "relevance": 82,
+      "relevance": 81,
       "matched": [
         "\"sweepstakes\""
       ],
@@ -6938,7 +6894,7 @@
       "url": "https://legiscan.com/WI/bill/SB681/2025",
       "bill_id": "2055109",
       "change_hash": "a683ffe15ac2e43d6eae1e0a0e7ab755",
-      "relevance": 82,
+      "relevance": 81,
       "matched": [
         "\"sweepstakes\""
       ],
