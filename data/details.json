@@ -3694,8 +3694,8 @@
   "2142289": {
     "bill_number": "B26-0656",
     "description": "As introduced, Bill 26-656 would authorizing and regulate internet gaming in the District of Columbia. It would establish a comprehensive licensing, consumer protection, responsible gaming, taxation, reporting, and enforcement framework administered by the Office of Lottery and Gaming. It would require Certified Business Enterprise participation plans for internet gaming operators and establish a Community Reinvestment Fund.",
-    "last_action": "Public Hearing Held",
-    "last_action_date": "2026-05-04",
+    "last_action": "Committee Mark-up of B26-0656",
+    "last_action_date": "2026-11-18",
     "session": "26th Council",
     "state": "DC",
     "state_link": "https://lims.dccouncil.gov/Legislation/B26-0656",
@@ -4054,5 +4054,31 @@
     "status_date": "2026-10-27",
     "title": "Providing for consumer rights in digital games; imposing a penalty; and providing for severability.",
     "url": "https://legiscan.com/PA/bill/SB1506/2025"
+  },
+  "2163402": {
+    "bill_number": "SB4219",
+    "description": "Amends the Video Gaming Act. On and after July 1, 2027, requires each licensed establishment at which video gaming terminals are available to offer patrons the option to conduct wagering and redeem winnings through a cashless wagering and redemption system approved by the Illinois Gaming Board. Provides that cashless wagering and redemption shall be optional for patrons. Requires the Board to adopt rules necessary to implement the cashless wagering and redemption provisions by July 1, 2027. Provides that specified requirements concerning cash awards do not apply to any system of cashless wagering and redemption offered by a licensed establishment. Effective immediately.",
+    "last_action": "Referred to Assignments",
+    "last_action_date": "2026-11-13",
+    "session": "104th General Assembly",
+    "state": "IL",
+    "state_link": "https://www.ilga.gov/Legislation/BillStatus?DocNum=4219&GAID=18&DocTypeID=SB&LegId=168857&SessionID=114",
+    "status": 1,
+    "status_date": "2026-11-13",
+    "title": "VIDEO GAMING-CASHLESS WAGERING",
+    "url": "https://legiscan.com/IL/bill/SB4219/2025"
+  },
+  "2163488": {
+    "bill_number": "SB4231",
+    "description": "Amends the Sports Wagering Act. Repeals provisions concerning an exchange wager transaction tax. Repeals the following provisions concerning fantasy contests: (1) provisions providing that fantasy contests do not constitute gambling; (2) provisions concerning licensure of fantasy contest operators; and (3) provisions imposing a privilege tax on the privilege of holding a license to operate fantasy contests under the Act. Amends the Criminal Code of 2012. Repeals provisions providing that participants in certain fantasy contests shall not be convicted of gambling. Effective immediately.",
+    "last_action": "Referred to Assignments",
+    "last_action_date": "2026-11-13",
+    "session": "104th General Assembly",
+    "state": "IL",
+    "state_link": "https://www.ilga.gov/Legislation/BillStatus?DocNum=4231&GAID=18&DocTypeID=SB&LegId=168932&SessionID=114",
+    "status": 1,
+    "status_date": "2026-11-13",
+    "title": "SPORTS WAGERING-FANTASY MKT",
+    "url": "https://legiscan.com/IL/bill/SB4231/2025"
   }
 }
