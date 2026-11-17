@@ -1,5 +1,5 @@
 {
-  "generated_utc": "2026-11-16T19:45:36+00:00",
+  "generated_utc": "2026-11-17T18:42:32+00:00",
   "first_run": false,
   "keywords": [
     "\"skill game\"",
@@ -20,84 +20,14 @@
     "matching": 314,
     "primary": 87,
     "secondary": 227,
-    "new": 2,
-    "new_primary": 1,
-    "changed": 1,
+    "new": 0,
+    "new_primary": 0,
+    "changed": 0,
     "changed_primary": 0,
     "no_longer_matching": 0
   },
-  "new": [
-    {
-      "state": "IL",
-      "bill_number": "SB4219",
-      "title": "VIDEO GAMING-CASHLESS WAGERING",
-      "description": "Amends the Video Gaming Act. On and after July 1, 2027, requires each licensed establishment at which video gaming terminals are available to offer patrons the option to conduct wagering and redeem winnings through a cashless wagering and redemption system approved by the Illinois Gaming Board. Provides that cashless wagering and redemption shall be optional for patrons. Requires the Board to adopt rules necessary to implement the cashless wagering and redemption provisions by July 1, 2027. Provides that specified requirements concerning cash awards do not apply to any system of cashless wagering and redemption offered by a licensed establishment. Effective immediately.",
-      "status": 1,
-      "status_date": "2026-11-13",
-      "last_action": "Referred to Assignments",
-      "last_action_date": "2026-11-13",
-      "url": "https://legiscan.com/IL/bill/SB4219/2025",
-      "state_link": "https://www.ilga.gov/Legislation/BillStatus?DocNum=4219&GAID=18&DocTypeID=SB&LegId=168857&SessionID=114",
-      "session": "104th General Assembly",
-      "bill_id": "2163402",
-      "change_hash": "6e4bfb5ecf02ff141da189c7de8216b1",
-      "relevance": 98,
-      "matched": [
-        "\"video gaming terminal\""
-      ],
-      "tier": "primary",
-      "subject_terms": [
-        "video gaming terminal",
-        "video gaming"
-      ]
-    },
-    {
-      "state": "IL",
-      "bill_number": "SB4231",
-      "title": "SPORTS WAGERING-FANTASY MKT",
-      "description": "Amends the Sports Wagering Act. Repeals provisions concerning an exchange wager transaction tax. Repeals the following provisions concerning fantasy contests: (1) provisions providing that fantasy contests do not constitute gambling; (2) provisions concerning licensure of fantasy contest operators; and (3) provisions imposing a privilege tax on the privilege of holding a license to operate fantasy contests under the Act. Amends the Criminal Code of 2012. Repeals provisions providing that participants in certain fantasy contests shall not be convicted of gambling. Effective immediately.",
-      "status": 1,
-      "status_date": "2026-11-13",
-      "last_action": "Referred to Assignments",
-      "last_action_date": "2026-11-13",
-      "url": "https://legiscan.com/IL/bill/SB4231/2025",
-      "state_link": "https://www.ilga.gov/Legislation/BillStatus?DocNum=4231&GAID=18&DocTypeID=SB&LegId=168932&SessionID=114",
-      "session": "104th General Assembly",
-      "bill_id": "2163488",
-      "change_hash": "783f33fd809b6299333270e2c068e0a3",
-      "relevance": 95,
-      "matched": [
-        "\"games of skill\"",
-        "\"video gaming terminal\""
-      ],
-      "tier": "secondary",
-      "subject_terms": []
-    }
-  ],
-  "changed": [
-    {
-      "state": "DC",
-      "bill_number": "B26-0656",
-      "title": "Internet Gaming and Consumer Protection Act of 2026",
-      "description": "As introduced, Bill 26-656 would authorizing and regulate internet gaming in the District of Columbia. It would establish a comprehensive licensing, consumer protection, responsible gaming, taxation, reporting, and enforcement framework administered by the Office of Lottery and Gaming. It would require Certified Business Enterprise participation plans for internet gaming operators and establish a Community Reinvestment Fund.",
-      "status": 1,
-      "status_date": "2026-04-09",
-      "last_action": "Committee Mark-up of B26-0656",
-      "last_action_date": "2026-11-18",
-      "url": "https://legiscan.com/DC/bill/B26-0656/2025",
-      "state_link": "https://lims.dccouncil.gov/Legislation/B26-0656",
-      "session": "26th Council",
-      "bill_id": "2142289",
-      "change_hash": "2e67716f4e639b1daa0b5c19391ab174",
-      "relevance": 96,
-      "matched": [
-        "\"dual currency\"",
-        "\"sweepstakes\""
-      ],
-      "tier": "secondary",
-      "subject_terms": []
-    }
-  ],
+  "new": [],
+  "changed": [],
   "no_longer_matching": [],
   "errors": [],
   "attribution": "LegiScan API by LegiScan LLC, licensed under CC BY 4.0"
