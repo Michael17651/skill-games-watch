@@ -1,5 +1,5 @@
 {
-  "generated_utc": "2026-11-17T18:42:32+00:00",
+  "generated_utc": "2026-11-18T18:18:27+00:00",
   "first_run": false,
   "keywords": [
     "\"skill game\"",
@@ -22,12 +22,56 @@
     "secondary": 227,
     "new": 0,
     "new_primary": 0,
-    "changed": 0,
+    "changed": 2,
     "changed_primary": 0,
     "no_longer_matching": 0
   },
   "new": [],
-  "changed": [],
+  "changed": [
+    {
+      "state": "IL",
+      "bill_number": "HB4885",
+      "title": "CRIM CD-GAMBLING LOSS-FANTASY",
+      "description": "Amends the Criminal Code of 2012. Makes a technical change in a Section concerning the short title.",
+      "status": 2,
+      "status_date": "2026-04-14",
+      "last_action": "Placed on Calendar Order of 3rd Reading November 18, 2026",
+      "last_action_date": "2026-11-17",
+      "url": "https://legiscan.com/IL/bill/HB4885/2025",
+      "state_link": "https://www.ilga.gov/Legislation/BillStatus?DocNum=4885&GAID=18&DocTypeID=HB&LegId=166175&SessionID=114",
+      "session": "104th General Assembly",
+      "bill_id": "2104996",
+      "change_hash": "2fe968e1d04b19ff7d0970c415466b6b",
+      "relevance": 95,
+      "matched": [
+        "\"video gaming terminal\""
+      ],
+      "tier": "secondary",
+      "subject_terms": []
+    },
+    {
+      "state": "IL",
+      "bill_number": "HB5814",
+      "title": "SPORTS WAGERING-FANTASY MKT",
+      "description": "Amends the Sports Wagering Act. Repeals provisions concerning an exchange wager transaction tax. Repeals the following provisions concerning fantasy contests: (1) provisions providing that fantasy contests do not constitute gambling; (2) provisions concerning licensure of fantasy contest operators; and (3) provisions imposing a privilege tax on the privilege of holding a license to operate fantasy contests under the Act. Amends the Criminal Code of 2012. Repeals provisions providing that participants in certain fantasy contests shall not be convicted of gambling. Effective immediately.",
+      "status": 1,
+      "status_date": "2026-09-14",
+      "last_action": "Referred to Rules Committee",
+      "last_action_date": "2026-11-17",
+      "url": "https://legiscan.com/IL/bill/HB5814/2025",
+      "state_link": "https://www.ilga.gov/Legislation/BillStatus?DocNum=5814&GAID=18&DocTypeID=HB&LegId=168901&SessionID=114",
+      "session": "104th General Assembly",
+      "bill_id": "2158533",
+      "change_hash": "f42ab0aaac8ce4d8fcc93a12a543f523",
+      "relevance": 95,
+      "matched": [
+        "\"games of skill\"",
+        "\"video gaming terminal\""
+      ],
+      "tier": "secondary",
+      "subject_terms": []
+    }
+  ],
   "no_longer_matching": [],
   "errors": [],
   "attribution": "LegiScan API by LegiScan LLC, licensed under CC BY 4.0"
