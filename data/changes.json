@@ -1,5 +1,5 @@
 {
-  "generated_utc": "2026-11-24T20:17:30+00:00",
+  "generated_utc": "2026-11-25T19:30:31+00:00",
   "first_run": false,
   "keywords": [
     "\"skill game\"",
@@ -22,34 +22,12 @@
     "secondary": 227,
     "new": 0,
     "new_primary": 0,
-    "changed": 1,
+    "changed": 0,
     "changed_primary": 0,
     "no_longer_matching": 0
   },
   "new": [],
-  "changed": [
-    {
-      "state": "NJ",
-      "bill_number": "S4227",
-      "title": "Prohibits fur farming.",
-      "description": "Prohibits fur farming.",
-      "status": 1,
-      "status_date": "2026-05-14",
-      "last_action": "Introduced in the Senate, Referred to Senate Economic Growth Committee",
-      "last_action_date": "2026-05-14",
-      "url": "https://legiscan.com/NJ/bill/S4227/2026",
-      "state_link": "https://www.njleg.state.nj.us/bill-search/2026/S4227",
-      "session": "2026-2027 Regular Session",
-      "bill_id": "2148964",
-      "change_hash": "12cbf8e678ccacbb0b16fe3f156272a2",
-      "relevance": 92,
-      "matched": [
-        "\"amusement device\""
-      ],
-      "tier": "secondary",
-      "subject_terms": []
-    }
-  ],
+  "changed": [],
   "no_longer_matching": [],
   "errors": [],
   "attribution": "LegiScan API by LegiScan LLC, licensed under CC BY 4.0"
