@@ -1,5 +1,5 @@
 {
-  "generated_utc": "2026-11-25T19:30:31+00:00",
+  "generated_utc": "2026-11-26T19:12:58+00:00",
   "count": 314,
   "bills": [
     {
@@ -3201,7 +3201,7 @@
       "url": "https://legiscan.com/IL/bill/HB2992/2025",
       "bill_id": "1959018",
       "change_hash": "3baf0c33e2aee6e87215c5d89305d873",
-      "relevance": 44,
+      "relevance": 45,
       "matched": [
         "\"amusement device\""
       ],
